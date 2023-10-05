@@ -11,7 +11,7 @@ class ComicRaindropIOHandler(RaindropIOHandler):
         super().__init__(token, collection_id)
 
     def get(self) -> list:
-        urls = self._RaindropIOHandler__get_site_urls()
+        urls = self._get_site_urls()
         feed_urls = []
         for url in urls:
             if self.__is_supported(url):

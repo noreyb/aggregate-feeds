@@ -43,7 +43,7 @@ class RaindropIOHandler(IFeedURLs):
             items += resp.json()["items"]
         return items
 
-    def __get_site_urls(self) -> list:
+    def _get_site_urls(self) -> list:
         items = self.__get_items()
 
         urls = []

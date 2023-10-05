@@ -7,8 +7,9 @@ from repository.interface.feed_urls import IFeedURLs
 
 
 class GithubIOHandler(IFeedURLs):
-    def __init__(self):
-        pass
+    def __init__(self, base_url: str, endpoint: str):
+        self.base_url = base_url
+        self.endpoint = endpoint
 
     def get(self) -> list:
         resp = requests.get(

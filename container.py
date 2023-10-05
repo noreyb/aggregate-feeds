@@ -15,6 +15,8 @@ class BooruContainer(containers.DeclarativeContainer):
     config = providers.Configuration()
     feed_url_handler: IFeedURLs = providers.Factory(
         GithubIOHandler,
+        base_url=config.base_url,
+        endpoint=config.endpoint,
     )
     aggregate_feed: IAggregateFeed = providers.Factory(
         BooruAggregateFeed,
@@ -46,9 +48,9 @@ class ComicContainer(containers.DeclarativeContainer):
 class KemonoContainer(containers.DeclarativeContainer):
     config = providers.Configuration()
     feed_url_handler: IFeedURLs = providers.Factory(
-        ComicRaindropIOHandler,
-        token=config.token,
-        collection_id=config.collection_id,
+        GithubIOHandler,
+        base_url=config.base_url,
+        endpoint=config.endpoint,
     )
     aggregate_feed: IAggregateFeed = providers.Factory(
         KemonoAggregateFeed,

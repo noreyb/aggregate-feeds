@@ -45,7 +45,6 @@ class RaindropIOHandler(IFeedURLs):
 
     def _get_site_urls(self) -> list:
         items = self.__get_items()
-
         urls = []
         for item in items:
             urls.append(item["link"])

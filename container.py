@@ -11,77 +11,67 @@ from usecase.interface.aggregate_feed import IAggregateFeed
 from usecase.kemono_aggregate import KemonoAggregateFeed
 
 
-class FediverseContainer(containers.DeclarativeContainer):
+class BooruContainer(containers.DeclarativeContainer):
     config = providers.Configuration()
-
     feed_url_handler: IFeedURLs = providers.Factory(
-        FediverseRaindropIOHandler,
-        base_url=config.fediverse_raindropio.base_url,
-        endpoint=config.fediverse_raindropio.endpoint,
+        GithubIOHandler,
     )
-
     aggregate_feed: IAggregateFeed = providers.Factory(
-        FediverseAggregateFeed,
+        BooruAggregateFeed,
         feed_url_handler=feed_url_handler,
-        output_path=config.fediverse_raindropio.output_path,
-        title=config.fediverse_raindropio.title,
-        link=config.fediverse_raindropio.link,
-        description=config.fediverse_raindropio.description,
+        output_path=config.output_path,
+        title=config.title,
+        link=config.link,
+        description=config.description,
     )
 
 
 class ComicContainer(containers.DeclarativeContainer):
     config = providers.Configuration()
-
     feed_url_handler: IFeedURLs = providers.Factory(
         ComicRaindropIOHandler,
-        base_url=config.comic_raindropio.base_url,
-        endpoint=config.comic_raindropio.endpoint,
+        token=config.token,
+        collection_id=config.collection_id,
     )
-
     aggregate_feed: IAggregateFeed = providers.Factory(
         ComicAggregateFeed,
         feed_url_handler=feed_url_handler,
-        output_path=config.comic_raindropio.output_path,
-        title=config.comic_raindropio.title,
-        link=config.comic_raindropio.link,
-        description=config.comic_raindropio.description,
-    )
-
-
-class BooruContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-
-    feed_url_handler: IFeedURLs = providers.Factory(
-        GithubIOHandler,
-        base_url=config.booru_raindropio.base_url,
-        endpoint=config.booru_raindropio.endpoint,
-    )
-
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        BooruAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.booru_raindropio.output_path,
-        title=config.booru_raindropio.title,
-        link=config.booru_raindropio.link,
-        description=config.booru_raindropio.description,
+        output_path=config.output_path,
+        title=config.title,
+        link=config.link,
+        description=config.description,
     )
 
 
 class KemonoContainer(containers.DeclarativeContainer):
     config = providers.Configuration()
-
     feed_url_handler: IFeedURLs = providers.Factory(
-        GithubIOHandler,
-        base_url=config.kemono_raindropio.base_url,
-        endpoint=config.kemono_raindropio.endpoint,
+        ComicRaindropIOHandler,
+        token=config.token,
+        collection_id=config.collection_id,
     )
-
     aggregate_feed: IAggregateFeed = providers.Factory(
         KemonoAggregateFeed,
         feed_url_handler=feed_url_handler,
-        output_path=config.kemono_raindropio.output_path,
-        title=config.kemono_raindropio.title,
-        link=config.kemono_raindropio.link,
-        description=config.kemono_raindropio.description,
+        output_path=config.output_path,
+        title=config.title,
+        link=config.link,
+        description=config.description,
+    )
+
+
+class FediverseContainer(containers.DeclarativeContainer):
+    config = providers.Configuration()
+    feed_url_handler: IFeedURLs = providers.Factory(
+        FediverseRaindropIOHandler,
+        token=config.token,
+        collection_id=config.collection_id,
+    )
+    aggregate_feed: IAggregateFeed = providers.Factory(
+        FediverseAggregateFeed,
+        feed_url_handler=feed_url_handler,
+        output_path=config.output_path,
+        title=config.title,
+        link=config.link,
+        description=config.description,
     )

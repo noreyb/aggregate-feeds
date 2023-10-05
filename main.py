@@ -10,6 +10,7 @@ from container import (
     KemonoContainer,
 )
 
+
 def _get_wired_app(
     container, output_path: str, title: str, link: str, description: str
 ):

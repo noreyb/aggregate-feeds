@@ -8,6 +8,7 @@ from container import (
     ComicContainer,
     FediverseContainer,
     KemonoContainer,
+    NitterContainer,
 )
 
 
@@ -88,6 +89,22 @@ def fediverse():
         "agg-fediverse",
         "https://noreyb.github.io/agg-feed",
         "fediverse",
+    )
+    container.config.random_page.from_value(True)
+    feed_aggregate.run()
+
+
+@cli.command()
+def nitter():
+    container = NitterContainer()
+    container.config.token.from_env("RAINDROP_TOKEN")
+    container.config.collection_id.from_env("RAINDROP_NITTER")
+    feed_aggregate = _get_wired_app(
+        container,
+        "./output/nitter.xml",
+        "agg-nitter",
+        "https://noreyb.github.io/agg-feed",
+        "nitter",
     )
     container.config.random_page.from_value(True)
     feed_aggregate.run()

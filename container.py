@@ -4,11 +4,13 @@ from repository.comic_raindropio import ComicRaindropIOHandler
 from repository.fediverse_raindropio import FediverseRaindropIOHandler
 from repository.githubio import GithubIOHandler
 from repository.interface.feed_urls import IFeedURLs
+from repository.nitter_raindropio import NitterRaindropIOHandler
 from usecase.booru_aggregate import BooruAggregateFeed
 from usecase.comic_aggregate import ComicAggregateFeed
 from usecase.fediverse_aggregate import FediverseAggregateFeed
 from usecase.interface.aggregate_feed import IAggregateFeed
 from usecase.kemono_aggregate import KemonoAggregateFeed
+from usecase.nitter_aggregate import NitterAggregateFeed
 
 
 class BooruContainer(containers.DeclarativeContainer):
@@ -73,6 +75,24 @@ class FediverseContainer(containers.DeclarativeContainer):
     )
     aggregate_feed: IAggregateFeed = providers.Factory(
         FediverseAggregateFeed,
+        feed_url_handler=feed_url_handler,
+        output_path=config.output_path,
+        title=config.title,
+        link=config.link,
+        description=config.description,
+    )
+
+
+class NitterContainer(containers.DeclarativeContainer):
+    config = providers.Configuration()
+    feed_url_handler: IFeedURLs = providers.Factory(
+        NitterRaindropIOHandler,
+        token=config.token,
+        collection_id=config.collection_id,
+        random_page=config.random_page,
+    )
+    aggregate_feed: IAggregateFeed = providers.Factory(
+        NitterAggregateFeed,
         feed_url_handler=feed_url_handler,
         output_path=config.output_path,
         title=config.title,

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[10Pショート読切] 僕等のポドンヌ</title>
             <link>https://tonarinoyj.jp/episode/14079602755245020616</link>
@@ -2162,6 +2162,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361192121329-27f4b7a150f9ee8100123ffb17877e13" />
         </item>
         <item>
+            <title>[#009]ぼくと海彼女</title>
+            <link>https://shonenjumpplus.com/episode/14079602755278383996</link>
+            <description>ぼくと海彼女</description>
+            <pubDate>Fri, 06 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755278383996-8c621fea3bdbd484548013cc10a034d1" />
+        </item>
+        <item>
             <title>[#008]ぼくと海彼女</title>
             <link>https://shonenjumpplus.com/episode/14079602755227529540</link>
             <description>ぼくと海彼女</description>
@@ -2174,13 +2181,6 @@
             <description>ぼくと海彼女</description>
             <pubDate>Fri, 08 Sep 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755174117616-fb73a839db3057618a1eafc08485e798" />
-        </item>
-        <item>
-            <title>[#006]ぼくと海彼女</title>
-            <link>https://shonenjumpplus.com/episode/14079602755160305839</link>
-            <description>ぼくと海彼女</description>
-            <pubDate>Fri, 01 Sep 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755160305839-a1ce24944ccc9764098e79581fe0087c" />
         </item>
         <item>
             <title>[#003]ぼくと海彼女</title>
@@ -2202,6 +2202,13 @@
             <description>ぼくと海彼女</description>
             <pubDate>Fri, 28 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361557403399-e3eb8f7366090659dde6d7eabc00359c" />
+        </item>
+        <item>
+            <title>[特別編3]少女Null</title>
+            <link>https://shonenjumpplus.com/episode/14079602755278383575</link>
+            <description>少女Null</description>
+            <pubDate>Fri, 06 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755278383575-649f6a614458a04a99dd9d4707f149e4" />
         </item>
         <item>
             <title>[第7話]少女Null</title>
@@ -2419,6 +2426,13 @@
             <description>天地ミッション</description>
             <pubDate>Wed, 02 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361580984951-6de9f49130f5be12fd9b1931a9ea67c0" />
+        </item>
+        <item>
+            <title>第十一羽</title>
+            <link>https://comic-ogyaaa.com/episode/14079602755274369534</link>
+            <description>蟲姫 完全版</description>
+            <pubDate>Fri, 06 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755274369534-5d7118e227d2e8e0e4adb86571dfc521" />
         </item>
         <item>
             <title>第十羽</title>

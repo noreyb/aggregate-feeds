@@ -4,7 +4,7 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:29:17 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:42:21 +0000</lastBuildDate>
         <item>
             <title>New note by もち:skeb::twitter:</title>
             <link>https://misskey.io/notes/9khb23i1jz</link>
@@ -994,6 +994,13 @@ https://fantia.jp/posts/2193679</description>
         </item>
         <item>
             <title>New note by ヨシタマ🔞</title>
+            <link>https://misskey.io/notes/9khmk6omy2</link>
+            <description>朝日も来てくれて今イベの掘り完了～。 #艦これ</description>
+            <pubDate>Fri, 06 Oct 2023 03:42:21 +0000</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://media.misskeyusercontent.com/io/39bfa672-c25e-418a-b4ac-acf46326eeda.jpg" />
+        </item>
+        <item>
+            <title>New note by ヨシタマ🔞</title>
             <link>https://misskey.io/notes/9kggwpk1z6</link>
             <description>スポーティ山風。 #艦これ</description>
             <pubDate>Thu, 05 Oct 2023 08:16:22 +0000</pubDate>
@@ -1124,13 +1131,6 @@ https://fantia.jp/posts/2193679</description>
             <description>巻波ちゃんに見せつけてみる。 #艦これ</description>
             <pubDate>Sun, 24 Sep 2023 08:46:50 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-6a1c604d-5f3d-46e4-923e-998f874eefdb.webp" />
-        </item>
-        <item>
-            <title>New note by ヨシタマ🔞</title>
-            <link>https://misskey.io/notes/9jzqe9vwoy</link>
-            <description>萩風。 #艦これ</description>
-            <pubDate>Sat, 23 Sep 2023 15:09:53 +0000</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://media.misskeyusercontent.com/io/513b556b-c8eb-4eea-a43d-49dc80a18720.jpg" />
         </item>
         <item>
             <title>New note by om_hikky</title>

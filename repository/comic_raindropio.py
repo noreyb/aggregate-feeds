@@ -7,11 +7,12 @@ from repository.raindropio import RaindropIOHandler
 
 
 class ComicRaindropIOHandler(RaindropIOHandler):
-    def __init__(self, token: str, collection_id: str) -> None:
-        super().__init__(token, collection_id)
+    def __init__(self, token: str, collection_id: str, random_page: bool) -> None:
+        super().__init__(token, collection_id, random_page)
 
     def get(self) -> list:
         urls = self._get_site_urls()
+        print(urls)
         feed_urls = []
         for url in urls:
             if self.__is_supported(url):
@@ -44,7 +45,9 @@ class ComicRaindropIOHandler(RaindropIOHandler):
             "feelweb.jp",
             "corocoro.jp",
         ]
-        return url in using_gigaviewer
+        # urlの中にusing_gigaviewerのリストの中の文字列があるかどうかを判定する
+
+        return (True in [domain in url for domain in using_gigaviewer])
 
     def __get_feed_url(self, url: str) -> str:
         resp = requests.get(

@@ -34,6 +34,7 @@ class ComicContainer(containers.DeclarativeContainer):
         ComicRaindropIOHandler,
         token=config.token,
         collection_id=config.collection_id,
+        random_page=config.random_page,
     )
     aggregate_feed: IAggregateFeed = providers.Factory(
         ComicAggregateFeed,
@@ -68,6 +69,7 @@ class FediverseContainer(containers.DeclarativeContainer):
         FediverseRaindropIOHandler,
         token=config.token,
         collection_id=config.collection_id,
+        random_page=config.random_page,
     )
     aggregate_feed: IAggregateFeed = providers.Factory(
         FediverseAggregateFeed,

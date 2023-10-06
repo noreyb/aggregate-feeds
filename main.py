@@ -88,6 +88,7 @@ def fediverse():
         "https://noreyb.github.io/agg-feed",
         "fediverse",
     )
+    container.config.random_page.from_value(True)
     feed_aggregate.run()
 
 

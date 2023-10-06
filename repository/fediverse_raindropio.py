@@ -2,8 +2,8 @@ from repository.raindropio import RaindropIOHandler
 
 
 class FediverseRaindropIOHandler(RaindropIOHandler):
-    def __init__(self, token: str, collection_id: str) -> None:
-        super().__init__(token, collection_id)
+    def __init__(self, token: str, collection_id: str, random_page: bool) -> None:
+        super().__init__(token, collection_id, random_page)
 
     def get(self) -> list:
         urls = self._get_site_urls()

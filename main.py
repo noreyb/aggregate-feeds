@@ -34,8 +34,8 @@ def cli():
 @cli.command()
 def booru():
     container = BooruContainer()
-    container.config.base_url.from_env("GITHUB_IO_BASE_URL")
-    container.config.endpoint.from_env("GITHUB_IO_ENDPOINT")
+    container.config.base_url.from_env("BOORU_BASE_URL")
+    container.config.endpoint.from_env("BOORU_ENDPOINT")
     feed_aggregate = _get_wired_app(
         container,
         "./output/booru.xml",
@@ -50,7 +50,8 @@ def booru():
 def comic():
     container = ComicContainer()
     container.config.token.from_env("RAINDROP_TOKEN")
-    container.config.collection_id.from_env("RAINDROP_COLLECTION_ID")
+
+    container.config.collection_id.from_env("RAINDROP_COMIC")
     feed_aggregate = _get_wired_app(
         container,
         "./output/comic.xml",
@@ -58,14 +59,15 @@ def comic():
         "https://noreyb.github.io/agg-feed",
         "comic",
     )
+    container.config.random_page.from_value(False)
     feed_aggregate.run()
 
 
 @cli.command()
 def kemono():
     container = KemonoContainer()
-    container.config.base_url.from_env("GITHUB_IO_BASE_URL")
-    container.config.endpoint.from_env("GITHUB_IO_ENDPOINT")
+    container.config.base_url.from_env("KEMONO_BASE_URL")
+    container.config.endpoint.from_env("KEMONO_ENDPOINT")
     feed_aggregate = _get_wired_app(
         container,
         "./output/kemono.xml",
@@ -80,7 +82,7 @@ def kemono():
 def fediverse():
     container = FediverseContainer()
     container.config.token.from_env("RAINDROP_TOKEN")
-    container.config.collection_id.from_env("RAINDROP_COLLECTION_ID")
+    container.config.collection_id.from_env("RAINDROP_FEDIVERSE")
     feed_aggregate = _get_wired_app(
         container,
         "./output/fediverse.xml",

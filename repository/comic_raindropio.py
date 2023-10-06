@@ -47,7 +47,7 @@ class ComicRaindropIOHandler(RaindropIOHandler):
         ]
         # urlの中にusing_gigaviewerのリストの中の文字列があるかどうかを判定する
 
-        return (True in [domain in url for domain in using_gigaviewer])
+        return True in [domain in url for domain in using_gigaviewer]
 
     def __get_feed_url(self, url: str) -> str:
         resp = requests.get(

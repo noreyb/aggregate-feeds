@@ -33,6 +33,14 @@ jobs:
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
       - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_COMIC=${{secrets.RAINDROP_COMIC}} poetry run python main.py comic
+      - name: Update feed
+        continue-on-error: true
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add .
+          git commit -m "update feeds"
+          git push origin main
 
   update_fdv:
     runs-on: ubuntu-latest
@@ -44,6 +52,14 @@ jobs:
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
       - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_FEDIVERSE=${{secrets.RAINDROP_FEDIVERSE}} poetry run python main.py fediverse
+      - name: Update feed
+        continue-on-error: true
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add .
+          git commit -m "update feeds"
+          git push origin main
 
   update_booru:
     runs-on: ubuntu-latest
@@ -55,6 +71,14 @@ jobs:
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
       - run: BOORU_BASE_URL=${{secrets.BOORU_BASE_URL}} BOORU_ENDPOINT=${{secrets.BOORU_ENDPOINT}} poetry run python main.py booru
+      - name: Update feed
+        continue-on-error: true
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add .
+          git commit -m "update feeds"
+          git push origin main
     
   update_kmn:
     runs-on: ubuntu-latest
@@ -66,3 +90,11 @@ jobs:
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
       - run: KEMONO_BASE_URL=${{secrets.KEMONO_BASE_URL}} KEMONO_ENDPOINT=${{secrets.KEMONO_ENDPOINT}} poetry run python main.py kemono
+      - name: Update feed
+        continue-on-error: true
+        run: |
+          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git add .
+          git commit -m "update feeds"
+          git push origin main

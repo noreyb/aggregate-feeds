@@ -38,6 +38,8 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git fetch origin main
+          git merge origin/main
           git add ./output/comic.xml
           git commit -m "update comic feed"
           git push origin main
@@ -57,6 +59,8 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git fetch origin main
+          git merge origin/main
           git add ./output/fediverse.xml
           git commit -m "update fediverse feed"
           git push origin main
@@ -76,6 +80,8 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git fetch origin main
+          git merge origin/main
           git add ./output/booru.xml
           git commit -m "update booru feeds"
           git push origin main
@@ -95,6 +101,29 @@ jobs:
         run: |
           git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git fetch origin main
+          git merge origin/main
           git add ./output/kemono.xml
           git commit -m "update kemono feeds"
           git push origin main
+
+  deploy:
+    if: ${{ always() }}
+    needs: [update_cmc, update_fdv, update_booru, update_kmn]
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          # Upload entire repository
+          path: './outputs'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

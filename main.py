@@ -50,7 +50,6 @@ def booru():
 def comic():
     container = ComicContainer()
     container.config.token.from_env("RAINDROP_TOKEN")
-
     container.config.collection_id.from_env("RAINDROP_COMIC")
     feed_aggregate = _get_wired_app(
         container,

@@ -12,9 +12,8 @@ class GithubIOHandler(IFeedURLs):
         self.endpoint = endpoint
 
     def get(self) -> list:
-        resp = requests.get(
-            f"{self.base_url}/{self.endpoint}",
-        )
+        url = f"{self.base_url}/{self.endpoint}"
+        resp = requests.get(url)
         time.sleep(1)
         if resp.status_code != requests.codes.ok:
             raise Exception(resp.text)
@@ -25,6 +24,6 @@ class GithubIOHandler(IFeedURLs):
             feed_url = elem.get("href")
             if "opml" in feed_url:
                 continue
-            feed_url = f"{self.base_url}/{feed_url}"
+            feed_url = f"{self.base_url}{feed_url}"
             feed_urls.append(feed_url)
         return feed_urls

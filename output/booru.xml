@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 06 Oct 2023 18:50:05 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 01:44:01 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -1129,6 +1129,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9082711&amp;tags=bamuth</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/72/4f/thumbnail_724fbfda59a786cf7955bccd2239ffc9.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9012505&amp;tags=bamuth</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/18/01/thumbnail_1801392d99e45e31f9cb8fed2f850423.jpg" />
@@ -1180,12 +1186,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8022935&amp;tags=bamuth</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/35/8a/thumbnail_358a666f8ccff45b9ceb9d4740030239.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7977687&amp;tags=bamuth</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e7/3c/thumbnail_e73c3f5d4857f974d28ca1d329a22e29.jpg" />
         </item>
         <item>
             <title />
@@ -5515,6 +5515,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9082657&amp;tags=ikezawa_shin</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2e/c9/thumbnail_2ec93b8c001ae2c35690a9b9a64614a8.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9079596&amp;tags=ikezawa_shin</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/fc/b4/thumbnail_fcb4f6d4296798866bc6aa13ec6ec3da.jpg" />
@@ -5566,12 +5572,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8537719&amp;tags=ikezawa_shin</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/55/0b/thumbnail_550b95e6433b6977d8c2c051ae6f15c6.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8532257&amp;tags=ikezawa_shin</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/26/89/thumbnail_2689ec438b7b09a2ed8d45a648d5a7dc.jpg" />
         </item>
         <item>
             <title />

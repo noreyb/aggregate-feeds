@@ -33,7 +33,7 @@ jobs:
           python-version: "3.11"
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
-      - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_COMIC=${{secrets.RAINDROP_NITTER}} poetry run python main.py nitter
+      - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_NITTER=${{secrets.RAINDROP_NITTER}} poetry run python main.py nitter
       - name: Update feed
         continue-on-error: true
         run: |
@@ -42,7 +42,7 @@ jobs:
           git fetch origin main
           git merge origin/main
           git add ./output/nitter.xml
-          git commit -m "update comic feed"
+          git commit -m "update nitter feed"
           git push origin main
 
   update_cmc:

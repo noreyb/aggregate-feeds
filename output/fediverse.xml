@@ -4,7 +4,7 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Sat, 07 Oct 2023 01:30:52 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 02:40:22 +0000</lastBuildDate>
         <item>
             <title>New note by もち:skeb::twitter:　skeb募集中</title>
             <link>https://misskey.io/notes/9kim80fsg8</link>
@@ -2033,6 +2033,13 @@ https://www.wani.com/product/13877_202310/</description>
         </item>
         <item>
             <title>New note by ツナ爪@例大祭お48a</title>
+            <link>https://misskey.io/notes/9kizsbhe0j</link>
+            <description>お昼の進歩</description>
+            <pubDate>Sat, 07 Oct 2023 02:40:22 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/3ea12b43-bd57-435b-9c3d-1cba40132385.webp" />
+        </item>
+        <item>
+            <title>New note by ツナ爪@例大祭お48a</title>
             <link>https://misskey.io/notes/9kitog4udu</link>
             <description>多々良小傘</description>
             <pubDate>Fri, 06 Oct 2023 23:49:24 +0000</pubDate>
@@ -2243,13 +2250,6 @@ https://361yowainu361.booth.pm/items/4979136</description>
             <description />
             <pubDate>Sat, 09 Sep 2023 08:07:38 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/2f35b4ff-7f74-422f-aeab-b80b2b13192c.webp" />
-        </item>
-        <item>
-            <title>New note by すみやお</title>
-            <link>https://misskey.io/notes/9jdm669h58</link>
-            <description />
-            <pubDate>Fri, 08 Sep 2023 03:40:41 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/0ad8de71-9e5d-4b46-b620-1d6a56079736.webp" />
         </item>
         <item>
             <title>New note by ごりらご@コミトレ欠席</title>
@@ -3204,13 +3204,6 @@ Ci-enに投稿しました「【10月】全62作品のうち1作品に使える9
             <description>なんで線画階段で急にポーズを変えたのですか...</description>
             <pubDate>Fri, 06 Oct 2023 02:10:29 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F185%2F638%2F215%2F926%2F752%2Foriginal%2Fd3171c131c2f707d.png" />
-        </item>
-        <item>
-            <title>New note by タナトス</title>
-            <link>https://misskey.io/notes/9kfjec9cw5</link>
-            <description>改</description>
-            <pubDate>Wed, 04 Oct 2023 16:38:18 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F177%2F727%2F755%2F458%2F216%2Foriginal%2F28d7afe56f2340a4.png" />
         </item>
         <item>
             <title>New note by 芦田伊知朗</title>

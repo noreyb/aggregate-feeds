@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 09 Oct 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>Season11／2本目 シン・仮面ライダー</title>
             <link>https://comic-ogyaaa.com/episode/14079602755274369529</link>
@@ -76,18 +76,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755228592465-9567ca36160026cc4254a90287eecabc" />
         </item>
         <item>
+            <title>第83話 幼なじみと変化</title>
+            <link>https://kuragebunch.com/episode/14079602755205405771</link>
+            <description>今日から始める幼なじみ</description>
+            <pubDate>Tue, 03 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755205405771-79008447da2cf8534ca3dfaf3b5b8246" />
+        </item>
+        <item>
             <title>第82話 幼なじみと大人っぽさ</title>
             <link>https://kuragebunch.com/episode/4856001361587944076</link>
             <description>今日から始める幼なじみ</description>
             <pubDate>Tue, 19 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361587944076-0e999b64a935c985c5e7a93347ed237d" />
-        </item>
-        <item>
-            <title>第81話 幼なじみと雪</title>
-            <link>https://kuragebunch.com/episode/4856001361587944063</link>
-            <description>今日から始める幼なじみ</description>
-            <pubDate>Tue, 05 Sep 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361587944063-4684dc2503f2e74ae89d0fb366312a2b" />
         </item>
         <item>
             <title>第48話 幼なじみとおんぶ</title>
@@ -475,6 +475,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496410437550-7c35097e14563bc6bffefcb064ef8c0f" />
         </item>
         <item>
+            <title>番外編 巣立ちの日</title>
+            <link>https://kuragebunch.com/episode/14079602755277459296</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 10 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755277459296-784963ddb98239af08c9a3813bc52263" />
+        </item>
+        <item>
             <title>第37話 魔物の奇襲⁉</title>
             <link>https://kuragebunch.com/episode/4856001361587841020</link>
             <description>女騎士とケモミミの子</description>
@@ -608,6 +615,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137547-5ebff8ae8c5680a51b8914ddea941e29" />
         </item>
         <item>
+            <title>第３話</title>
+            <link>https://comic-days.com/episode/14079602755154484090</link>
+            <description>悪樓の島</description>
+            <pubDate>Tue, 26 Sep 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484090-8e5fe56eb85f8716267ca8a19f9c315e" />
+        </item>
+        <item>
             <title>第２話</title>
             <link>https://comic-days.com/episode/14079602755154484082</link>
             <description>悪樓の島</description>
@@ -620,6 +634,13 @@
             <description>悪樓の島</description>
             <pubDate>Tue, 19 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484066-a8a2740d084f889f8928c87f2d82339d" />
+        </item>
+        <item>
+            <title>休載イラスト</title>
+            <link>https://comic-days.com/episode/14079602755205457742</link>
+            <description>いけない！ルナ先生R</description>
+            <pubDate>Tue, 10 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755205457742-ecb0a10a199dc04632a6230a29338113" />
         </item>
         <item>
             <title>第２５話　体育祭②</title>

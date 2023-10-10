@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Mon, 09 Oct 2023 18:50:09 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 01:45:02 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -8611,6 +8611,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9095109&amp;tags=mattaku_mousuke</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b3/12/thumbnail_b3129a4c2c863ed8a4fcfee57a7d223d.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9067385&amp;tags=mattaku_mousuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/da/6a/thumbnail_da6a650cd3f88cd23db728e84a395db8.jpg" />
@@ -8662,12 +8668,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9052351&amp;tags=mattaku_mousuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c4/6a/thumbnail_c46a0a8bb0ff8f14e36edd6a3ebb0bce.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9050615&amp;tags=mattaku_mousuke</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/af/d3/thumbnail_afd30625339b67b3e3387e4c3f08f8ec.jpg" />
         </item>
         <item>
             <title />

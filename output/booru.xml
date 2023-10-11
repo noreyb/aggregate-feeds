@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Wed, 11 Oct 2023 01:44:58 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 06:51:00 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2785,6 +2785,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9100185&amp;tags=drid</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/99/5a/thumbnail_995a25e69e4bf2fe24ae32863ae4597e.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9067220&amp;tags=drid</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ce/c6/thumbnail_cec6babd010347815083886755395830.jpg" />
@@ -2836,12 +2842,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8711706&amp;tags=drid</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ce/20/thumbnail_ce20d99249b9f45933b1185ef1722cfd.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8680534&amp;tags=drid</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b9/3e/thumbnail_b93ea027b681233dda0100d5332146e2.jpg" />
         </item>
         <item>
             <title />

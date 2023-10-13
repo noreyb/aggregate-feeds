@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 12 Oct 2023 18:50:52 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 01:48:46 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -175,12 +175,6 @@
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9104746&amp;tags=5t_(5t_000)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b7/c8/thumbnail_b7c895f5fa56f2d18e405a4760f2828b.jpg" />
-        </item>
-        <item>
-            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8736392&amp;tags=5t_(5t_000)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/95/7c/thumbnail_957c3535092e85274e9a17650bfb0747.jpg" />
@@ -232,6 +226,12 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8736322&amp;tags=5t_(5t_000)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/01/32/thumbnail_0132306dfa5ff8a5798d709d484f6c9d.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8736321&amp;tags=5t_(5t_000)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/46/3f/thumbnail_463f4e5b76fa4003bb704eeed5bb1997.jpg" />
         </item>
         <item>
             <title />

@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Sat, 14 Oct 2023 06:50:02 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 13:00:08 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -853,6 +853,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9111802&amp;tags=aochoku</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/59/ae/thumbnail_59ae10c9971d0821a5846a208b273b44.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9082068&amp;tags=aochoku</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/63/aa/thumbnail_63aa873f39fe946f1559076dd27fad0b.jpg" />
@@ -904,12 +910,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8993502&amp;tags=aochoku</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5e/f1/thumbnail_5ef137178e555ea4e92df194945ec3c7.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8990129&amp;tags=aochoku</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/86/d2/thumbnail_86d29fc35346fd88e2add0e5b6386a94.jpg" />
         </item>
         <item>
             <title />
@@ -10135,6 +10135,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9112026&amp;tags=ni_tamago_sando</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b6/79/thumbnail_b6793375c00f9f355dc262dc2ce45f58.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9100870&amp;tags=ni_tamago_sando</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f6/cd/thumbnail_f6cdb09d01c454fdb519686e0c36afac.jpg" />
@@ -10186,12 +10192,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9044618&amp;tags=ni_tamago_sando</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/53/4d/thumbnail_534d6ff1e6d5511285b699398e1386c7.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9044603&amp;tags=ni_tamago_sando</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/9e/b2/thumbnail_9eb2b1428ac77a17c2517a921494c8fa.jpg" />
         </item>
         <item>
             <title />
@@ -15739,6 +15739,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9112324&amp;tags=veryhardloco</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/51/8e/thumbnail_518ea82eccf1683254b9e7de85e2ac33.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9112323&amp;tags=veryhardloco</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/45/c5/thumbnail_45c5568770b653e3455da95447ef2802.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9069827&amp;tags=veryhardloco</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/67/44/thumbnail_6744c5865c10eb216b0b108d7790e869.jpg" />
@@ -15784,18 +15796,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8901698&amp;tags=veryhardloco</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/81/04/thumbnail_8104b313a7a55d7ac6cd05631994eda1.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8886768&amp;tags=veryhardloco</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f6/93/thumbnail_f6937bb811f6b2d799d50dc97c39ba65.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8827323&amp;tags=veryhardloco</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/df/3f/thumbnail_df3f7d285a4903cf21358e58ddb2f8e1.jpg" />
         </item>
         <item>
             <title />

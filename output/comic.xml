@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 17 Oct 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[50話]エクソシストを堕とせない</title>
             <link>https://shonenjumpplus.com/episode/14079602755322055702</link>
@@ -2015,6 +2015,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/316112896890762684-74d0fa6df1924e2324f5bf5c99279fb8" />
         </item>
         <item>
+            <title>[第15話]シバタリアン</title>
+            <link>https://shonenjumpplus.com/episode/14079602755322444313</link>
+            <description>シバタリアン</description>
+            <pubDate>Wed, 18 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755322444313-1e47d7abea0d2fd898223152a60679bd" />
+        </item>
+        <item>
             <title>[第14話]シバタリアン</title>
             <link>https://shonenjumpplus.com/episode/14079602755274728354</link>
             <description>シバタリアン</description>
@@ -2762,6 +2769,13 @@
             <description>サチ録～サチの黙示録～</description>
             <pubDate>Thu, 06 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361458130011-f0604c409c7c1b50d63cdc076262ed52" />
+        </item>
+        <item>
+            <title>[Chapter.12]天地ミッション</title>
+            <link>https://shonenjumpplus.com/episode/14079602755322441963</link>
+            <description>天地ミッション</description>
+            <pubDate>Wed, 18 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755322441963-97bf05a05490ce234953d1ce99e44314" />
         </item>
         <item>
             <title>[Chapter.11]天地ミッション</title>

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 18 Oct 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[50話]エクソシストを堕とせない</title>
             <link>https://shonenjumpplus.com/episode/14079602755322055702</link>
@@ -1061,6 +1061,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[出張版] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/14079602755321532479</link>
+            <description>こういうのがいい</description>
+            <pubDate>Thu, 19 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321532479-de91b7e8da3a8a2c376c45fab6dd1c0a" />
         </item>
         <item>
             <title>[33発目 ②] こういうのがいい</title>
@@ -2461,48 +2468,6 @@
             <description>地球外少年少女</description>
             <pubDate>Fri, 14 Jul 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361506430352-3b88d24c358ef687c2ea3a8ae76c56bd" />
-        </item>
-        <item>
-            <title>[第7話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361405516398</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 07 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361405516398-e8c5c542e8db21eb58985df665e05234" />
-        </item>
-        <item>
-            <title>[第6話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361358200214</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 23 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361358200214-940f0009366853f5f2ee848f78d6615d" />
-        </item>
-        <item>
-            <title>[第5話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361333781850</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 16 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361333781850-c8539b8e24d96c2b9023d957b812aefd" />
-        </item>
-        <item>
-            <title>[第4話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361310201337</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 09 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361310201337-4a3e73f9e65431ee191dd0bf9a64b709" />
-        </item>
-        <item>
-            <title>[第3話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361262926531</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 26 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361262926531-893f9ce94508be1ee6d618f080755fd7" />
-        </item>
-        <item>
-            <title>[第2話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/4856001361241940839</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 19 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361241940839-7e0cdcf4cdda5f44359121abcea5b2c4" />
         </item>
         <item>
             <title>[第1話] 地球外少年少女</title>

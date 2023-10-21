@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Sat, 21 Oct 2023 01:43:38 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 06:50:05 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -9205,6 +9205,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9137796&amp;tags=miyamoto_issa</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ee/7b/thumbnail_ee7bacd504559303cfd5a9757b4931bb.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8988962&amp;tags=miyamoto_issa</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/76/a7/thumbnail_76a7eb7703b50da8f901f3d5388e7913.jpg" />
@@ -9256,12 +9262,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8811180&amp;tags=miyamoto_issa</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f3/1d/thumbnail_f31d9ab81a41dd7f1de7346165105c16.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8811179&amp;tags=miyamoto_issa</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/32/ac/thumbnail_32ac627b426a4da4fbc7244a4d104f8c.jpg" />
         </item>
         <item>
             <title />

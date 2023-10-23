@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 23 Oct 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>なんにもない、なんでもない</title>
             <link>https://shonenjumpplus.com/episode/14079602755345580881</link>
@@ -1014,6 +1014,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361087708444-089cfd8ccb02cd957d0ccab0a119f826" />
         </item>
         <item>
+            <title>[16話]半人前の恋人</title>
+            <link>https://shonenjumpplus.com/episode/14079602755360447907</link>
+            <description>半人前の恋人</description>
+            <pubDate>Mon, 23 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755360447907-110f3ed775cb1085ff1deed3c360fd37" />
+        </item>
+        <item>
             <title>[15話]半人前の恋人</title>
             <link>https://shonenjumpplus.com/episode/14079602755280980945</link>
             <description>半人前の恋人</description>
@@ -1068,6 +1075,13 @@
             <description>半人前の恋人</description>
             <pubDate>Mon, 08 May 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361211079463-28e6cbcbf8d5b2353dcf3af3ef0a2070" />
+        </item>
+        <item>
+            <title>[第18話]人類蝕</title>
+            <link>https://shonenjumpplus.com/episode/14079602755360447994</link>
+            <description>人類蝕</description>
+            <pubDate>Mon, 23 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755360447994-e22a3e8a7bbfa48ef49eb8e980e6fbd9" />
         </item>
         <item>
             <title>[第17話]人類蝕</title>
@@ -2111,6 +2125,13 @@
             <description>正反対な君と僕</description>
             <pubDate>Sun, 12 Feb 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496899770338-50e3753210fefd5aa9b45e1a13f061f3" />
+        </item>
+        <item>
+            <title>[第26話]結婚するって言ったよね？</title>
+            <link>https://shonenjumpplus.com/episode/14079602755360498859</link>
+            <description>結婚するって言ったよね？</description>
+            <pubDate>Mon, 23 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755360498859-57e3794f286736067c56afcf8d7f249a" />
         </item>
         <item>
             <title>[第25話]結婚するって言ったよね？</title>

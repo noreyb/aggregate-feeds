@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 23 Oct 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 05:00:00 +0000</lastBuildDate>
         <item>
             <title>なんにもない、なんでもない</title>
             <link>https://shonenjumpplus.com/episode/14079602755345580881</link>
@@ -1301,10 +1301,31 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/316190247055761689-a9cf62fe90c0450e71c629afc7453610" />
         </item>
         <item>
+            <title>[4コマ目：塩の対比効果とコーヒー] ヤンキー君と科学ごはん</title>
+            <link>https://tonarinoyj.jp/episode/316190246988554740</link>
+            <description>ヤンキー君と科学ごはん</description>
+            <pubDate>Tue, 24 Oct 2023 05:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/316190246988554740-c150a62c1d44bb8fd077576bb11f82e6" />
+        </item>
+        <item>
+            <title>[3コマ目：熱伝導と昔ながらのプリン] ヤンキー君と科学ごはん</title>
+            <link>https://tonarinoyj.jp/episode/316190246907033712</link>
+            <description>ヤンキー君と科学ごはん</description>
+            <pubDate>Tue, 24 Oct 2023 05:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/316190246907033712-b722586c1e53442740bca421c5bbb45d" />
+        </item>
+        <item>
+            <title>[2コマ目：冷たい油から揚げるからあげ] ヤンキー君と科学ごはん</title>
+            <link>https://tonarinoyj.jp/episode/316112896883325517</link>
+            <description>ヤンキー君と科学ごはん</description>
+            <pubDate>Tue, 24 Oct 2023 05:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/316112896883325517-fe62264698d7d13504f51d48771edf2c" />
+        </item>
+        <item>
             <title>[1コマ目：湯煎で作るオムライス] ヤンキー君と科学ごはん</title>
             <link>https://tonarinoyj.jp/episode/3270375685449569180</link>
             <description>ヤンキー君と科学ごはん</description>
-            <pubDate>Fri, 26 Aug 2022 03:00:00 +0000</pubDate>
+            <pubDate>Tue, 24 Oct 2023 05:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/3270375685449569180-a613a4cb62b8771307b45468fa1676e1" />
         </item>
         <item>

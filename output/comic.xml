@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 25 Oct 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[第22話]ケモノクニ</title>
             <link>https://shonenjumpplus.com/episode/14079602755361708625</link>
@@ -2888,6 +2888,13 @@
             <description>サチ録～サチの黙示録～</description>
             <pubDate>Thu, 06 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361458130011-f0604c409c7c1b50d63cdc076262ed52" />
+        </item>
+        <item>
+            <title>[Chapter.13]天地ミッション</title>
+            <link>https://shonenjumpplus.com/episode/14079602755365507814</link>
+            <description>天地ミッション</description>
+            <pubDate>Wed, 25 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755365507814-407a52ef36bfcaf4fb98009a7aa208a7" />
         </item>
         <item>
             <title>[Chapter.12]天地ミッション</title>

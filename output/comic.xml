@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 26 Oct 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[10Pショート読切] 才能</title>
             <link>https://tonarinoyj.jp/episode/14079602755321587916</link>
@@ -1546,6 +1546,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/3270375685449569180-a613a4cb62b8771307b45468fa1676e1" />
         </item>
         <item>
+            <title>第89話 睡魔！セバスがねむたい日</title>
+            <link>https://www.sunday-webry.com/episode/14079602755372526796</link>
+            <description>ジャイアントお嬢様</description>
+            <pubDate>Thu, 26 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755372526796-77974c2d31bc66f432b3d10bb7d1f098" />
+        </item>
+        <item>
             <title>第88話 祝え！なんでもいいから祝えですわ</title>
             <link>https://www.sunday-webry.com/episode/14079602755346506392</link>
             <description>ジャイアントお嬢様</description>
@@ -2827,6 +2834,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361584136770-30e7c288f26e4cd799775d54f2002345" />
         </item>
         <item>
+            <title>[第十話]サチ録～サチの黙示録～</title>
+            <link>https://shonenjumpplus.com/episode/14079602755368307079</link>
+            <description>サチ録～サチの黙示録～</description>
+            <pubDate>Thu, 26 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755368307079-ad7bf70e1443dad41b9b2e2cc08611e1" />
+        </item>
+        <item>
             <title>[番外編7]サチ録～サチの黙示録～</title>
             <link>https://shonenjumpplus.com/episode/14079602755322452728</link>
             <description>サチ録～サチの黙示録～</description>
@@ -2860,13 +2874,6 @@
             <description>サチ録～サチの黙示録～</description>
             <pubDate>Thu, 21 Sep 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755227529718-24eb6670ed81d0020209e705f5a48a93" />
-        </item>
-        <item>
-            <title>[第七話]サチ録～サチの黙示録～</title>
-            <link>https://shonenjumpplus.com/episode/14079602755202044772</link>
-            <description>サチ録～サチの黙示録～</description>
-            <pubDate>Thu, 14 Sep 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755202044772-3ac25e5ec1fbf078e75dc80bae821473" />
         </item>
         <item>
             <title>[番外編4]サチ録～サチの黙示録～</title>

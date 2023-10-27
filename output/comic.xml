@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 27 Oct 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[Episode1]魔女の執行人</title>
             <link>https://shonenjumpplus.com/episode/14079602755368307995</link>
@@ -249,6 +249,13 @@
             <description>エウロパの魚</description>
             <pubDate>Fri, 20 Oct 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755345339847-1baff98d719a547ddea258c4134e899a" />
+        </item>
+        <item>
+            <title>[第4話]対世界用魔法少女つばめ</title>
+            <link>https://shonenjumpplus.com/episode/14079602755373427965</link>
+            <description>対世界用魔法少女つばめ</description>
+            <pubDate>Fri, 27 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755373427965-518f6101b69f2182c7e4c5517c49260c" />
         </item>
         <item>
             <title>[第3話]対世界用魔法少女つばめ</title>
@@ -2783,6 +2790,13 @@
             <description>ぼくと海彼女</description>
             <pubDate>Fri, 28 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361557403399-e3eb8f7366090659dde6d7eabc00359c" />
+        </item>
+        <item>
+            <title>[第9話]少女Null</title>
+            <link>https://shonenjumpplus.com/episode/14079602755373440803</link>
+            <description>少女Null</description>
+            <pubDate>Fri, 27 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755373440803-950e3984f9f3b8f9617d951d50748f4f" />
         </item>
         <item>
             <title>[特別編4]少女Null</title>

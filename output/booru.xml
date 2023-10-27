@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 27 Oct 2023 06:50:43 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 13:03:22 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2317,6 +2317,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161179&amp;tags=clearite</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f2/89/thumbnail_f28974aeea53ab4db0d23b33d2d5ce75.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9139949&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f1/b9/thumbnail_f1b9c1f25f44f6f9542322916549b4bb.jpg" />
@@ -2368,12 +2374,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9082772&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/13/87/thumbnail_1387ba708cc4abbfd2be83262ffd6022.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9082720&amp;tags=clearite</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3f/0f/thumbnail_3f0f3296b5900b7e4f502ff745e7ba22.jpg" />
         </item>
         <item>
             <title />
@@ -4573,6 +4573,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161334&amp;tags=gishu</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/45/cd/thumbnail_45cd54417389a7034523105c3a70ebd3.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9039548&amp;tags=gishu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8d/0e/thumbnail_8d0ec5fe0796346aad0fbca666b0f5b1.jpg" />
@@ -4624,12 +4630,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8533949&amp;tags=gishu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5b/5a/thumbnail_5b5a71aaf8526fa63f492bec7180a311.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8526673&amp;tags=gishu</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e7/6d/thumbnail_e76dc7e62fbd0010b965a5c7c56d6d87.jpg" />
         </item>
         <item>
             <title />
@@ -6457,6 +6457,30 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161313&amp;tags=iwao178</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/82/7a/thumbnail_827a761fec295166813c3095a1d47cec.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161312&amp;tags=iwao178</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f5/ef/thumbnail_f5efe808c0c742ff6b0ab23ce2c1216b.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161311&amp;tags=iwao178</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f9/5e/thumbnail_f95e03c54de651d67efe15d2949a26f6.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161309&amp;tags=iwao178</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ae/53/thumbnail_ae53ff046bd96ff449333c997ae0d659.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9159986&amp;tags=iwao178</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/54/91/thumbnail_54913db2ea2087d83c23faefa34df09a.jpg" />
@@ -6490,30 +6514,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9152421&amp;tags=iwao178</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/37/dc/thumbnail_37dc358c40bcb367ca5e598824ab58ff.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9150936&amp;tags=iwao178</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ab/a9/thumbnail_aba993233d50957202f776e34c21d324.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9141182&amp;tags=iwao178</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2c/07/thumbnail_2c07bae9b4e6102e6d45e0db63366658.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9128449&amp;tags=iwao178</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/25/8f/thumbnail_258fdf9a0ea15fbf49af36bb1ae80f55.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9127097&amp;tags=iwao178</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/be/27/thumbnail_be27eef6e304cea4c274df7207a8c0ac.jpg" />
         </item>
         <item>
             <title />
@@ -8971,6 +8971,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161299&amp;tags=marumoru</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/30/79/thumbnail_3079cd5427a9eefccbfc005e9f1b853a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9143112&amp;tags=marumoru</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/22/93/thumbnail_2293b63de6b51db1815c187b0bd661bb.jpg" />
@@ -9022,12 +9028,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8987254&amp;tags=marumoru</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/32/e4/thumbnail_32e4ed3c92d523906b3c79c447f135d4.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8897680&amp;tags=marumoru</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/08/c0/thumbnail_08c009788ab7ed09927a79990d083c46.jpg" />
         </item>
         <item>
             <title />
@@ -9211,6 +9211,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9152544&amp;tags=maskwolf</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/08/34/thumbnail_0834fa39afe24546686120f391234fbc.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8933601&amp;tags=maskwolf</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/77/3f/thumbnail_773fcd69ecfe4a1e452f0ecb1d64ff5b.jpg" />
@@ -9262,12 +9268,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8801141&amp;tags=maskwolf</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/76/c4/thumbnail_76c4fea0afcfbb9cc25bca0c41457e59.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8798611&amp;tags=maskwolf</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2b/14/thumbnail_2b1429b4b8aad270602561d850bbdc36.jpg" />
         </item>
         <item>
             <title />
@@ -14449,6 +14449,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160710&amp;tags=shiseki_hirame</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1a/f0/thumbnail_1af0ada6c2716c65b71d58a7c37e8b10.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9150504&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/43/dd/thumbnail_43ddbb402918c092a323116a0f7d931a.jpg" />
@@ -14500,12 +14506,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9101241&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ea/51/thumbnail_ea518f70d74d7df160a3fff077d9b995.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9088019&amp;tags=shiseki_hirame</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/69/6e/thumbnail_696e7630f134b4a22b464fadd4a8e974.jpg" />
         </item>
         <item>
             <title />
@@ -14983,6 +14983,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160776&amp;tags=so-taro</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/45/0d/thumbnail_450d5ae47c16b849435b4ae4a34bfeb5.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9080221&amp;tags=so-taro</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/30/27/thumbnail_3027a3f5f11394f55597e2019b7c1071.jpg" />
@@ -15034,12 +15040,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7516337&amp;tags=so-taro</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1f/4c/thumbnail_1f4c23d328540cd30671d1a88879c791.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7209730&amp;tags=so-taro</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/46/ec/thumbnail_46ec08de20f182d4aeabeee67a00f252.jpg" />
         </item>
         <item>
             <title />
@@ -15160,12 +15160,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9029682&amp;tags=sos_adult</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ea/99/thumbnail_ea999da6c9107b5fbceb85a5af7b65c2.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160128&amp;tags=sukunashi_negi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/92/bd/thumbnail_92bd6e9fb27ab701358d150f0c9768ec.jpg" />
         </item>
         <item>
             <title />
@@ -16897,6 +16891,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160813&amp;tags=usa37107692</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/71/ef/thumbnail_71ef7f09cb05627bdedf7eb811e413cc.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9158139&amp;tags=usa37107692</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/78/0c/thumbnail_780cd42f5497d9d6c9e111fd04032d21.jpg" />
@@ -16948,12 +16948,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9129363&amp;tags=usa37107692</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d3/44/thumbnail_d3442a8b97d454ffc065f93a6a394b0f.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9129291&amp;tags=usa37107692</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a7/f6/thumbnail_a7f6325237682707bc1a4919ed4ee6ff.jpg" />
         </item>
         <item>
             <title />
@@ -17731,6 +17725,30 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161204&amp;tags=yanyo_(ogino_atsuki)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c6/fc/thumbnail_c6fc77d06f80dc52e5381c6e57fb505d.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161203&amp;tags=yanyo_(ogino_atsuki)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/9e/84/thumbnail_9e848e44520d43430a794f781d7a8697.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161201&amp;tags=yanyo_(ogino_atsuki)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/78/70/thumbnail_78702ef7fdace21360262b478583a1e6.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161200&amp;tags=yanyo_(ogino_atsuki)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/85/f6/thumbnail_85f66a56ede2c124df534d852af627ea.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9158913&amp;tags=yanyo_(ogino_atsuki)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c5/09/thumbnail_c50919249d70bd2de1d1d2dbac927d0b.jpg" />
@@ -17764,30 +17782,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9124791&amp;tags=yanyo_(ogino_atsuki)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f5/f4/thumbnail_f5f4b684d47030c0d1cc2a80505e54c7.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9089565&amp;tags=yanyo_(ogino_atsuki)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/40/7e/thumbnail_407e7d205888f9a946c93f8f821b5898.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9079196&amp;tags=yanyo_(ogino_atsuki)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/7a/a6/thumbnail_7aa625077c4b8691ff624307a571e91a.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9078574&amp;tags=yanyo_(ogino_atsuki)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/54/44/thumbnail_54446a4f8c5354454c82e1d574f2dc9b.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9078572&amp;tags=yanyo_(ogino_atsuki)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e5/f5/thumbnail_e5f529ea2489b1911c9f82ae3b4d6860.jpg" />
         </item>
         <item>
             <title />
@@ -18355,6 +18349,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160733&amp;tags=zb_(xucz8527)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/10/b8/thumbnail_10b80e4faaa008422639d6646cf2c90f.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9155942&amp;tags=zb_(xucz8527)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8f/d9/thumbnail_8fd9b125307d03e0b63ed54882f3dd7b.jpg" />
@@ -18406,12 +18406,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9056386&amp;tags=zb_(xucz8527)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f4/2a/thumbnail_f42a28546e839be5da2c2ca35c232864.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8959244&amp;tags=zb_(xucz8527)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/67/ea/thumbnail_67ea4d16c3fef99dda0dbb85a45aa762.jpg" />
         </item>
         <item>
             <title />

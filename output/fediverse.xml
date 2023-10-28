@@ -4,7 +4,7 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Fri, 27 Oct 2023 18:36:14 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 01:31:21 +0000</lastBuildDate>
         <item>
             <title>New note by DaRoon5@C102日曜東ロ03b</title>
             <link>https://misskey.io/notes/9l4yquzwzi</link>
@@ -402,6 +402,13 @@ If you like my works, please consider supporting me on Patreon or Fanbox, Thanks
         </item>
         <item>
             <title>New note by 高遠そら</title>
+            <link>https://misskey.io/notes/9lcnldu70b</link>
+            <description>あら。ありがとうございます :5000t_1::5000t_5::5000t_0::5000t_0:</description>
+            <pubDate>Fri, 27 Oct 2023 20:52:08 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/f3d14b64-2a27-40c7-93f2-dd92f8bc5d1e.png" />
+        </item>
+        <item>
+            <title>New note by 高遠そら</title>
             <link>https://misskey.io/notes/9lblfxhelj</link>
             <description>レベルアップのお祝いに
 防御力の高いレザーアーマーを買ってもらった
@@ -742,17 +749,10 @@ https://himitunisitoite.fanbox.cc/manage/posts/6821818</description>
         </item>
         <item>
             <title>New note by ヌワラグレイ:role_illustrator::role_nsfw::skeb:</title>
-            <link>https://misskey.io/notes/9lcedv3uqy</link>
-            <description>エクストリームはらへりの民へ…</description>
-            <pubDate>Fri, 27 Oct 2023 16:34:21 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-dd6e4e0c-5246-43fd-8d54-5f6c105e902c.webp" />
-        </item>
-        <item>
-            <title>New note by ヌワラグレイ:role_illustrator::role_nsfw::skeb:</title>
-            <link>https://misskey.io/notes/9lcd39of1b</link>
-            <description />
-            <pubDate>Fri, 27 Oct 2023 15:58:07 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-dd6e4e0c-5246-43fd-8d54-5f6c105e902c.webp" />
+            <link>https://misskey.io/notes/9lcsnl81b1</link>
+            <description>#今月描いた絵を晒そう</description>
+            <pubDate>Fri, 27 Oct 2023 23:13:49 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-390d3ac1-0737-4faf-bb39-312107bdfbaa.webp" />
         </item>
         <item>
             <title>New note by 才津二等軍曹</title>
@@ -1140,6 +1140,13 @@ https://himitunisitoite.fanbox.cc/manage/posts/6821818</description>
         </item>
         <item>
             <title>New note by ヲダエ🔞</title>
+            <link>https://misskey.io/notes/9lclug421d</link>
+            <description>これからがほんとうの以下略…:ai_panic_misskeyio:</description>
+            <pubDate>Fri, 27 Oct 2023 20:03:12 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/854b7880-9cfd-4b29-b98d-71e34458c835.png" />
+        </item>
+        <item>
+            <title>New note by ヲダエ🔞</title>
             <link>https://misskey.io/notes/9lc0iihg68</link>
             <description>アイコン見せびらかし:note:した直後にアイコン変更した愚か者はどいつだーー！:ai_bonk::ota:</description>
             <pubDate>Fri, 27 Oct 2023 10:06:03 +0000</pubDate>
@@ -1151,13 +1158,6 @@ https://himitunisitoite.fanbox.cc/manage/posts/6821818</description>
             <description>#自分のアイコン見せびらかせ</description>
             <pubDate>Fri, 27 Oct 2023 09:26:21 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/1797bea9-9997-4b64-9d44-4201974f4d91.png" />
-        </item>
-        <item>
-            <title>New note by ヲダエ🔞</title>
-            <link>https://misskey.io/notes/9lajjhirx8</link>
-            <description>カフェ覗いたら:kawaii2:会合しとる…</description>
-            <pubDate>Thu, 26 Oct 2023 09:23:09 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/b7c6f9a6-71df-412c-8539-229c7ba4afa7.png" />
         </item>
         <item>
             <title>New note by ごーごーぱんだ</title>
@@ -1543,6 +1543,15 @@ https://skeb.jp/@li_th_la/works/200
         </item>
         <item>
             <title>New note by イヌゾー</title>
+            <link>https://misskey.io/notes/9lcw5g4x0d</link>
+            <description>EDで妖精が走ってるのがダンバイン
+EDでエアバイクで走ってるのがエルガイム
+EDで主人公が走ってるのがザブングル他多数</description>
+            <pubDate>Sat, 28 Oct 2023 00:51:41 +0000</pubDate>
+            <enclosure length="0" type="image/gif" url="https://s3.arkjp.net/misskey/de1b8f75-899d-4b91-8780-1f184f57bd55.gif" />
+        </item>
+        <item>
+            <title>New note by イヌゾー</title>
             <link>https://misskey.io/notes/9lbrcdl1jk</link>
             <description>コッコロちゃんがうちに来た</description>
             <pubDate>Fri, 27 Oct 2023 05:49:20 +0000</pubDate>
@@ -1554,14 +1563,6 @@ https://skeb.jp/@li_th_la/works/200
             <description>やっと下描きできた:ai_yay:</description>
             <pubDate>Thu, 26 Oct 2023 05:52:46 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/7c9f9d92-cee4-494a-9d94-d11e7ae614e3.webp" />
-        </item>
-        <item>
-            <title>New note by イヌゾー</title>
-            <link>https://misskey.io/notes/9l4mbiobrd</link>
-            <description>やっとできた気がする(出力&amp;確認中)
-使用画像数ぴったり100枚。計3分7秒。</description>
-            <pubDate>Sun, 22 Oct 2023 05:54:19 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/6fde9e7d-a3d6-4b8c-a09b-5ecf748ffc38.webp" />
         </item>
         <item>
             <title>New note by 不死千代</title>
@@ -1994,6 +1995,13 @@ https://www.wani.com/product/13877_202310/</description>
         </item>
         <item>
             <title>New note by 紅葉おろし</title>
+            <link>https://misskey.io/notes/9lcrgzgu13</link>
+            <description>というわけでおはようのたみ〜</description>
+            <pubDate>Fri, 27 Oct 2023 22:40:42 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/7306a438-d4f2-48bd-840c-d9fefefb62ca.webp" />
+        </item>
+        <item>
+            <title>New note by 紅葉おろし</title>
             <link>https://misskey.io/notes/9lcayyds7h</link>
             <description>毎日お絵かき５９日目</description>
             <pubDate>Fri, 27 Oct 2023 14:58:47 +0000</pubDate>
@@ -2005,20 +2013,6 @@ https://www.wani.com/product/13877_202310/</description>
             <description>ピースピース #自分のアイコン見せびらかせ</description>
             <pubDate>Fri, 27 Oct 2023 11:13:20 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/e6d327aa-e03e-4b1a-aa85-437b8c62dee4.webp" />
-        </item>
-        <item>
-            <title>New note by 紅葉おろし</title>
-            <link>https://misskey.io/notes/9lbc29yx3e</link>
-            <description>おはようのたみ〜</description>
-            <pubDate>Thu, 26 Oct 2023 22:41:35 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/7ce1c0e9-56f4-4649-a34e-bc42170a96ec.webp" />
-        </item>
-        <item>
-            <title>New note by 紅葉おろし</title>
-            <link>https://misskey.io/notes/9laupf167w</link>
-            <description>毎日お絵かき５８日目</description>
-            <pubDate>Thu, 26 Oct 2023 14:35:42 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/10d16790-9fea-4056-bcb6-526a4c0aab8a.webp" />
         </item>
         <item>
             <title>New note by ツナ爪@例大祭お48a</title>
@@ -2404,6 +2398,13 @@ https://twitter.com/LMaku5926/status/1689860633301557249?s=20</description>
         </item>
         <item>
             <title>New note by lyrinne</title>
+            <link>https://misskey.io/notes/9lcjaunj44</link>
+            <description>:ablobcatfloofpat:</description>
+            <pubDate>Fri, 27 Oct 2023 18:51:59 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-183cd037-a736-4c0e-8205-5f0d51f400fa.png" />
+        </item>
+        <item>
+            <title>New note by lyrinne</title>
             <link>https://misskey.io/notes/9labh7xowd</link>
             <description>😈:agooglehearts:</description>
             <pubDate>Thu, 26 Oct 2023 05:37:26 +0000</pubDate>
@@ -2527,13 +2528,6 @@ https://twitter.com/LMaku5926/status/1689860633301557249?s=20</description>
             <description>:hiace1989:</description>
             <pubDate>Tue, 29 Aug 2023 03:39:00 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/f0461d2b-4cfb-494b-8f2d-3bdcfd450b35.webp" />
-        </item>
-        <item>
-            <title>New note by lyrinne</title>
-            <link>https://misskey.io/notes/9ip725bkk9</link>
-            <description>👉👈</description>
-            <pubDate>Tue, 22 Aug 2023 01:31:10 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/4b45d4ef-e852-443e-8823-e9a628cdf1d7.webp" />
         </item>
         <item>
             <title>New note by xx682567:role_illustrator::role_nsfw:</title>
@@ -3066,19 +3060,11 @@ https://ecs.toranoana.jp/tora/ec/item/040031099858</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-cf2f883b-2d99-4226-b502-be2ac3f623bf.webp" />
         </item>
         <item>
-            <title>New note by あかざわRED:verify:🍆</title>
-            <link>https://misskey.io/notes/9l6ho1i4kk</link>
-            <description>24枚無料公開のやつ！
-ミソギちゃんおしりえっち 全体公開+高解像度版+psd&amp;amp;clipファイル | あかざわREDのDLsiteのところ https://ci-en.dlsite.com/creator/247/article/418720 #Ci_en #シエン</description>
-            <pubDate>Mon, 23 Oct 2023 13:19:38 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-7899dcf9-297e-463d-a633-fd3fcd9bf14f.webp" />
-        </item>
-        <item>
-            <title>New note by あかざわRED:verify:🍆</title>
-            <link>https://misskey.io/notes/9l6hfx9yfq</link>
-            <description>タコピー合同誌のやつです</description>
-            <pubDate>Mon, 23 Oct 2023 13:13:19 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-10506e9b-9a84-41af-af35-6c154b7f0bc5.webp" />
+            <title>New note by ストナタ</title>
+            <link>https://misskey.io/notes/9lcv1mjkgp</link>
+            <description>おっぱいむずい...</description>
+            <pubDate>Sat, 28 Oct 2023 00:20:44 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F309%2F778%2F290%2F436%2F587%2Foriginal%2F4c8348e0e22d0582.png" />
         </item>
         <item>
             <title>New note by ストナタ</title>
@@ -3200,6 +3186,13 @@ https://ecs.toranoana.jp/tora/ec/item/040031099858</description>
         </item>
         <item>
             <title>New note by ひろひろき</title>
+            <link>https://misskey.io/notes/9lctyxr07r</link>
+            <description>若草</description>
+            <pubDate>Fri, 27 Oct 2023 23:50:38 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/38b2ae7a-8aee-4f26-b22e-907107604d17.webp" />
+        </item>
+        <item>
+            <title>New note by ひろひろき</title>
             <link>https://misskey.io/notes/9lc2qpdura</link>
             <description>:huexe: #自分のアイコン見せびらかせ</description>
             <pubDate>Fri, 27 Oct 2023 11:08:25 +0000</pubDate>
@@ -3258,6 +3251,13 @@ https://fantia.jp/posts/2270137</description>
             <description>はあ…カンナちゃんのおにくぺろぺろしたい…</description>
             <pubDate>Sat, 29 Jul 2023 11:22:23 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/cbf62a1e-b620-4909-9fc6-c572391fac83.webp" />
+        </item>
+        <item>
+            <title>New note by 御免なさい:puddingified_verify:</title>
+            <link>https://misskey.io/notes/9lcnbsq90i</link>
+            <description>寝る前の落書き進捗</description>
+            <pubDate>Fri, 27 Oct 2023 20:44:41 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/85503f89-ebbe-4af1-9ae1-21e06e7f2377.webp" />
         </item>
         <item>
             <title>New note by 御免なさい:puddingified_verify:</title>
@@ -4008,10 +4008,10 @@ https://yeun.fanbox.cc/posts/6567162</description>
         </item>
         <item>
             <title>New note by HAM:sadparrot: メンテ90％:blobcat_frustration:</title>
-            <link>https://misskey.io/notes/9lc96r01b9</link>
-            <description>あたいが守ってやるよ！</description>
-            <pubDate>Fri, 27 Oct 2023 14:08:51 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/fdd15bda-5152-4616-9264-111729f071d9.webp" />
+            <link>https://misskey.io/notes/9lcweqw4se</link>
+            <description>むつきのたまあそび</description>
+            <pubDate>Sat, 28 Oct 2023 00:58:55 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/095dcc39-27ff-444c-a6dd-0bd4e2d0a5af.webp" />
         </item>
         <item>
             <title>New note by メタ太</title>
@@ -4297,6 +4297,13 @@ PVだと活発系ライバル→プレイ時は戦闘狂系ヒロイン→プレ
             <description>バニーの日だから特別ですよ…？こんな破廉恥な格好してあげるのなんて、私くらいなんですから……。</description>
             <pubDate>Tue, 22 Aug 2023 11:57:30 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/35c8077b-fcaa-467d-a143-4b2ac2cc1b84.webp" />
+        </item>
+        <item>
+            <title>New note by 赤色ぢぢ</title>
+            <link>https://misskey.io/notes/9lbgnh9lcq</link>
+            <description>リバース1999いちおうめっちゃ好みの女2人出たしズィマーくんもいるし、ガチャ一旦打ち止めで1.1アプデで実装されるガチ犬と1.2で実装されるザコ眼鏡のために石貯めとこ</description>
+            <pubDate>Fri, 27 Oct 2023 00:50:03 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-300d6e41-cca0-41e9-b722-60d849563f84.png" />
         </item>
         <item>
             <title>New note by かすみ</title>
@@ -5559,6 +5566,21 @@ https://fantia.jp/posts/2191282</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/796e2717-460b-4092-bf61-27614d9aa600.webp" />
         </item>
         <item>
+            <title>New note by 無双留年ボルバルザーク</title>
+            <link>https://misskey.io/notes/9lcp9ksu2q</link>
+            <description>半額で投売りされてて一つ買ってしまった
+カービィ可愛いねぇ</description>
+            <pubDate>Fri, 27 Oct 2023 21:38:57 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-aa60ffce-80a9-43fd-a50d-bf94bc3a8ca9.webp" />
+        </item>
+        <item>
+            <title>New note by 無双留年ボルバルザーク</title>
+            <link>https://misskey.io/notes/9lcosf2ies</link>
+            <description>味付煮卵を製造</description>
+            <pubDate>Fri, 27 Oct 2023 21:25:36 +0000</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://media.misskeyusercontent.com/io/39c718e6-a4a2-4153-825d-100cb3e932f9.jpg" />
+        </item>
+        <item>
             <title>New note by 暗黒えむ将軍:ablobcall:</title>
             <link>https://misskey.io/notes/9la617udi0</link>
             <description>設定あるんかい</description>
@@ -5803,6 +5825,13 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_285129/</description>
         </item>
         <item>
             <title>New note by 三鷹:skeb</title>
+            <link>https://misskey.io/notes/9lcjs6p1ov</link>
+            <description>#見た人も無言で黄色いものをあげる</description>
+            <pubDate>Fri, 27 Oct 2023 19:05:27 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-4aadac68-5c53-4730-a1b0-f08e19adfa40.png" />
+        </item>
+        <item>
+            <title>New note by 三鷹:skeb</title>
             <link>https://misskey.io/notes/9l72qeciuw</link>
             <description>朝から興奮
 :ohayoo:</description>
@@ -5830,13 +5859,6 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_285129/</description>
 そして:io:好き愛してるよ</description>
             <pubDate>Mon, 23 Oct 2023 09:14:38 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-17d613e8-1b3e-461e-bcd7-245afdf2974d.webp" />
-        </item>
-        <item>
-            <title>New note by 三鷹:skeb</title>
-            <link>https://misskey.io/notes/9l58pqmbe0</link>
-            <description>arnちゃんはいいなあ</description>
-            <pubDate>Sun, 22 Oct 2023 16:21:14 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-fcf36b8e-0407-4aed-8cc6-54f2daa3de3a.png" />
         </item>
         <item>
             <title>New note by ふじこ:skeb::role_nsfw:@新刊既刊委託中</title>
@@ -6254,6 +6276,13 @@ Please look forward to their debuts on 7/31!
             <description>flower🤍🌼</description>
             <pubDate>Wed, 05 Jul 2023 02:56:31 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://s3.arkjp.net/misskey/f0bbd923-140d-409e-b4f8-157d4dc194a9.png" />
+        </item>
+        <item>
+            <title>New note by .cho /テンチョー :skeb: c102新刊委託</title>
+            <link>https://misskey.io/notes/9lcxkgc4c4</link>
+            <description>こっちにしよ</description>
+            <pubDate>Sat, 28 Oct 2023 01:31:21 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/293e38b1-55c4-46aa-94e4-94c0d6b34364.webp" />
         </item>
         <item>
             <title>New note by .cho /テンチョー :skeb: c102新刊委託</title>
@@ -7038,10 +7067,24 @@ https://webcatalog.circle.ms/Perma/Circle/10450211/</description>
         </item>
         <item>
             <title>New note by シンリスク</title>
+            <link>https://misskey.io/notes/9lcopnht2t</link>
+            <description>💢</description>
+            <pubDate>Fri, 27 Oct 2023 21:23:27 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/9e19097e-b673-4fd4-a939-2c3ecfe03e7c.webp" />
+        </item>
+        <item>
+            <title>New note by シンリスク</title>
             <link>https://misskey.io/notes/9lcaojobva</link>
             <description>次回商業誌のやつのラフ…:blobcatmlem:</description>
             <pubDate>Fri, 27 Oct 2023 14:50:41 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/43e6e820-3149-4987-a08f-0e3dedb5e8d8.webp" />
+        </item>
+        <item>
+            <title>New note by ぶぶっか</title>
+            <link>https://misskey.io/notes/9lct28bdoc</link>
+            <description>(過去絵)朝ももか</description>
+            <pubDate>Fri, 27 Oct 2023 23:25:12 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/c0f560af-2d41-42d4-8a1e-ecc176e935c1.webp" />
         </item>
         <item>
             <title>New note by ぶぶっか</title>
@@ -8007,6 +8050,13 @@ Vtuber Silvervaleさん #バニーの日</description>
         </item>
         <item>
             <title>New note by くぬぎみやこ</title>
+            <link>https://misskey.io/notes/9lcn1kyj4c</link>
+            <description />
+            <pubDate>Fri, 27 Oct 2023 20:36:45 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-fc8175ca-b6bd-4517-a0ea-18f1b23b354d.webp" />
+        </item>
+        <item>
+            <title>New note by くぬぎみやこ</title>
             <link>https://misskey.io/notes/9lciqls66n</link>
             <description>はじめて3000いけた！！:ablobcatreachflip:</description>
             <pubDate>Fri, 27 Oct 2023 18:36:14 +0000</pubDate>
@@ -8665,6 +8715,14 @@ https://nearsidebaby.fanbox.cc/posts/6880513</description>
         </item>
         <item>
             <title>New note by 五月雨せつな@C102 2日目 東ス-11b</title>
+            <link>https://misskey.io/notes/9lcpkph6s2</link>
+            <description>なかなか絵がまとまらなくて悩んでたけど、ようやく冬コミのももあり本の表紙下描きが出来たのでペン入れ始めた…
+先月こんな感じかなーでラフの初稿上げた時はパースも何も無いしキャラどーんだけで状況が分かりにくかったので、ちゃんとドアとか壁が入る構図に直してお出迎えしてる感じになりました。</description>
+            <pubDate>Fri, 27 Oct 2023 21:47:36 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-ab96f69d-1980-42af-be47-febd03891d92.webp" />
+        </item>
+        <item>
+            <title>New note by 五月雨せつな@C102 2日目 東ス-11b</title>
             <link>https://misskey.io/notes/9l6h75e0e5</link>
             <description>NAOMI基板のハウスオブザデッド2をPS3のガンコン3でガンI/Oとセンサー基板の代用にしてちゃんとプレイ出来る様になった！嬉しい！研究して仕組みを作ってくださった事に感謝しかない…</description>
             <pubDate>Mon, 23 Oct 2023 13:06:30 +0000</pubDate>
@@ -8747,13 +8805,6 @@ https://www.melonbooks.co.jp/detail/detail.php?product_id=2034982</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-b6d487c1-4ff6-401d-bda9-07e15f2aca67.webp" />
         </item>
         <item>
-            <title>New note by 五月雨せつな@C102 2日目 東ス-11b</title>
-            <link>https://misskey.io/notes/9jscrtmpea</link>
-            <description>おみやげにさくし(サクマ)ドロップスを購入。ラインナップからケンシロウを外してジャギとラオウがグッズになってるのは珍しいと思うw</description>
-            <pubDate>Mon, 18 Sep 2023 11:14:07 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-b6d487c1-4ff6-401d-bda9-07e15f2aca67.webp" />
-        </item>
-        <item>
             <title>New note by かごのとり:verified_blue:</title>
             <link>https://misskey.io/notes/9lc3kn68mk</link>
             <description>ポケモンで一番かわいい子</description>
@@ -8777,6 +8828,13 @@ Xよりこの地へ来た！
 ここはロリエロを投稿しても凍結されぬのか！</description>
             <pubDate>Tue, 24 Oct 2023 10:46:09 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/aecb92d9-8d59-4612-b28d-d7d91ab62ebc.webp" />
+        </item>
+        <item>
+            <title>New note by Macop(まこぷ)</title>
+            <link>https://misskey.io/notes/9lcmt09xg0</link>
+            <description>寝るときは:nyanpuppu:ライトが照らしてくれます:murakamisan_sleeping:</description>
+            <pubDate>Fri, 27 Oct 2023 20:30:04 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-d06bc2a7-4224-42a9-a8a4-23560c09772f.webp" />
         </item>
         <item>
             <title>New note by Macop(まこぷ)</title>

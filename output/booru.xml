@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:51:18 -0000</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 13:03:52 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2775,7 +2775,7 @@
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9176702&amp;tags=dd_(giogio99)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://gelbooru.com/thumbnails/7e/1c/thumbnail_7e1c1e20c7e7dcec6bbf0164633f40f7.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/7e/1c/thumbnail_7e1c1e20c7e7dcec6bbf0164633f40f7.jpg" />
         </item>
         <item>
             <title />
@@ -10825,6 +10825,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9177517&amp;tags=nekoshoko</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d6/77/thumbnail_d677a47b6db4c5d219b8d4f3cb31b9d4.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9164730&amp;tags=nekoshoko</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ca/b4/thumbnail_cab4816974079b2c04dd954203a0e35a.jpg" />
@@ -10876,12 +10882,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8853926&amp;tags=nekoshoko</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/7a/f0/thumbnail_7af0b86fb65d483ed097908a9520a330.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8828611&amp;tags=nekoshoko</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/68/48/thumbnail_684811b49b954c83cc7d6549a46f5b95.jpg" />
         </item>
         <item>
             <title />

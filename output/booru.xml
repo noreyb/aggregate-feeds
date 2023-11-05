@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Sun, 05 Nov 2023 13:00:49 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 18:50:24 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -6361,6 +6361,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9198648&amp;tags=iwao178</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f8/d9/thumbnail_f8d9f93039b0184bcc5ec03f38c889ed.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9193985&amp;tags=iwao178</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/65/6f/thumbnail_656f59e3c8cb19301be4a3684b4e2f43.jpg" />
@@ -6412,12 +6418,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9168848&amp;tags=iwao178</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/81/bb/thumbnail_81bb2a2a2d25d2644b6bf4f3434a678a.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9168844&amp;tags=iwao178</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e3/ff/thumbnail_e3ffb10c81a0437a9f7052b9dc223e28.jpg" />
         </item>
         <item>
             <title />
@@ -7507,6 +7507,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9198818&amp;tags=kopaka_(karda_nui)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/40/e2/thumbnail_40e2380d6e5b47692ba3bf9e9f5413d6.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9172157&amp;tags=kopaka_(karda_nui)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a5/37/thumbnail_a5370e0c3bb091ae17b41d2062dfbebd.jpg" />
@@ -7558,12 +7564,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8974260&amp;tags=kopaka_(karda_nui)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/fb/ca/thumbnail_fbca45699c3130836918d2adcf0d90d0.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8974259&amp;tags=kopaka_(karda_nui)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/fb/54/thumbnail_fb5466118ab89ad403274a0171378b66.jpg" />
         </item>
         <item>
             <title />

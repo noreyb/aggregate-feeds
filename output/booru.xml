@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 09 Nov 2023 06:51:36 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 13:04:23 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -3757,6 +3757,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9212609&amp;tags=fujii_shingo</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d1/33/thumbnail_d13322c4c0514438a660ce5ab37622b5.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9053105&amp;tags=fujii_shingo</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/4e/58/thumbnail_4e5839c7f8bd2bc13fddd562bf6fcb90.jpg" />
@@ -3808,12 +3814,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=6542129&amp;tags=fujii_shingo</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/4b/a8/thumbnail_4ba833fca7dbc6cd3351a2e5f289c2ab.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=6542126&amp;tags=fujii_shingo</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d6/cc/thumbnail_d6cc0eca366e334284a4de9827554e29.jpg" />
         </item>
         <item>
             <title />
@@ -8527,6 +8527,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9213177&amp;tags=madana_(xesa7885)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/15/5c/thumbnail_155cd6f7b37dbdc649768c7624351ba2.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9048598&amp;tags=madana_(xesa7885)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/53/9e/thumbnail_539e6cea8e056048f7b13a0e9d2d2f10.jpg" />
@@ -8578,12 +8584,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9011340&amp;tags=madana_(xesa7885)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e6/47/thumbnail_e647e16fe11d58ddd28f5622a062a004.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8710489&amp;tags=madana_(xesa7885)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8b/45/thumbnail_8b45d49323680222b9bf550d2947c7dc.jpg" />
         </item>
         <item>
             <title />

@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 09 Nov 2023 18:50:48 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 01:48:12 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2221,6 +2221,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9214623&amp;tags=clearite</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3b/13/thumbnail_3b1338ef8c09f5196b06de8c37607c2c.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9210734&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3b/50/thumbnail_3b5080b7b6dc886837205d5694c21d1f.jpg" />
@@ -2272,12 +2278,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9139949&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f1/b9/thumbnail_f1b9c1f25f44f6f9542322916549b4bb.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9134000&amp;tags=clearite</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/24/00/thumbnail_2400b9921b11bd6d077ac970de49791b.jpg" />
         </item>
         <item>
             <title />
@@ -5695,6 +5695,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9214620&amp;tags=horosuke</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ad/ef/thumbnail_adef64490c9a037631dae51b41f56848.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9187098&amp;tags=horosuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/76/2e/thumbnail_762ed09e98c55641f8e5a53ae0808dc6.jpg" />
@@ -5746,12 +5752,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9090036&amp;tags=horosuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a1/bc/thumbnail_a1bc7f276d4ff51fdad9e3d177f1915d.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9090034&amp;tags=horosuke</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/13/f8/thumbnail_13f85f0a50398d57856e5739793872f9.jpg" />
         </item>
         <item>
             <title />
@@ -11899,6 +11899,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9215099&amp;tags=quasarcake</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/90/67/thumbnail_90677d4daaaa3c47fe82213954411cb1.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9192396&amp;tags=quasarcake</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f9/6a/thumbnail_f96a9d1fe406d1a406fd5e8482cfab88.jpg" />
@@ -11950,12 +11956,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9002279&amp;tags=quasarcake</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/67/c8/thumbnail_67c8dd28eae6df394afa7e50fb8d23be.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8970692&amp;tags=quasarcake</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/88/78/thumbnail_8878f6a49b237368335e06c5fe41c948.jpg" />
         </item>
         <item>
             <title />

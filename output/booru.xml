@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:50:35 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 13:03:38 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -10393,12 +10393,6 @@
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9185165&amp;tags=namidate</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5d/41/thumbnail_5d412b7e090afb45edd05729e15941e1.jpg" />
-        </item>
-        <item>
-            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9125842&amp;tags=namidate</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5c/c4/thumbnail_5cc46dae78b014fee89a7c1f806a3191.jpg" />
@@ -10438,6 +10432,12 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7539126&amp;tags=namidate</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/6e/04/thumbnail_6e04728b6abdb3e77cccb29de032ac82.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7539125&amp;tags=namidate</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d2/bc/thumbnail_d2bc19505ce780e7145fb9a8dc11f050.jpg" />
         </item>
         <item>
             <title />
@@ -14305,6 +14305,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9217214&amp;tags=shiseki_hirame</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f6/ef/thumbnail_f6efb35c79c37aa9e51d368f38f0957b.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9212414&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a5/fb/thumbnail_a5fbbf34fa44ca986276ac7edcf461c7.jpg" />
@@ -14356,12 +14362,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9124228&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/77/10/thumbnail_771028e231fd75e6e940476d5d7dce29.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9122482&amp;tags=shiseki_hirame</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/64/5b/thumbnail_645babfc927ec71e70785d85e70a65e5.jpg" />
         </item>
         <item>
             <title />
@@ -15211,6 +15211,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9217270&amp;tags=takaman_(gaffe)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/18/21/thumbnail_182159c7a1409684e5c43f0631b59401.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9132299&amp;tags=takaman_(gaffe)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/dd/b1/thumbnail_ddb1995e66b75dcfeee6591590e16400.jpg" />
@@ -15262,12 +15268,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8843308&amp;tags=takaman_(gaffe)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/55/d6/thumbnail_55d6ecdbe603e53ba37004eb4bddccc7.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8823698&amp;tags=takaman_(gaffe)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ac/0e/thumbnail_ac0e0072750d963250ae1741cb52a066.jpg" />
         </item>
         <item>
             <title />

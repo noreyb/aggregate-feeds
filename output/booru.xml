@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 10 Nov 2023 18:50:53 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 01:46:16 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -7813,6 +7813,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9218753&amp;tags=kunaboto</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/03/31/thumbnail_03318eb219753c39d6f58f6e8dd5f3a7.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9196244&amp;tags=kunaboto</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/37/ce/thumbnail_37ce2419d24f2c5e2c88d44db05bc924.jpg" />
@@ -7864,12 +7870,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9111340&amp;tags=kunaboto</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ea/07/thumbnail_ea07fbaf62ced519688cd1b794e39c44.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9092503&amp;tags=kunaboto</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/33/2c/thumbnail_332cb3614f5d0d4c4f0b78a4a3989e28.jpg" />
         </item>
         <item>
             <title />
@@ -11053,6 +11053,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9219388&amp;tags=noriko_(ni_noriko)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c7/d8/thumbnail_c7d8c86f9fa39dcb8343905742542b65.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9211956&amp;tags=noriko_(ni_noriko)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/00/e1/thumbnail_00e13a0092fb98113bb3abdbcf62b6e2.jpg" />
@@ -11104,12 +11110,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8912262&amp;tags=noriko_(ni_noriko)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/be/46/thumbnail_be462ccc79b410c759fb6ade2da5fad2.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8855310&amp;tags=noriko_(ni_noriko)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f7/72/thumbnail_f7721830fc946cccc6ef63cdcd13ef85.jpg" />
         </item>
         <item>
             <title />

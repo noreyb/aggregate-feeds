@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Mon, 13 Nov 2023 01:50:58 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 06:52:24 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -10015,6 +10015,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9229638&amp;tags=mo_(kireinamo)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/05/ed/thumbnail_05edc3ae07d7311783b400cc5a1699b5.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9048897&amp;tags=mo_(kireinamo)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/7a/d4/thumbnail_7ad4cd8da8347a305e9398a8c97a1dc4.jpg" />
@@ -10066,12 +10072,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8666584&amp;tags=mo_(kireinamo)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a3/88/thumbnail_a388d002c472d102132f4b0c7278aca0.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8666582&amp;tags=mo_(kireinamo)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e4/42/thumbnail_e44230d36b8ec8ce87c8f4e4fe537170.jpg" />
         </item>
         <item>
             <title />
@@ -17098,6 +17098,12 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9036940&amp;tags=wakamatsu372</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ec/d0/thumbnail_ecd0131d286f3fed5e03db25954244d4.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9229444&amp;tags=wan_young_yun</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/13/cd/thumbnail_13cdd5d5e6d4cf05c1109ece6779db59.jpg" />
         </item>
         <item>
             <title />

@@ -46,7 +46,7 @@ class FediverseAggregateFeed(IAggregateFeed):
                 "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) ",
             },
         )
-        time.sleep(2)
+        time.sleep(3)
         if r.status_code != requests.codes.ok:
             raise Exception(r.text)
         return feedparser.parse(r.text)

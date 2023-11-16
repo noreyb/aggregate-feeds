@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:51:19 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 06:52:14 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -3037,6 +3037,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9240672&amp;tags=dsmile</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/21/16/thumbnail_2116d5004bb431932fa69766e0debaed.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9225175&amp;tags=dsmile</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/02/30/thumbnail_0230d4338316eb9d66486ac94200c7e3.jpg" />
@@ -3088,12 +3094,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8562534&amp;tags=dsmile</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f8/ec/thumbnail_f8ec03baa49f6c8598142cd727efd595.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8497380&amp;tags=dsmile</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/dc/3e/thumbnail_dc3ee42ac088b602833636dd9e365dbb.jpg" />
         </item>
         <item>
             <title />

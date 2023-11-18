@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Sat, 18 Nov 2023 06:50:50 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 13:01:27 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2797,6 +2797,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9250102&amp;tags=dh-zone</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/82/85/thumbnail_82851b617612243574802ff318bae20a.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9249509&amp;tags=dh-zone</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a5/25/thumbnail_a525dd03a5847257014b2b5a141f399f.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9222375&amp;tags=dh-zone</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/57/92/thumbnail_5792a6fdd58101adcff551efa54c489d.jpg" />
@@ -2842,18 +2854,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9020566&amp;tags=dh-zone</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/33/12/thumbnail_3312064121c9c557a40636a78abb27b0.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9000032&amp;tags=dh-zone</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a5/80/thumbnail_a580340890cc827cf26db13dd08c7486.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8989619&amp;tags=dh-zone</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/69/e2/thumbnail_69e2d7e6041b6d5735291bbe576b4cbd.jpg" />
         </item>
         <item>
             <title />
@@ -6607,6 +6607,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9250160&amp;tags=jtveemo</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://gelbooru.com/thumbnails/fe/4b/thumbnail_fe4b3bc0ceaa420cfb77a2e122ce4f0f.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9191541&amp;tags=jtveemo</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/48/b4/thumbnail_48b4ba2c8c72fe408024c0296ed27dac.jpg" />
@@ -6658,12 +6664,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9116171&amp;tags=jtveemo</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8d/36/thumbnail_8d36e26cf534c115ae244c71e7f1dac8.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9098483&amp;tags=jtveemo</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/28/7a/thumbnail_287ae53670897fda3fcbe82733a5ab37.jpg" />
         </item>
         <item>
             <title />

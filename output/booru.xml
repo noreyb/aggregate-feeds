@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 23 Nov 2023 01:50:47 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 06:52:10 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -613,6 +613,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9269791&amp;tags=akitetsu</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/6e/6b/thumbnail_6e6b576eb28c444d8000b83c4378eb22.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9266676&amp;tags=akitetsu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/09/09/thumbnail_09097411965a705a534fc8b407eca7f2.jpg" />
@@ -664,12 +670,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9120678&amp;tags=akitetsu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e6/8e/thumbnail_e68e0915060c181275cb6253efa1d38b.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9070624&amp;tags=akitetsu</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/65/44/thumbnail_654438b7a6cf16f8d01212d023eb5842.jpg" />
         </item>
         <item>
             <title />
@@ -11059,6 +11059,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9269435&amp;tags=noriko_(ni_noriko)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f4/42/thumbnail_f4425a38ee4b87cf7b61e5ad0e33ec64.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9219388&amp;tags=noriko_(ni_noriko)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c7/d8/thumbnail_c7d8c86f9fa39dcb8343905742542b65.jpg" />
@@ -11110,12 +11116,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8954693&amp;tags=noriko_(ni_noriko)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/42/2b/thumbnail_422baf21fb4362ff11ed267d4666717f.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8912262&amp;tags=noriko_(ni_noriko)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/be/46/thumbnail_be462ccc79b410c759fb6ade2da5fad2.jpg" />
         </item>
         <item>
             <title />
@@ -18235,6 +18235,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9269591&amp;tags=yuuji_(and)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2d/cd/thumbnail_2dcd333fee5b2be78c6e6f1693083be3.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9238740&amp;tags=yuuji_(and)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b6/72/thumbnail_b6721d72649905314880b647b2a75a93.jpg" />
@@ -18286,12 +18292,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9089471&amp;tags=yuuji_(and)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8c/03/thumbnail_8c03970f543ddb839630b9f00dabe409.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9062028&amp;tags=yuuji_(and)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/94/bf/thumbnail_94bf734d22a055627e32f3489a69b7a9.jpg" />
         </item>
         <item>
             <title />

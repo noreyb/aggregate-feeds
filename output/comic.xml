@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 23 Nov 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>第2話 霧の要（かなめ）村</title>
             <link>https://kuragebunch.com/episode/14079602755395549837</link>
@@ -1502,6 +1502,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[34発目 ③] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/14079602755479574807</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 24 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755479574807-e17e2f2419aec19581db90141ae02f42" />
         </item>
         <item>
             <title>[34発目 ②] こういうのがいい</title>
@@ -3364,6 +3371,13 @@
             <description>結婚するって言ったよね？</description>
             <pubDate>Mon, 01 May 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361183570631-af3de0d2bac6d99adf49f7b890075761" />
+        </item>
+        <item>
+            <title>[第21話] 地球外少年少女</title>
+            <link>https://tonarinoyj.jp/episode/14079602755479574799</link>
+            <description>地球外少年少女</description>
+            <pubDate>Fri, 24 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755479574799-f40669c6a404c347ecbc149b67725ff5" />
         </item>
         <item>
             <title>[第20話] 地球外少年少女</title>

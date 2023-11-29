@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 29 Nov 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>象の恥、鶴はおどる</title>
             <link>https://kuragebunch.com/episode/14079602755483509285</link>
@@ -3135,6 +3135,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/316112896890762684-74d0fa6df1924e2324f5bf5c99279fb8" />
         </item>
         <item>
+            <title>[第18話]シバタリアン</title>
+            <link>https://shonenjumpplus.com/episode/14079602755506640039</link>
+            <description>シバタリアン</description>
+            <pubDate>Wed, 29 Nov 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755506640039-05d033d5cc2229a756aebeb6168496f5" />
+        </item>
+        <item>
             <title>[第17話]シバタリアン</title>
             <link>https://shonenjumpplus.com/episode/14079602755448541518</link>
             <description>シバタリアン</description>
@@ -3875,6 +3882,13 @@
             <description>サチ録～サチの黙示録～</description>
             <pubDate>Thu, 06 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361458130011-f0604c409c7c1b50d63cdc076262ed52" />
+        </item>
+        <item>
+            <title>[Chapter.18]天地ミッション</title>
+            <link>https://shonenjumpplus.com/episode/14079602755506642356</link>
+            <description>天地ミッション</description>
+            <pubDate>Wed, 29 Nov 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755506642356-eb68f34a3b548618eb36a734a42458ef" />
         </item>
         <item>
             <title>[Chapter.17]天地ミッション</title>

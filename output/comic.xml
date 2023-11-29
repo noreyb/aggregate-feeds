@@ -4,7 +4,21 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 28 Nov 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:00:00 +0000</lastBuildDate>
+        <item>
+            <title>[第1話]勝利の女神：NIKKE すいーとえんかうんと</title>
+            <link>https://www.corocoro.jp/episode/14079602755502771318</link>
+            <description>勝利の女神：NIKKE すいーとえんかうんと</description>
+            <pubDate>Wed, 29 Nov 2023 00:45:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.corocoro.jp/public/episode-thumbnail/14079602755502771318-23616ace59feb41436d009cdd8eedfd0" />
+        </item>
+        <item>
+            <title>[第2話①] バカ女26時</title>
+            <link>https://tonarinoyj.jp/episode/14079602755451783880</link>
+            <description>バカ女26時</description>
+            <pubDate>Wed, 29 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755451783880-2d4c0a01b63a8d07d64f5260f62406c9" />
+        </item>
         <item>
             <title>[第1話] バカ女26時</title>
             <link>https://tonarinoyj.jp/episode/14079602755420766202</link>
@@ -46,6 +60,13 @@
             <description>スウィングが無ければ意味が無い</description>
             <pubDate>Tue, 14 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755430095088-f083393071782f80ca2d3248e7dab626" />
+        </item>
+        <item>
+            <title>[第2話] しれっとすげぇこと言ってるギャル。</title>
+            <link>https://tonarinoyj.jp/episode/14079602755476527452</link>
+            <description>しれっとすげぇこと言ってるギャル。ー私立パラの丸高校の日常ー</description>
+            <pubDate>Wed, 29 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755476527452-9e064999a589448dcffa22ebae09762c" />
         </item>
         <item>
             <title>[第1話] しれっとすげぇこと言ってるギャル。</title>
@@ -2580,6 +2601,13 @@
             <description>マタシタ71センチ</description>
             <pubDate>Sun, 03 Sep 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755157016012-3e9cd8cd23dc360692d50c8ce2a88e30" />
+        </item>
+        <item>
+            <title>[休載イラスト] ヤンキー君と科学ごはん</title>
+            <link>https://tonarinoyj.jp/episode/14079602755491983490</link>
+            <description>ヤンキー君と科学ごはん</description>
+            <pubDate>Wed, 29 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755491983490-09be5bb7faa87940a19f5f54a2d99103" />
         </item>
         <item>
             <title>[13コマ目：定期テスト・焼きそば] ヤンキー君と科学ごはん</title>

@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 01 Dec 2023 06:52:00 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 13:04:53 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -67,6 +67,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9301888&amp;tags=1ssakawaguchi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/64/fe/thumbnail_64fef933b0fccffc3f00d13e5160ac8a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9290072&amp;tags=1ssakawaguchi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/74/ec/thumbnail_74ec359efce8a99bbec3977f732bef5e.jpg" />
@@ -118,12 +124,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9216114&amp;tags=1ssakawaguchi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5d/67/thumbnail_5d6767617869229751f768e0bea88bf0.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9209533&amp;tags=1ssakawaguchi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/78/ec/thumbnail_78ec35f5384ea4798c1260def980a437.jpg" />
         </item>
         <item>
             <title />
@@ -5215,6 +5215,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9302298&amp;tags=hero_neisan</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/15/d2/thumbnail_15d280d36a783ff6ee7de59f78434712.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9278636&amp;tags=hero_neisan</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/4e/54/thumbnail_4e5416e8f06c1a59fd3dbd46cfe22f51.jpg" />
@@ -5269,9 +5275,9 @@
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9128929&amp;tags=hero_neisan</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9302233&amp;tags=hews</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/65/d3/thumbnail_65d33f941271003fb307cc34fd46901c.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/02/e3/thumbnail_02e30ab3fb5f1cc91e2cdac92c5a566b.jpg" />
         </item>
         <item>
             <title />
@@ -5326,12 +5332,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9288533&amp;tags=hews</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e1/e8/thumbnail_e1e81848644333d4d98b817a612c6b0f.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9281324&amp;tags=hews</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1e/9c/thumbnail_1e9c7988be58b9fed6fca7c796f0c398.jpg" />
         </item>
         <item>
             <title />
@@ -11365,6 +11365,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9302452&amp;tags=osiimi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b0/d9/thumbnail_b0d95fba9e059cd39b85f556fbb35630.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9302435&amp;tags=osiimi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/14/18/thumbnail_14185a38df02f5e69b17b6f5136ba954.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9160326&amp;tags=osiimi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5c/92/thumbnail_5c920cf50e21f87ee49488b9ed24c7d4.jpg" />
@@ -11410,18 +11422,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8981452&amp;tags=osiimi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/20/03/thumbnail_2003ddf34f92b3a26dbd063274c90e3a.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8975112&amp;tags=osiimi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d9/9b/thumbnail_d99b69e7edd43d45c5456681186b3efe.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8968618&amp;tags=osiimi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/8e/59/thumbnail_8e593d1098c297ae98d4874c9b2ee199.jpg" />
         </item>
         <item>
             <title />

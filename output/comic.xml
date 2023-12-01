@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 30 Nov 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>第３０話　文化祭④</title>
             <link>https://comic-days.com/episode/14079602755131560826</link>
@@ -109,6 +109,13 @@
             <description>バカ女26時</description>
             <pubDate>Wed, 22 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755420766202-09d1f196c1626caedc27a04439372ede" />
+        </item>
+        <item>
+            <title>第3話 ういちの広場</title>
+            <link>https://kuragebunch.com/episode/14079602755395549842</link>
+            <description>ういちの島</description>
+            <pubDate>Fri, 17 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755395549842-a4dbc2c5eb27d97bcd763d5be0da46a9" />
         </item>
         <item>
             <title>第2話 霧の要（かなめ）村</title>
@@ -1238,18 +1245,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269632237305143755-4450df36fa58dd3f7a91e7175429d017" />
         </item>
         <item>
+            <title>第54話 好敵手と書いてなんて読むでしょう？</title>
+            <link>https://kuragebunch.com/episode/14079602755400099939</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 17 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755400099939-608ed3e67e82d422ac5ecb7a252b7fe7" />
+        </item>
+        <item>
             <title>第53話 スタートにつきました</title>
             <link>https://kuragebunch.com/episode/14079602755346310923</link>
             <description>のボルダ</description>
             <pubDate>Fri, 03 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755346310923-366e87e37bff25f43af4948f04cf040e" />
-        </item>
-        <item>
-            <title>第52話 とあるお休みの日</title>
-            <link>https://kuragebunch.com/episode/14079602755281326787</link>
-            <description>のボルダ</description>
-            <pubDate>Fri, 20 Oct 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755281326787-b55dd774e8cc5158f3b0d392c4774916" />
         </item>
         <item>
             <title>番外編 いいこと思いついたっス</title>
@@ -1469,6 +1476,20 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484104-9f3bc27b5436afc484d7344f3e699daf" />
         </item>
         <item>
+            <title>第４話</title>
+            <link>https://comic-days.com/episode/14079602755154484096</link>
+            <description>悪樓の島</description>
+            <pubDate>Tue, 10 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484096-3b849dc608ad55a4970462de5492a550" />
+        </item>
+        <item>
+            <title>第３話</title>
+            <link>https://comic-days.com/episode/14079602755154484090</link>
+            <description>悪樓の島</description>
+            <pubDate>Tue, 26 Sep 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484090-8e5fe56eb85f8716267ca8a19f9c315e" />
+        </item>
+        <item>
             <title>第２話</title>
             <link>https://comic-days.com/episode/14079602755154484082</link>
             <description>悪樓の島</description>
@@ -1600,6 +1621,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[34発目 ④] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/14079602755506203882</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 01 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755506203882-2ba80cb26f3929b8c48a71439acd5933" />
         </item>
         <item>
             <title>[34発目 ③] こういうのがいい</title>
@@ -3527,6 +3555,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361183570631-af3de0d2bac6d99adf49f7b890075761" />
         </item>
         <item>
+            <title>[第22話] 地球外少年少女</title>
+            <link>https://tonarinoyj.jp/episode/14079602755506203901</link>
+            <description>地球外少年少女</description>
+            <pubDate>Fri, 01 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755506203901-7720f815a30a379f9faf711ce8a8c1a3" />
+        </item>
+        <item>
             <title>[第21話] 地球外少年少女</title>
             <link>https://tonarinoyj.jp/episode/14079602755479574799</link>
             <description>地球外少年少女</description>
@@ -3553,6 +3588,13 @@
             <description>地球外少年少女</description>
             <pubDate>Fri, 12 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361214474046-19171a9dda1b35f65725da45336af689" />
+        </item>
+        <item>
+            <title>[休載イラスト] 聖母の断罪</title>
+            <link>https://tonarinoyj.jp/episode/14079602755506203893</link>
+            <description>聖母の断罪</description>
+            <pubDate>Fri, 01 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755506203893-dbab2d780412b2f3b4f4528bd7646240" />
         </item>
         <item>
             <title>[第14話] 聖母の断罪</title>

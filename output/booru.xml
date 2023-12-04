@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Mon, 04 Dec 2023 06:52:21 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 13:05:16 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2353,6 +2353,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9314509&amp;tags=collagen</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/af/52/thumbnail_af52acf6ea7d6bf5f44f89c1d20c5e3a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9201999&amp;tags=collagen</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ea/27/thumbnail_ea27b8072a3b13bda3ce846b04c4841a.jpg" />
@@ -2404,12 +2410,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9125898&amp;tags=collagen</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/26/b1/thumbnail_26b16999dfef23da35d14835fc37d5bb.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9124919&amp;tags=collagen</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ed/20/thumbnail_ed2054891100d36b8b741dad48e7972c.jpg" />
         </item>
         <item>
             <title />

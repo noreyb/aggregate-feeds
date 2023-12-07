@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 07 Dec 2023 06:52:09 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 13:05:28 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -12325,6 +12325,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9327172&amp;tags=rkgk_ojisan</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/6d/de/thumbnail_6ddef1527c707f15bc6adbde34e04e0a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9312396&amp;tags=rkgk_ojisan</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/0e/64/thumbnail_0e6426c370e4b8548dcb98a7784586ea.jpg" />
@@ -12376,12 +12382,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9243167&amp;tags=rkgk_ojisan</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/34/ea/thumbnail_34eac08f1699706abd113835b06662f1.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9243166&amp;tags=rkgk_ojisan</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/da/f0/thumbnail_daf05b091cfcdb3badf828b64a74b076.jpg" />
         </item>
         <item>
             <title />
@@ -14371,6 +14371,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9327142&amp;tags=shiseki_hirame</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a6/3c/thumbnail_a63c55c04723e9f31c88ed41ed3b8da9.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9289408&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/52/1a/thumbnail_521a1317705ede7f39337dd615733fdc.jpg" />
@@ -14422,12 +14428,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9217214&amp;tags=shiseki_hirame</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f6/ef/thumbnail_f6efb35c79c37aa9e51d368f38f0957b.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9212414&amp;tags=shiseki_hirame</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a5/fb/thumbnail_a5fbbf34fa44ca986276ac7edcf461c7.jpg" />
         </item>
         <item>
             <title />

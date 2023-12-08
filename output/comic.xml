@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 07 Dec 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[第6話]コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</title>
             <link>https://shonenjumpplus.com/episode/14079602755518248311</link>
@@ -1553,18 +1553,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755325821293-84f798d76d128e7b539a9a61b92a7c00" />
         </item>
         <item>
+            <title>第１１話　お熱いマンガ道場</title>
+            <link>https://comic-days.com/episode/4855956445051137649</link>
+            <description>胸がドキワ荘</description>
+            <pubDate>Fri, 13 Oct 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137649-1febaff0ae41082e170efe2dce919f23" />
+        </item>
+        <item>
             <title>第１０話　あっつ熱ビーチ</title>
             <link>https://comic-days.com/episode/4855956445051137640</link>
             <description>胸がドキワ荘</description>
             <pubDate>Fri, 08 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137640-1b48b9cc649aec2d5fd46382c317e474" />
-        </item>
-        <item>
-            <title>第９話　青森Lover♡</title>
-            <link>https://comic-days.com/episode/4855956445051137632</link>
-            <description>胸がドキワ荘</description>
-            <pubDate>Fri, 11 Aug 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137632-923da06f8b3a2e51d16ee55ba4c704ae" />
         </item>
         <item>
             <title>第２話　５人と１匹＋α</title>
@@ -1726,6 +1726,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[34発目 ⑤] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/14079602755506203925</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 08 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755506203925-4e1fc3d87ce5ad03687af073b3d085a4" />
         </item>
         <item>
             <title>[34発目 ④] こういうのがいい</title>

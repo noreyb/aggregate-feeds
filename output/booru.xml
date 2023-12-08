@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 08 Dec 2023 06:51:51 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 13:04:16 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2053,6 +2053,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9330264&amp;tags=chiyomaru_(yumichiyo0606)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3c/19/thumbnail_3c19d4b14c272c8623aaec33d3959974.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9239963&amp;tags=chiyomaru_(yumichiyo0606)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/74/a4/thumbnail_74a4993c2703beaec92fe5a0d128df13.jpg" />
@@ -2104,12 +2110,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9011874&amp;tags=chiyomaru_(yumichiyo0606)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/80/de/thumbnail_80dec46e00fdb7c0070cf9b0883c0814.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8993089&amp;tags=chiyomaru_(yumichiyo0606)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/bf/ac/thumbnail_bfaccc8b7ebceb57089f8cafe6e413ff.jpg" />
         </item>
         <item>
             <title />
@@ -6265,12 +6265,6 @@
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9325761&amp;tags=iuui</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/fe/90/thumbnail_fe90783bfc431510f6bb0e8b67d54823.jpg" />
-        </item>
-        <item>
-            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9324845&amp;tags=iuui</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/92/db/thumbnail_92dbea833d7da27945538f3e22fab3a6.jpg" />
@@ -6316,6 +6310,12 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9107762&amp;tags=iuui</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/56/00/thumbnail_560099453064629075c01f8c8347ec08.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8996868&amp;tags=iuui</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d8/2c/thumbnail_d82cb74ccec9e6028aa718898e3abcf7.jpg" />
         </item>
         <item>
             <title />
@@ -15745,6 +15745,24 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9330428&amp;tags=teriibol</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/16/1f/thumbnail_161f03377aac7df4d75f60447d27368c.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9330427&amp;tags=teriibol</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ae/41/thumbnail_ae41cc941c884afefe24031ec3b71ff8.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9330426&amp;tags=teriibol</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b7/85/thumbnail_b7856aed0e20c889fd429f20194e4c2a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9329168&amp;tags=teriibol</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/42/f1/thumbnail_42f1b3af1d32887edcfb334479ca922c.jpg" />
@@ -15784,24 +15802,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8701539&amp;tags=teriibol</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/86/f3/thumbnail_86f316661798c77201f0c0494195f1cb.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8668470&amp;tags=teriibol</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/70/26/thumbnail_70266597d36899d98f7784f2a49c6558.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8598309&amp;tags=teriibol</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/42/55/thumbnail_42554efe378bb6b5ca0ffad2ab63dbf3.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8476052&amp;tags=teriibol</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a4/6f/thumbnail_a46f99b0a03949290008b1dfcb840493.jpg" />
         </item>
         <item>
             <title />

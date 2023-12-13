@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 13 Dec 2023 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[第6話]コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</title>
             <link>https://shonenjumpplus.com/episode/14079602755518248311</link>
@@ -151,6 +151,13 @@
             <description>象の恥、鶴はおどる</description>
             <pubDate>Tue, 28 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755483509285-788bfd1e56eeb87456a83e65df5b5d14" />
+        </item>
+        <item>
+            <title>[第3話]勝利の女神：NIKKE すいーとえんかうんと</title>
+            <link>https://www.corocoro.jp/episode/14079602755529913876</link>
+            <description>勝利の女神：NIKKE すいーとえんかうんと</description>
+            <pubDate>Wed, 13 Dec 2023 00:45:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.corocoro.jp/public/episode-thumbnail/14079602755529913876-0d576f654b6a0d4ff60d542ca1e72463" />
         </item>
         <item>
             <title>[第2話]勝利の女神：NIKKE すいーとえんかうんと</title>
@@ -3296,6 +3303,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/316112896890762684-74d0fa6df1924e2324f5bf5c99279fb8" />
         </item>
         <item>
+            <title>[第19話]シバタリアン</title>
+            <link>https://shonenjumpplus.com/episode/14079602755559069975</link>
+            <description>シバタリアン</description>
+            <pubDate>Wed, 13 Dec 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755559069975-d6b11e37420a76a4d0d25e000f6d490d" />
+        </item>
+        <item>
             <title>[第18話]シバタリアン</title>
             <link>https://shonenjumpplus.com/episode/14079602755506640039</link>
             <description>シバタリアン</description>
@@ -4071,6 +4085,13 @@
             <description>サチ録～サチの黙示録～</description>
             <pubDate>Thu, 06 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361458130011-f0604c409c7c1b50d63cdc076262ed52" />
+        </item>
+        <item>
+            <title>[Chapter.20]天地ミッション</title>
+            <link>https://shonenjumpplus.com/episode/14079602755559070694</link>
+            <description>天地ミッション</description>
+            <pubDate>Wed, 13 Dec 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755559070694-6a399b67b55b7433db95911a54da8661" />
         </item>
         <item>
             <title>[Chapter.19]天地ミッション</title>

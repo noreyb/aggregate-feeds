@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 14 Dec 2023 18:52:10 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 01:52:13 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -4129,6 +4129,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356652&amp;tags=gachou</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/cd/2f/thumbnail_cd2fa850cafd84bc081378f963cb4c0e.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356651&amp;tags=gachou</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/00/aa/thumbnail_00aa95fb6fbabd0ca70be66f4041664f.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9315296&amp;tags=gachou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/59/4a/thumbnail_594aebb16a4b2745ef4f22ab3d61d128.jpg" />
@@ -4174,18 +4186,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9115586&amp;tags=gachou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e3/33/thumbnail_e33302f21b8f63e79ab81cb288fb4eaf.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9093151&amp;tags=gachou</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/fd/80/thumbnail_fd80cd9c11f3b98c1156e96278a9f98f.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9057555&amp;tags=gachou</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/32/86/thumbnail_3286b62e5e0b91d6ed1716999c4ad33d.jpg" />
         </item>
         <item>
             <title />
@@ -12091,6 +12091,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356202&amp;tags=rakeemspoon</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d9/dd/thumbnail_d9ddcd644a57f60c1da5970baaa744dc.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9325275&amp;tags=rakeemspoon</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/23/2d/thumbnail_232db81c9e7fda4ffbbd38358f75259d.jpg" />
@@ -12142,12 +12148,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9230771&amp;tags=rakeemspoon</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/33/d6/thumbnail_33d6353d020216fedf622b717ad3b61f.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9217424&amp;tags=rakeemspoon</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/54/ac/thumbnail_54ac26f1a00570fab022cd6ff9eab4c9.jpg" />
         </item>
         <item>
             <title />
@@ -17101,6 +17101,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356027&amp;tags=veryhardloco</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b4/24/thumbnail_b42445e33ae4f36d98f1067a5aa794b7.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356019&amp;tags=veryhardloco</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ca/fd/thumbnail_cafd13714e267cb804304a3f4a02d241.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9355944&amp;tags=veryhardloco</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d4/1f/thumbnail_d41feadea000feb8de7e9406b34d94f2.jpg" />
@@ -17146,18 +17158,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9221865&amp;tags=veryhardloco</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/81/24/thumbnail_81242d52ea0962b628c23dd936ea7cc3.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9221863&amp;tags=veryhardloco</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2d/19/thumbnail_2d19a8d02a41c64201f150c1bf30804d.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9164091&amp;tags=veryhardloco</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2f/1e/thumbnail_2f1e2a4388080c983d42c5cb18900da7.jpg" />
         </item>
         <item>
             <title />

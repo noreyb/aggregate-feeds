@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Sat, 16 Dec 2023 18:50:26 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 01:55:19 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -367,6 +367,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9364251&amp;tags=agawa_ryou</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/93/02/thumbnail_93028eeb482db515668ea077c794dcb2.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9360224&amp;tags=agawa_ryou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/35/28/thumbnail_35287529d03ac8eb4808eecdd0e58ae3.jpg" />
@@ -418,12 +424,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9187773&amp;tags=agawa_ryou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/41/16/thumbnail_411681fa902b60f86f4e3d0435be3938.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9155650&amp;tags=agawa_ryou</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ca/20/thumbnail_ca207e81c34bedfcd1275f2f2bd39532.jpg" />
         </item>
         <item>
             <title />
@@ -12091,6 +12091,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9364339&amp;tags=rakeemspoon</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/5c/76/thumbnail_5c76842264cdc97351cfaa6aa10d0956.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9356202&amp;tags=rakeemspoon</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d9/dd/thumbnail_d9ddcd644a57f60c1da5970baaa744dc.jpg" />
@@ -12142,12 +12148,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9230774&amp;tags=rakeemspoon</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e7/e3/thumbnail_e7e3e325ab7325f40b1ccac0f09bcf6d.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9230771&amp;tags=rakeemspoon</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/33/d6/thumbnail_33d6353d020216fedf622b717ad3b61f.jpg" />
         </item>
         <item>
             <title />

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 19 Dec 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[第7話]コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</title>
             <link>https://shonenjumpplus.com/episode/14079602755570531195</link>
@@ -174,6 +174,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755483509285-788bfd1e56eeb87456a83e65df5b5d14" />
         </item>
         <item>
+            <title>[特別イラスト①]勝利の女神：NIKKE すいーとえんかうんと</title>
+            <link>https://www.corocoro.jp/episode/14079602755555603062</link>
+            <description>勝利の女神：NIKKE すいーとえんかうんと</description>
+            <pubDate>Wed, 20 Dec 2023 00:45:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.corocoro.jp/public/episode-thumbnail/14079602755555603062-4109fd15af19798e358f0abdee858e1c" />
+        </item>
+        <item>
             <title>[第3話]勝利の女神：NIKKE すいーとえんかうんと</title>
             <link>https://www.corocoro.jp/episode/14079602755529913876</link>
             <description>勝利の女神：NIKKE すいーとえんかうんと</description>
@@ -193,6 +200,13 @@
             <description>勝利の女神：NIKKE すいーとえんかうんと</description>
             <pubDate>Wed, 29 Nov 2023 00:45:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.corocoro.jp/public/episode-thumbnail/14079602755502771318-23616ace59feb41436d009cdd8eedfd0" />
+        </item>
+        <item>
+            <title>[第4話] バカ女26時</title>
+            <link>https://tonarinoyj.jp/episode/14079602755539970411</link>
+            <description>バカ女26時</description>
+            <pubDate>Wed, 20 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755539970411-70ca5d7a3fcc7d87b24a69bd0d07b289" />
         </item>
         <item>
             <title>[第3話] バカ女26時</title>
@@ -1014,6 +1028,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321587910-2a93586e3e12792753c4fa6d776adcdb" />
         </item>
         <item>
+            <title>[第3話] 恋は忍耐</title>
+            <link>https://tonarinoyj.jp/episode/14079602755558848762</link>
+            <description>恋は忍耐</description>
+            <pubDate>Wed, 20 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755558848762-b7f222bc292b9d62ec272041c0d87cd8" />
+        </item>
+        <item>
             <title>[第2話] 恋は忍耐</title>
             <link>https://tonarinoyj.jp/episode/14079602755444899747</link>
             <description>恋は忍耐</description>
@@ -1656,20 +1677,6 @@
             <description>恋より青く</description>
             <pubDate>Fri, 08 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755173783887-f59d70a15b62e148363f4f5be67189b5" />
-        </item>
-        <item>
-            <title>第5話</title>
-            <link>https://comic-ogyaaa.com/episode/4856001361359162134</link>
-            <description>恋より青く</description>
-            <pubDate>Fri, 23 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/4856001361359162134-dc89b28d2bb5818a6c4442c8669030d7" />
-        </item>
-        <item>
-            <title>第4話</title>
-            <link>https://comic-ogyaaa.com/episode/4856001361311163233</link>
-            <description>恋より青く</description>
-            <pubDate>Fri, 09 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/4856001361311163233-992904b5a96190b8fed48f259bc062da" />
         </item>
         <item>
             <title>第3話</title>

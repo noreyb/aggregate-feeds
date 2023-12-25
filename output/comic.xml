@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sun, 24 Dec 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 15:00:00 +0000</lastBuildDate>
         <item>
             <title>秒読まないで</title>
             <link>https://shonenjumpplus.com/episode/14079602755586206556</link>
@@ -2328,6 +2328,13 @@
             <description>鶴子の恩返し</description>
             <pubDate>Thu, 24 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755125437490-b7ed2d7767ec7f6874ef29403803446b" />
+        </item>
+        <item>
+            <title>[#12]スパイダーマン：オクトパスガール</title>
+            <link>https://shonenjumpplus.com/episode/14079602755589623268</link>
+            <description>スパイダーマン：オクトパスガール</description>
+            <pubDate>Mon, 25 Dec 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755589623268-0cc11de35040d531aa612d46e044c88f" />
         </item>
         <item>
             <title>[#11]スパイダーマン：オクトパスガール</title>

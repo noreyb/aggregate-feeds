@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 28 Dec 2023 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 03:00:00 +0000</lastBuildDate>
         <item>
             <title>秒読まないで</title>
             <link>https://shonenjumpplus.com/episode/14079602755586206556</link>
@@ -2001,6 +2001,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
         </item>
         <item>
+            <title>[35発目 ③] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/14079602755584870439</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 29 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755584870439-40b4d0b9a44643e651bff19194c2f190" />
+        </item>
+        <item>
             <title>[35発目 ②] こういうのがいい</title>
             <link>https://tonarinoyj.jp/episode/14079602755584870433</link>
             <description>こういうのがいい</description>
@@ -3406,6 +3413,13 @@
             <description>地球外少年少女</description>
             <pubDate>Fri, 12 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361214474046-19171a9dda1b35f65725da45336af689" />
+        </item>
+        <item>
+            <title>[第16話] 聖母の断罪</title>
+            <link>https://tonarinoyj.jp/episode/14079602755595403424</link>
+            <description>聖母の断罪</description>
+            <pubDate>Fri, 29 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755595403424-08838f2aff0970ff1b0a945eb739107a" />
         </item>
         <item>
             <title>[休載イラスト] 聖母の断罪</title>

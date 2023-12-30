@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 29 Dec 2023 18:50:24 -0000</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 01:46:22 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9051517&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -4069,6 +4069,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416108&amp;tags=futeiki_kaisai_shin_corner</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/bd/29/thumbnail_bd29f3be926ae79c2ce0676fc33c0802.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9295165&amp;tags=futeiki_kaisai_shin_corner</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/54/0a/thumbnail_540a3ccb119479e8608750e5c34e59fc.jpg" />
@@ -4120,12 +4126,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8845860&amp;tags=futeiki_kaisai_shin_corner</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/35/64/thumbnail_35648f005d4731845f787d030c6ec5f1.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8845810&amp;tags=futeiki_kaisai_shin_corner</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a9/34/thumbnail_a934c01aad5357de2e5d1d29baa7847c.jpg" />
         </item>
         <item>
             <title />
@@ -12691,6 +12691,24 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9415573&amp;tags=ryokucha_michi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/44/88/thumbnail_44886a04e4eccf995609104992403c43.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9415485&amp;tags=ryokucha_michi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/94/37/thumbnail_94370b5fd775c6b1ef71b96f86352edc.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9415484&amp;tags=ryokucha_michi</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e8/0d/thumbnail_e80d29d46bc7f0b8b7b9819c9024723c.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9412023&amp;tags=ryokucha_michi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/78/b7/thumbnail_78b709a5fe9c5cc9f1c63cf1d8faffb5.jpg" />
@@ -12730,24 +12748,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9233842&amp;tags=ryokucha_michi</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/67/23/thumbnail_67230ed213f03434f519b46e956024d2.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161746&amp;tags=ryokucha_michi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e3/c9/thumbnail_e3c982fe893bf02449282e632027ccb2.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161740&amp;tags=ryokucha_michi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/73/10/thumbnail_7310610bf39011b8d6d7c63c654ba6c6.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9161728&amp;tags=ryokucha_michi</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/97/b8/thumbnail_97b885b1b689c6ca59e79273e927a0bd.jpg" />
         </item>
         <item>
             <title />
@@ -17407,63 +17407,63 @@
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9295832&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416322&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/db/b6/thumbnail_dbb6e35d869129f5db2dc36097e72d47.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/79/47/thumbnail_794768c3cb859b105ffab30f5a1dea6b.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9257311&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416104&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e9/27/thumbnail_e92760921ee40d07e98ea9c0f9a6c633.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/69/10/thumbnail_691074ff5931fa80963079c4584617c4.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9257310&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416075&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a2/2d/thumbnail_a22db2c9e7754b259bf59ec73128d5ab.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/20/ae/thumbnail_20ae3eb98ce9d18ca9d4b87db44525d7.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9247000&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416073&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/17/8e/thumbnail_178e6a645e0fe68aece1963aef788066.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/59/b9/thumbnail_59b9eb1be44bebf0959973b3e159fac9.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9246999&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416068&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/72/99/thumbnail_7299df0f1322f1494b2ede4762b2227a.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/34/c8/thumbnail_34c837911b782ccbdf2217a95e3efbe3.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9246998&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416062&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b3/89/thumbnail_b389526fba2a45957878d64979e832c2.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/16/a6/thumbnail_16a6b388562d155aa1d07c98600ceafc.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9246997&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416059&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/7a/0d/thumbnail_7a0d2c89c9e8fa9209d103fc99cd361f.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d1/fb/thumbnail_d1fb3c2e29525e2119746bd522e23cda.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9246996&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416054&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/77/81/thumbnail_77815af3edc977df2b8e2257587f8bcb.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/f6/62/thumbnail_f662b3a048c5f07e8f4c901dea6794c0.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9246994&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416053&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2a/7b/thumbnail_2a7b63aeb0b7fc6b386e10d8aabe5e63.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/9e/6e/thumbnail_9e6ed1d40b808830d4cdbafacd588714.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9153301&amp;tags=winter_(winterinkoakuma)</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9416023&amp;tags=winter_(winterinkoakuma)</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/79/bb/thumbnail_79bb1df2d0394c2863e47810b66e61ee.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d4/9a/thumbnail_d49a70be52adf5d86f74e8e0f34de1ff.jpg" />
         </item>
         <item>
             <title />

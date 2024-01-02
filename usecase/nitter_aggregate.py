@@ -97,7 +97,7 @@ class NitterAggregateFeed(IAggregateFeed):
         nitter_base = "https://nitter.net"
         url = f"{nitter_base}/{user}/media"
         response = requests.get(url, headers=headers)
-        time.sleep(2)
+        time.sleep(5)
         if response.status_code != requests.codes.ok:
             return None
 

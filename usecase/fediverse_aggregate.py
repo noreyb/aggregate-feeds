@@ -35,6 +35,8 @@ class FediverseAggregateFeed(IAggregateFeed):
         feed_urls = self.feed_url_handler.get()
         for feed_url in feed_urls:
             rss_feed = self.__get_rss_contents(feed_url)
+            if rss_feed is None:
+                continue
             entries = rss_feed["entries"]
             feeds = self.__add_feed_item(feeds, entries)
         self.output(feeds)
@@ -47,6 +49,8 @@ class FediverseAggregateFeed(IAggregateFeed):
             },
         )
         time.sleep(2)
+        if r.status_code == 404:
+            return None
         if r.status_code != requests.codes.ok:
             raise Exception(r.text)
         return feedparser.parse(r.text)

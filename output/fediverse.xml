@@ -4,7 +4,7 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Wed, 03 Jan 2024 05:43:36 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 06:48:07 +0000</lastBuildDate>
         <item>
             <title>New note by DaRoon5@C102日曜東ロ03b</title>
             <link>https://misskey.io/notes/9l4yquzwzi</link>
@@ -2156,13 +2156,6 @@ muscutoさんの一万円袋買いました〜
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/a1978786-e2b0-4afe-9388-d841d1e086e5.webp" />
         </item>
         <item>
-            <title>New note by :_ki2::_xya2::_prolong:</title>
-            <link>https://misskey.io/notes/9nz780mjvyjp08ws</link>
-            <description>うへ～さんとカキとこたつ</description>
-            <pubDate>Tue, 02 Jan 2024 00:51:58 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/f0cef5ba-778c-4285-ba8b-3d7a8a3f4d65.webp" />
-        </item>
-        <item>
             <title>New note by すみやお</title>
             <link>https://misskey.io/notes/9ny0l3pe4iwd01sf</link>
             <description />
@@ -3102,6 +3095,13 @@ https://ecs.toranoana.jp/tora/ec/item/040031111861/</description>
 Ci-enに投稿しました「【1月】全63作品のうち1作品に使える90%OFFクーポンを発行しました」 https://ci-en.dlsite.com/creator/247/article/1038166 #Ci_en #シエン</description>
             <pubDate>Mon, 01 Jan 2024 01:54:56 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/1bfc0381-5f5d-4513-8c2c-6241e43c8ae9.webp" />
+        </item>
+        <item>
+            <title>New note by タナトス</title>
+            <link>https://misskey.io/notes/9o0y2268iblg00bk</link>
+            <description>🤔</description>
+            <pubDate>Wed, 03 Jan 2024 06:10:56 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F690%2F530%2F564%2F905%2F762%2Foriginal%2F5456b22e9742b7ea.png" />
         </item>
         <item>
             <title>New note by タナトス</title>
@@ -5765,6 +5765,13 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_323525/</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/11f24bfc-954d-4bd5-a1ae-332e2980d401.webp" />
         </item>
         <item>
+            <title>New note by 兎耳山モリーユ🔞日曜東F62b</title>
+            <link>https://misskey.io/notes/9o0yy1eoo9gl009k</link>
+            <description>phal.bellina。原種コチョウランの中で一番香りが強いと言われる種。レモンの香りがする。これはちょっと珍しいピンク花のタイプ</description>
+            <pubDate>Wed, 03 Jan 2024 06:35:48 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F690%2F620%2F440%2F277%2F414%2Foriginal%2F5bb6229c8746f2f6.png" />
+        </item>
+        <item>
             <title>New note by unmaker(あんめい)🔞🚸</title>
             <link>https://misskey.io/notes/9nzpk3nccl2w0062</link>
             <description />
@@ -5778,13 +5785,6 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_323525/</description>
 色は線画を焼いてから流し込んだ方がいいか</description>
             <pubDate>Tue, 02 Jan 2024 05:34:35 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F684%2F723%2F945%2F136%2F628%2Foriginal%2F2d8c84320cd40316.jpeg" />
-        </item>
-        <item>
-            <title>New note by unmaker(あんめい)🔞🚸</title>
-            <link>https://misskey.io/notes/9nycp2146sej007k</link>
-            <description>新年早々でっかい気泡が入ってしまったのでリベンジしたいところ…</description>
-            <pubDate>Mon, 01 Jan 2024 10:37:25 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F680%2F252%2F376%2F596%2F686%2Foriginal%2Fa77762d59fa29a2e.jpeg" />
         </item>
         <item>
             <title>New note by 鷹山弾:skeb:受付中</title>
@@ -5910,10 +5910,12 @@ https://skeb.jp/@xx_dang_t_xx</description>
         </item>
         <item>
             <title>New note by ふじこ:skeb::role_nsfw:@2日目J36a</title>
-            <link>https://misskey.io/notes/9nzaqb6em0if06pi</link>
-            <description>どこにでもドア</description>
-            <pubDate>Tue, 02 Jan 2024 02:30:10 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-374c7605-db7b-4779-a3bc-f4f9a8a00efe.webp" />
+            <link>https://misskey.io/notes/9o0z7u86jvup01f8</link>
+            <description>というわけでマウスシェル交換完了
+元々グレーだったけど黒がやすかったので君だけのオリジナルバージョンになってしまったぜ
+大事に使おう</description>
+            <pubDate>Wed, 03 Jan 2024 06:43:25 +0000</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://media.misskeyusercontent.com/io/d9d28ab2-c744-4294-a206-9fc48af34944.JPG" />
         </item>
         <item>
             <title>New note by レアメタル🔞🎨</title>
@@ -6890,6 +6892,13 @@ pixiv：https://www.pixiv.net/artworks/110029962
         </item>
         <item>
             <title>New note by white</title>
+            <link>https://misskey.io/notes/9o0zdvrhy2g905kq</link>
+            <description />
+            <pubDate>Wed, 03 Jan 2024 06:48:07 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/1fc60a35-6754-4cfd-94bb-08011e71ca0f.webp" />
+        </item>
+        <item>
+            <title>New note by white</title>
             <link>https://misskey.io/notes/9o06gtsnluqp09r6</link>
             <description />
             <pubDate>Tue, 02 Jan 2024 17:18:35 +0000</pubDate>
@@ -6900,7 +6909,7 @@ pixiv：https://www.pixiv.net/artworks/110029962
             <link>https://misskey.io/notes/9nzoqm7kvlho0bth</link>
             <description>🦊</description>
             <pubDate>Tue, 02 Jan 2024 09:02:19 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/c7b822bc-1463-4ce0-9d8b-64122434471f.webp" />
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/d541890e-f385-4a62-b5ca-b27256380603.webp" />
         </item>
         <item>
             <title>New note by white</title>
@@ -7020,13 +7029,6 @@ pixiv：https://www.pixiv.net/artworks/110029962
             <description />
             <pubDate>Thu, 30 Nov 2023 00:32:24 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/115e6eea-5a9d-46ea-9288-2102f1b2a670.webp" />
-        </item>
-        <item>
-            <title>New note by white</title>
-            <link>https://misskey.io/notes/9mni4xrdvt8q0tkj</link>
-            <description />
-            <pubDate>Wed, 29 Nov 2023 15:44:33 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/e6aec676-9c8f-4a7a-b582-d5721cde1c1f.webp" />
         </item>
         <item>
             <title>New note by ﾒﾈｱ･ｻﾞ･ﾄﾞｯｸﾞ</title>

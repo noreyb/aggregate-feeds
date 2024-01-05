@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 05 Jan 2024 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>真夜中のハイライト</title>
             <link>https://shonenjumpplus.com/episode/16457704570606432592</link>
@@ -1532,6 +1532,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7107/1678508118014_rakujitu_84.jpg" />
         </item>
         <item>
+            <title>第49話②</title>
+            <link>https://youngchampion.jp/episodes/cc98c89a41f0c/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sat, 06 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2023122214070438110DF381365B4A23D5AF82218C19A6543-sm.png" />
+        </item>
+        <item>
             <title>第49話①</title>
             <link>https://youngchampion.jp/episodes/5690b40af3072/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1698,13 +1705,6 @@
             <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/9542e7d0861c9"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Sat, 11 Mar 2023 12:53:17 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202303201223476451B539D8886D6495856573A5C32E6C0FF-sm.png" />
-        </item>
-        <item>
-            <title>第31話</title>
-            <link>https://youngchampion.jp/episodes/c867905d5f814/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/c867905d5f814"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Sat, 11 Mar 2023 12:53:15 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230320122225960BB581D54F518D849590E4940F411ECD0-sm.png" />
         </item>
         <item>
             <title>第62話</title>
@@ -3240,6 +3240,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755426269360-a84fd64ce59d986545463ef3432abef5" />
         </item>
         <item>
+            <title>[第39話]刃ノ眼</title>
+            <link>https://shonenjumpplus.com/episode/16457704570609869378</link>
+            <description>刃ノ眼</description>
+            <pubDate>Fri, 05 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457704570609869378-9db58275ad1a11bbcff9a251727da156" />
+        </item>
+        <item>
             <title>[第38話]刃ノ眼</title>
             <link>https://shonenjumpplus.com/episode/16457704570603145023</link>
             <description>刃ノ眼</description>
@@ -4080,6 +4087,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755345339847-1baff98d719a547ddea258c4134e899a" />
         </item>
         <item>
+            <title>[第13話]対世界用魔法少女つばめ</title>
+            <link>https://shonenjumpplus.com/episode/16457704570609869973</link>
+            <description>対世界用魔法少女つばめ</description>
+            <pubDate>Fri, 05 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457704570609869973-bcbfb68a471762fb32cc078ba6bbc29b" />
+        </item>
+        <item>
             <title>[イラスト]対世界用魔法少女つばめ</title>
             <link>https://shonenjumpplus.com/episode/16457704570603148141</link>
             <description>対世界用魔法少女つばめ</description>
@@ -4099,13 +4113,6 @@
             <description>対世界用魔法少女つばめ</description>
             <pubDate>Fri, 15 Dec 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755559067405-39d864ad33e85d13b1b7f06a2c37b869" />
-        </item>
-        <item>
-            <title>[第10話]対世界用魔法少女つばめ</title>
-            <link>https://shonenjumpplus.com/episode/14079602755532930573</link>
-            <description>対世界用魔法少女つばめ</description>
-            <pubDate>Fri, 08 Dec 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755532930573-5c667bac3c8c45a2636f4944d3506653" />
         </item>
         <item>
             <title>[第3話]対世界用魔法少女つばめ</title>
@@ -4323,6 +4330,13 @@
             <description>ヒーロー闇おちす…</description>
             <pubDate>Wed, 11 Oct 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755302844786-f754a9e098a6925e15db655be42c6fa8" />
+        </item>
+        <item>
+            <title>Season11／8本目 ゴジラ-1.0(後編)</title>
+            <link>https://comic-ogyaaa.com/episode/14079602755603106790</link>
+            <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755603106790-253e6073c2bfc1831e5a75752f641848" />
         </item>
         <item>
             <title>Season11／7本目 ゴジラ-1.0(前編)</title>
@@ -6495,6 +6509,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361557403399-e3eb8f7366090659dde6d7eabc00359c" />
         </item>
         <item>
+            <title>[第14話]少女Null</title>
+            <link>https://shonenjumpplus.com/episode/16457704570609871503</link>
+            <description>少女Null</description>
+            <pubDate>Fri, 05 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457704570609871503-f90ab12c8d62b6cacbb21b55fbdb407c" />
+        </item>
+        <item>
             <title>[特別イラスト2]少女Null</title>
             <link>https://shonenjumpplus.com/episode/16457704570603141490</link>
             <description>少女Null</description>
@@ -6920,6 +6941,13 @@
             <description>天地ミッション</description>
             <pubDate>Wed, 02 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361580984951-6de9f49130f5be12fd9b1931a9ea67c0" />
+        </item>
+        <item>
+            <title>第二十三羽</title>
+            <link>https://comic-ogyaaa.com/episode/14079602755603106800</link>
+            <description>蟲姫 完全版</description>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755603106800-44dd70042606c11e8549e003156e053a" />
         </item>
         <item>
             <title>第二十二羽</title>

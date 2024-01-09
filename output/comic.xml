@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 08 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>あくまで好きすぎるだけ</title>
             <link>https://shonenjumpplus.com/episode/16457704570609866963</link>
@@ -3779,11 +3779,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321587916-7e3cd0b96b1cdb79e45e1fa0a98fa858" />
         </item>
         <item>
-            <title>第8話 つみきクッキング。</title>
-            <link>https://www.sunday-webry.com/episode/14079602755602864809</link>
+            <title>第9話 つみきさんと探しもの。</title>
+            <link>https://www.sunday-webry.com/episode/14079602755629899686</link>
             <description>尾守つみきと奇日常。</description>
-            <pubDate>Tue, 26 Dec 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755602864809-574e9ad18f164b66dc651a7e7dd5ad1d" />
+            <pubDate>Tue, 09 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755629899686-c59ac04bbbacbc139fb4a4ea11a5e1e0" />
         </item>
         <item>
             <title>第3話 つみきさんとお昼。</title>
@@ -4155,6 +4155,13 @@
             <description>カツオノエボシが大量発生していた。/2023年9月期ブロンズルーキー賞</description>
             <pubDate>Thu, 19 Oct 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755345805658-eb4f17c6a0424c507dc2d05118f55fd2" />
+        </item>
+        <item>
+            <title>[56話]エクソシストを堕とせない</title>
+            <link>https://shonenjumpplus.com/episode/16457717013869073953</link>
+            <description>エクソシストを堕とせない</description>
+            <pubDate>Tue, 09 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457717013869073953-bd1a75c3d6d42ada954cd84792bb2de3" />
         </item>
         <item>
             <title>[55話]エクソシストを堕とせない</title>
@@ -6810,7 +6817,7 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457704570609871503-f90ab12c8d62b6cacbb21b55fbdb407c" />
         </item>
         <item>
-            <title>[特別イラスト2]少女Null</title>
+            <title>[特別編9]少女Null</title>
             <link>https://shonenjumpplus.com/episode/16457704570603141490</link>
             <description>少女Null</description>
             <pubDate>Fri, 29 Dec 2023 15:00:00 +0000</pubDate>
@@ -6824,7 +6831,7 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755588934117-e4acb8257aa0eda8b9b3e5710b3aa2df" />
         </item>
         <item>
-            <title>[特別イラスト]少女Null</title>
+            <title>[特別編8]少女Null</title>
             <link>https://shonenjumpplus.com/episode/14079602755559086831</link>
             <description>少女Null</description>
             <pubDate>Fri, 15 Dec 2023 15:00:00 +0000</pubDate>

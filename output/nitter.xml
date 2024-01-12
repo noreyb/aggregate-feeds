@@ -4,7 +4,7 @@
         <title>agg-nitter</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>nitter</description>
-        <lastBuildDate>Thu, 11 Jan 2024 19:15:32 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 02:17:10 -0000</lastBuildDate>
         <item>
             <title>む゛ん゛っ(自己犠牲)</title>
             <link>https://nitter.net/pic/orig/media%2FGDE8I_gbcAAD6gz.jpg</link>
@@ -481,6 +481,12 @@ coloso.jp/products/illustrat…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGBjE-W3bMAAfvEf.jpg" />
         </item>
         <item>
+            <title>めっちゃ頑張って描いたけど没にした漫画もある。これはその1ページ目。</title>
+            <link>https://nitter.net/pic/orig/media%2FGDmt2MoagAABHKM.png</link>
+            <description>yaponishi</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDmt2MoagAABHKM.png" />
+        </item>
+        <item>
             <title>すぐ終わるやろと思ってやったら死ぬほど時間かかった。</title>
             <link>https://nitter.net/pic/orig/media%2FGDkyHxebMAABZIG.jpg</link>
             <description>yaponishi</description>
@@ -498,12 +504,6 @@ coloso.jp/products/illustrat…</title>
             <link>https://nitter.net/pic/orig/media%2FGDjCmpgaEAAirNa.jpg</link>
             <description>yaponishi</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDjCmpgaEAAirNa.jpg" />
-        </item>
-        <item>
-            <title>こういう抜き忘れを見ると、渡された素材の背景とキャラクターのレイヤー分けされてなかったんやな、とか、自動選択ツールである程度取れるやんとか、色々考えてしまう。</title>
-            <link>https://nitter.net/pic/orig/media%2FGDi8fcmbMAAu-Dl.jpg</link>
-            <description>yaponishi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDi8fcmbMAAu-Dl.jpg" />
         </item>
         <item>
             <title>🥰💕💕💕💕💕💕</title>
@@ -552,15 +552,6 @@ coloso.jp/products/illustrat…</title>
             <link>https://nitter.net/pic/orig/media%2FGDSTO3vaMAAL515.jpg</link>
             <description>yaponishi</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDSTO3vaMAAL515.jpg" />
-        </item>
-        <item>
-            <title>12月の月報を書きました。
-全体公開なので、誰でも閲覧する事ができます。
-お暇な時にでも。
-yapo.fanbox.cc/posts/7252875…</title>
-            <link>https://nitter.net/pic/orig/media%2FGDBGw9FawAAdWll.jpg</link>
-            <description>yaponishi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDBGw9FawAAdWll.jpg" />
         </item>
         <item>
             <title>雾境序列</title>
@@ -813,12 +804,6 @@ yapo.fanbox.cc/posts/7252875…</title>
             <link>https://nitter.net/pic/orig/media%2FF9r2pKbaAAA05u1.jpg</link>
             <description>kazue1000</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF9r2pKbaAAA05u1.jpg" />
-        </item>
-        <item>
-            <title>【本日18:30から日本シリーズ第2戦】イラストは今日先発のバファローズ宮城大弥投手の投球フォームを真似するタマモクロス</title>
-            <link>https://nitter.net/pic/orig/media%2FF9mPAF3aoAAd79a.jpg</link>
-            <description>kazue1000</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF9mPAF3aoAAd79a.jpg" />
         </item>
         <item>
             <title>年初から色々起こりますね…。今年は画集や個展など少し忙しくなりそうです。宜しくお願い致します。</title>
@@ -1122,6 +1107,36 @@ yapo.fanbox.cc/posts/7252875…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF1ug_MEakAUKae-.jpg" />
         </item>
         <item>
+            <title />
+            <link>https://nitter.net/pic/orig/media%2FF0CkZgDaEAI08Tw.jpg</link>
+            <description>sc_ome</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF0CkZgDaEAI08Tw.jpg" />
+        </item>
+        <item>
+            <title>#2023年自分が選ぶ今年上半期の4枚</title>
+            <link>https://nitter.net/pic/orig/media%2FFzjBmqsaIAMfUud.jpg</link>
+            <description>sc_ome</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFzjBmqsaIAMfUud.jpg" />
+        </item>
+        <item>
+            <title>#2023年自分が選ぶ今年上半期の4枚</title>
+            <link>https://nitter.net/pic/orig/media%2FFzjBtdtaYAk_NzX.jpg</link>
+            <description>sc_ome</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFzjBtdtaYAk_NzX.jpg" />
+        </item>
+        <item>
+            <title>#2023年自分が選ぶ今年上半期の4枚</title>
+            <link>https://nitter.net/pic/orig/media%2FFzjB-RWaYAEU_E0.jpg</link>
+            <description>sc_ome</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFzjB-RWaYAEU_E0.jpg" />
+        </item>
+        <item>
+            <title>#2023年自分が選ぶ今年上半期の4枚</title>
+            <link>https://nitter.net/pic/orig/media%2FFzjB_FZacAMp3R-.jpg</link>
+            <description>sc_ome</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFzjB_FZacAMp3R-.jpg" />
+        </item>
+        <item>
             <title>死ぬほどワロタ</title>
             <link>https://nitter.net/pic/orig/media%2FGDfbGN8bYAAw0Gv.jpg</link>
             <description>ccreayus</description>
@@ -1269,27 +1284,6 @@ YouTube： piped.video/live/s4HD5TzrdTw
             <link>https://nitter.net/pic/orig/media%2FGAgncp_WQAAfFuY.jpg</link>
             <description>LmdNLn</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGAgncp_WQAAfFuY.jpg" />
-        </item>
-        <item>
-            <title>白先生
-#原神 #Genshin #Baizhu #Fontaine</title>
-            <link>https://nitter.net/pic/orig/media%2FF-uzyx1aIAAVc9v.jpg</link>
-            <description>LmdNLn</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF-uzyx1aIAAVc9v.jpg" />
-        </item>
-        <item>
-            <title>The show's on!
-#Reverse1999 #Reverse1999Melania #リバース1999</title>
-            <link>https://nitter.net/pic/orig/media%2FF-ptBjTaIAApiEY.jpg</link>
-            <description>LmdNLn</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF-ptBjTaIAApiEY.jpg" />
-        </item>
-        <item>
-            <title>泉の声…
-#フリーナ #furina #Genshin</title>
-            <link>https://nitter.net/pic/orig/media%2FF-VZg3GaUAA2zL_.jpg</link>
-            <description>LmdNLn</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF-VZg3GaUAA2zL_.jpg" />
         </item>
         <item>
             <title>ｲｲﾖｲｲﾖｰｶﾜｲｲﾖｰ</title>
@@ -2366,6 +2360,13 @@ jnthed.fanbox.cc/posts/60104…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF5nLbhoa4AA607R.jpg" />
         </item>
         <item>
+            <title>자관오너한테 자관커미션맡김
+아진짜레전드커여워 함박웃음지음</title>
+            <link>https://nitter.net/pic/orig/media%2FGDmx_xzawAAf9rT.jpg</link>
+            <description>nonanonnon6u6</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDmx_xzawAAf9rT.jpg" />
+        </item>
+        <item>
             <title>#桜島麻衣
 
 바니걸선배애.....</title>
@@ -2452,13 +2453,6 @@ jnthed.fanbox.cc/posts/60104…</title>
             <link>https://nitter.net/pic/orig/media%2FGDbEo_0awAAflMC.jpg</link>
             <description>nonanonnon6u6</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDbEo_0awAAflMC.jpg" />
-        </item>
-        <item>
-            <title>헤헤..
-이거참고해주새여.... ㅇ////ㅇ</title>
-            <link>https://nitter.net/pic/orig/media%2FGDa7Mona0AA6J7R.png</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDa7Mona0AA6J7R.png" />
         </item>
         <item>
             <title>melting</title>
@@ -2580,12 +2574,6 @@ jnthed.fanbox.cc/posts/60104…</title>
             <link>https://nitter.net/pic/orig/media%2FF_wbTOVa4AA6Q8p.jpg</link>
             <description>soOno2020</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_wbTOVa4AA6Q8p.jpg" />
-        </item>
-        <item>
-            <title>新人類コンプレックス</title>
-            <link>https://nitter.net/pic/orig/media%2FF_S__wAa4AAkwey.jpg</link>
-            <description>soOno2020</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_S__wAa4AAkwey.jpg" />
         </item>
         <item>
             <title>~ hey ya'll! today this FINAL day for the big 'last chance' sale ! it's been bittersweet packing the orders and knowing that most the pieces will be retired from the shop 😭
@@ -2867,6 +2855,19 @@ kinetiquettes.com/nima</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFMHa0i5aQAESwnA.jpg" />
         </item>
         <item>
+            <title>起きたーーーーーというか寝落ちしてめちゃんこさむいやばい
+
+そんなことより今日はぺこーら誕生日！！
+今更知ったけど
+いいにんじんの日がぺこらの誕生日ってことだったのか…！
+再掲絵なんだけどおおお
+お誕生日おめでとおおおおおおおおお！！！！
+#兎田ぺこら生誕祭2024</title>
+            <link>https://nitter.net/pic/orig/media%2FGDmEpTtasAAkVpN.jpg</link>
+            <description>izumochi01</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDmEpTtasAAkVpN.jpg" />
+        </item>
+        <item>
             <title>#異世界の湯
 
 ま，間に合った…！
@@ -2953,12 +2954,6 @@ BSフジさま　2024年1月17日より　毎週水曜25時
             <link>https://nitter.net/pic/orig/media%2FGDCgwgjb0AAK0LS.jpg</link>
             <description>izumochi01</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDCgwgjb0AAK0LS.jpg" />
-        </item>
-        <item>
-            <title>ポニ子らくがき！！！</title>
-            <link>https://nitter.net/pic/orig/media%2FGC6F68VbQAA_MVc.jpg</link>
-            <description>izumochi01</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGC6F68VbQAA_MVc.jpg" />
         </item>
         <item>
             <title>設営完了</title>
@@ -3453,6 +3448,16 @@ kiminovel.jp/book/toshoshits…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFnuPBg3akAAEm6r.jpg" />
         </item>
         <item>
+            <title>紅葉饅頭さんから差し入れを頂きました。ありがとうございます。
+以前メールで「アニメ会社に直接支援する方法はないのですか？」と聞かれたので、
+スタジオバインドおにまい班宛の欲しいものリストを作ってみました。もしよろしければ。
+新人や制作が喜ぶと思います。
+amazon.jp/hz/wishlist/ls/IMM…</title>
+            <link>https://nitter.net/pic/orig/media%2FFnfKuJQaIAA0sCD.jpg</link>
+            <description>monsuun</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFnfKuJQaIAA0sCD.jpg" />
+        </item>
+        <item>
             <title>成形色がまたいい感じですね。</title>
             <link>https://nitter.net/pic/orig/media%2FGDZmROVa4AAFoAx.jpg</link>
             <description>ShunyaYamashita</description>
@@ -3753,13 +3758,6 @@ bit.ly/3o24oDA
             <link>https://nitter.net/pic/orig/media%2FGAf4lqRbYAAKqy9.jpg</link>
             <description>warabimoti_yoz</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGAf4lqRbYAAKqy9.jpg" />
-        </item>
-        <item>
-            <title>30mくらい〜！
-さくらのiPadに描きました</title>
-            <link>https://nitter.net/pic/orig/media%2FGAabbFjagAA63Z3.jpg</link>
-            <description>warabimoti_yoz</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGAabbFjagAA63Z3.jpg" />
         </item>
         <item>
             <title>あけましておめでとうございます。今年もよろしくお願いします</title>
@@ -4553,6 +4551,12 @@ R18差分を投稿していきます 良かったら見てみてください( �
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF6E-1LVaUAAI7xz.png" />
         </item>
         <item>
+            <title>Life</title>
+            <link>https://nitter.net/pic/orig/media%2FF5WFAn4bQAA8cFU.jpg</link>
+            <description>OTHERS79799254</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF5WFAn4bQAA8cFU.jpg" />
+        </item>
+        <item>
             <title>piped.video/Ik5se1riSZU</title>
             <link>https://nitter.net/pic/orig/media%2FGDQVa0tbQAAwIzJ.jpg</link>
             <description>cjbk01</description>
@@ -5035,6 +5039,12 @@ piped.video/i1esokl0Izo</title>
             <link>https://nitter.net/pic/orig/media%2FF519uwlaYAIw1v5.jpg</link>
             <description>grandia42783429</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF519uwlaYAIw1v5.jpg" />
+        </item>
+        <item>
+            <title>😊</title>
+            <link>https://nitter.net/pic/orig/media%2FF5ypr2fakAAAP2t.jpg</link>
+            <description>grandia42783429</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF5ypr2fakAAAP2t.jpg" />
         </item>
         <item>
             <title>みんなかわいい😇
@@ -5721,12 +5731,6 @@ thx!!</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCSECIraUAAIUgD.jpg" />
         </item>
         <item>
-            <title>miku</title>
-            <link>https://nitter.net/pic/orig/media%2FGCGVeMIaIAANLcB.jpg</link>
-            <description>bani_lizo</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCGVeMIaIAANLcB.jpg" />
-        </item>
-        <item>
             <title />
             <link>https://nitter.net/pic/orig/media%2FGBkb08KacAAXDM3.jpg</link>
             <description>touziniao</description>
@@ -6360,12 +6364,6 @@ issakawaguchi.fanbox.cc/post…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCuWeiWakAE4SJn.jpg" />
         </item>
         <item>
-            <title>SICK</title>
-            <link>https://nitter.net/pic/orig/media%2FGCrm6SGbAAAyjh-.jpg</link>
-            <description>arowana2111</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCrm6SGbAAAyjh-.jpg" />
-        </item>
-        <item>
             <title>гБУгБЃжЃµйЪОгБЃжЦєгБМйЭҐзЩљгБЛгБ£гБЯгБЃгБЛгВВгБЧгВМгБ™гБД</title>
             <link>https://nitter.net/pic/orig/media%2FF_1r_rPbwAARNTX.jpg</link>
             <description>letsfinalanswer</description>
@@ -6840,6 +6838,13 @@ form with info below for anyone interested C: 🦑🐙</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FFsIjZX1aMAAGbom.jpg" />
         </item>
         <item>
+            <title>#明日方舟 #アークナイツ #arknights 
+Afternoon</title>
+            <link>https://nitter.net/pic/orig/media%2FGDl4jmHbwAARw6C.jpg</link>
+            <description>kRensama_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDl4jmHbwAARw6C.jpg" />
+        </item>
+        <item>
             <title>#明日方舟 #アークナイツ #Arknights</title>
             <link>https://nitter.net/pic/orig/media%2FGDeoVEobQAAGdNi.jpg</link>
             <description>kRensama_</description>
@@ -6882,13 +6887,6 @@ docs.google.com/forms/d/e/1F…</title>
             <link>https://nitter.net/pic/orig/media%2FGC3CUbbaoAAoe48.jpg</link>
             <description>kRensama_</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGC3CUbbaoAAoe48.jpg" />
-        </item>
-        <item>
-            <title>キャンプの客
- #ブルアカ</title>
-            <link>https://nitter.net/pic/orig/media%2FGCjsoHHbQAANDzv.jpg</link>
-            <description>kRensama_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCjsoHHbQAANDzv.jpg" />
         </item>
         <item>
             <title>「しぃ―――…」</title>
@@ -7352,18 +7350,6 @@ but please, don't forget the little cat Bambinata♡</title>
             <link>https://nitter.net/pic/orig/media%2FF_neqcIaIAATYpu.jpg</link>
             <description>sora_sidney</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_neqcIaIAATYpu.jpg" />
-        </item>
-        <item>
-            <title>we are losing everything to the whole white buildings</title>
-            <link>https://nitter.net/pic/orig/media%2FF_nVBAaagAAACfV.jpg</link>
-            <description>sora_sidney</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_nVBAaagAAACfV.jpg" />
-        </item>
-        <item>
-            <title>we are losing everything to the whole white buildings</title>
-            <link>https://nitter.net/pic/orig/media%2FF_nVBWMa4AArg9Y.jpg</link>
-            <description>sora_sidney</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_nVBWMa4AArg9Y.jpg" />
         </item>
         <item>
             <title>⚫️</title>
@@ -7944,12 +7930,6 @@ but please, don't forget the little cat Bambinata♡</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCvEpPHaYAA2XQX.jpg" />
         </item>
         <item>
-            <title>そういやグラブルフェスで買ったやつ</title>
-            <link>https://nitter.net/pic/orig/media%2FGCqXjXQa8AA0YOA.jpg</link>
-            <description>9monji</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCqXjXQa8AA0YOA.jpg" />
-        </item>
-        <item>
             <title>よし、ファミコン買った！</title>
             <link>https://nitter.net/pic/orig/media%2FGDUmV2CakAAOybU.jpg</link>
             <description>popman3580</description>
@@ -8174,14 +8154,6 @@ I am very happy to have this cooperation opportunity.🐰🐰🐰</title>
             <link>https://nitter.net/pic/orig/media%2FGDE7BvVacAA-UcY.jpg</link>
             <description>henkumapoporon</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDE7BvVacAA-UcY.jpg" />
-        </item>
-        <item>
-            <title>…謎の古ゑ（謎）
-
-…信じるか信じないかはあなた次第でス！（ギョペクリ・テペ的に）</title>
-            <link>https://nitter.net/pic/orig/media%2FGDEzpZpa4AAmweH.png</link>
-            <description>henkumapoporon</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDEzpZpa4AAmweH.png" />
         </item>
         <item>
             <title>さあ、頑張って塗るぞ！
@@ -9015,6 +8987,12 @@ dlsite.com/home/work/=/produ…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCcOCW7bUAASAht.jpg" />
         </item>
         <item>
+            <title>エッチなことしたんですね？</title>
+            <link>https://nitter.net/pic/orig/media%2FGCbhEFLbUAAhjvi.jpg</link>
+            <description>hirame_sa</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCbhEFLbUAAhjvi.jpg" />
+        </item>
+        <item>
             <title>画材屋に行ったら美術部の先生と偶然会った</title>
             <link>https://nitter.net/pic/orig/media%2FGDjsLRFakAACX3R.jpg</link>
             <description>anteiru3939</description>
@@ -9321,12 +9299,6 @@ ncode.syosetu.com/n1227ii/</title>
             <link>https://nitter.net/pic/orig/media%2FGCRMimrasAA7syW.jpg</link>
             <description>rureizi</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCRMimrasAA7syW.jpg" />
-        </item>
-        <item>
-            <title>メリクリじゃん</title>
-            <link>https://nitter.net/pic/orig/media%2FGCHTtnfboAACI-w.jpg</link>
-            <description>rureizi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCHTtnfboAACI-w.jpg" />
         </item>
         <item>
             <title />
@@ -9784,6 +9756,12 @@ melonbooks.co.jp/detail/deta…</title>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF9Lz4i5a8AA9DVU.png" />
         </item>
         <item>
+            <title>クリスタの「超解像」拡大機能、悪用されると叩かれてるのは気の毒だけど、実は以前からあった機能の使い勝手を変えただけなのを動画まで作って「新機能！」みたいなことにした結果、まで知ってるとまた別の味わいがある</title>
+            <link>https://nitter.net/pic/orig/media%2FF8swylKbwAAuvJd.jpg</link>
+            <description>refeia</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF8swylKbwAAuvJd.jpg" />
+        </item>
+        <item>
             <title>hatsune morning</title>
             <link>https://nitter.net/pic/orig/media%2FGAIzMTjaYAAHJ6i.jpg</link>
             <description>_CASTSTATION</description>
@@ -9842,6 +9820,13 @@ melonbooks.co.jp/detail/deta…</title>
             <link>https://nitter.net/pic/orig/media%2FF1Mv7NyaEAAzhc1.jpg</link>
             <description>_CASTSTATION</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF1Mv7NyaEAAzhc1.jpg" />
+        </item>
+        <item>
+            <title>새로운 해가 떠올랐습니다! 2024년에도 스노우 화이트와 함께해요! 
+#NIKKE #승리의여신니케 #니케 #새해 #갑진년 #2024년</title>
+            <link>https://nitter.net/pic/orig/media%2FGDm22IEaIAAtCU0.jpg</link>
+            <description>Hinaki0102</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDm22IEaIAAtCU0.jpg" />
         </item>
         <item>
             <title>設営完了しました😊
@@ -10131,6 +10116,12 @@ Her name is Daisy.
         </item>
         <item>
             <title />
+            <link>https://nitter.net/pic/orig/media%2FGDmoeYRb0AA4RN_.jpg</link>
+            <description>YU2MARU</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDmoeYRb0AA4RN_.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://nitter.net/pic/orig/media%2FGDXLvxtbIAAxdbE.jpg</link>
             <description>YU2MARU</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDXLvxtbIAAxdbE.jpg" />
@@ -10170,12 +10161,6 @@ Her name is Daisy.
             <link>https://nitter.net/pic/orig/media%2FGBB1l6gaYAAxuPm.jpg</link>
             <description>YU2MARU</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGBB1l6gaYAAxuPm.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGAtPOeHa0AAsQ5H.jpg</link>
-            <description>YU2MARU</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGAtPOeHa0AAsQ5H.jpg" />
         </item>
         <item>
             <title>Another Evangelion sketch from awhile ago</title>

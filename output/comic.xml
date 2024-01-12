@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 12 Jan 2024 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>あくまで好きすぎるだけ</title>
             <link>https://shonenjumpplus.com/episode/16457704570609866963</link>
@@ -788,6 +788,13 @@
             <description />
             <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8721/1695095967333_433.jpg" />
+        </item>
+        <item>
+            <title>第3話①</title>
+            <link>https://comicride.jp/episodes/67a735d668cd0/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sat, 13 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/292104/default/202312011155200188244DDA592ABA9C5642D0E6AB4435C51-sm.png" />
         </item>
         <item>
             <title>第2話後編③</title>
@@ -3275,6 +3282,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755426269360-a84fd64ce59d986545463ef3432abef5" />
         </item>
         <item>
+            <title>[第40話]刃ノ眼</title>
+            <link>https://shonenjumpplus.com/episode/16457717013869510046</link>
+            <description>刃ノ眼</description>
+            <pubDate>Fri, 12 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457717013869510046-4b2c28ae9a20c9a25a7cced68eed5b40" />
+        </item>
+        <item>
             <title>[第39話]刃ノ眼</title>
             <link>https://shonenjumpplus.com/episode/16457704570609869378</link>
             <description>刃ノ眼</description>
@@ -4995,6 +5009,13 @@
             <description>女騎士とケモミミの子</description>
             <pubDate>Fri, 03 Jun 2022 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674385850812-75319fb9cc543d03a34c6a0d2c90a6e8" />
+        </item>
+        <item>
+            <title>第14話</title>
+            <link>https://comic-ogyaaa.com/episode/14079602755642166573</link>
+            <description>恋より青く</description>
+            <pubDate>Fri, 12 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755642166573-30d28d08eb91354f18f8f0f53761de6d" />
         </item>
         <item>
             <title>第13話</title>
@@ -6747,6 +6768,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361192121329-27f4b7a150f9ee8100123ffb17877e13" />
         </item>
         <item>
+            <title>[#014]ぼくと海彼女</title>
+            <link>https://shonenjumpplus.com/episode/16457717013869520334</link>
+            <description>ぼくと海彼女</description>
+            <pubDate>Fri, 12 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457717013869520334-739dacbc437cc570f0198ac6f1759cd9" />
+        </item>
+        <item>
             <title>[イラスト2]ぼくと海彼女</title>
             <link>https://shonenjumpplus.com/episode/16457704570603135320</link>
             <description>ぼくと海彼女</description>
@@ -6766,13 +6794,6 @@
             <description>ぼくと海彼女</description>
             <pubDate>Fri, 01 Dec 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755510735192-a426f30e5f72e0494b3fca51364d0d2c" />
-        </item>
-        <item>
-            <title>[#011]ぼくと海彼女</title>
-            <link>https://shonenjumpplus.com/episode/14079602755456159063</link>
-            <description>ぼくと海彼女</description>
-            <pubDate>Fri, 17 Nov 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755456159063-da6e42b90e17efaa5b3855e9e4019ab4" />
         </item>
         <item>
             <title>[イラスト]ぼくと海彼女</title>
@@ -6801,6 +6822,13 @@
             <description>ぼくと海彼女</description>
             <pubDate>Fri, 28 Jul 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361557403399-e3eb8f7366090659dde6d7eabc00359c" />
+        </item>
+        <item>
+            <title>[特別編10]少女Null</title>
+            <link>https://shonenjumpplus.com/episode/16457717013869509204</link>
+            <description>少女Null</description>
+            <pubDate>Fri, 12 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/16457717013869509204-452bd23b4f4f60db75c426f83d70a970" />
         </item>
         <item>
             <title>[第14話]少女Null</title>
@@ -7242,6 +7270,13 @@
             <description>天地ミッション</description>
             <pubDate>Wed, 02 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361580984951-6de9f49130f5be12fd9b1931a9ea67c0" />
+        </item>
+        <item>
+            <title>第二十四羽</title>
+            <link>https://comic-ogyaaa.com/episode/14079602755642166579</link>
+            <description>蟲姫 完全版</description>
+            <pubDate>Fri, 12 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/14079602755642166579-c3ee3d1392dbefda03b2dfe672e8cadb" />
         </item>
         <item>
             <title>第二十三羽</title>

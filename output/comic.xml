@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sun, 14 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>あくまで好きすぎるだけ</title>
             <link>https://shonenjumpplus.com/episode/16457704570609866963</link>
@@ -853,6 +853,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202312201514314980AD72114544E61E9CEE49FAD3B2AB15A-sm.png" />
         </item>
         <item>
+            <title>第49話</title>
+            <link>https://youngchampion.jp/episodes/58708dee321b3/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Tue, 16 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202401121101285385E1E9E46061FCB4C0068B63EC62B73C3-sm.png" />
+        </item>
+        <item>
             <title>第48話</title>
             <link>https://youngchampion.jp/episodes/c038cf3b8a84a/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1019,13 +1026,6 @@
             <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/09eb14421026a"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Thu, 16 Feb 2023 02:16:59 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7101/1676596904217_isekaiNTR_25.jpg" />
-        </item>
-        <item>
-            <title>第24話</title>
-            <link>https://youngchampion.jp/episodes/6e95837294c0d/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/6e95837294c0d"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Thu, 16 Feb 2023 02:16:55 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7101/1676596902345_isekaiNTR_24.jpg" />
         </item>
         <item>
             <title>最終話</title>
@@ -2888,6 +2888,13 @@
             <description>チェンジ!ブリリアント☆ガール</description>
             <pubDate>Fri, 22 Dec 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755584870425-20ead714f1c0605a01fa3fb387af4c1f" />
+        </item>
+        <item>
+            <title>[第8話]コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</title>
+            <link>https://shonenjumpplus.com/episode/11990162089552221292</link>
+            <description>コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</description>
+            <pubDate>Mon, 15 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089552221292-85885c23f1042fbe1c0e547250f7b535" />
         </item>
         <item>
             <title>[番外編]コレクターイズデッド　～転売ヤー撲滅子ちゃん編～</title>
@@ -5473,6 +5480,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361087708444-089cfd8ccb02cd957d0ccab0a119f826" />
         </item>
         <item>
+            <title>[21話]半人前の恋人</title>
+            <link>https://shonenjumpplus.com/episode/11990162089552233305</link>
+            <description>半人前の恋人</description>
+            <pubDate>Mon, 15 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089552233305-8cfc71f0bb2f3fc1b7e9d2a4b2adcb01" />
+        </item>
+        <item>
             <title>[番外編]半人前の恋人</title>
             <link>https://shonenjumpplus.com/episode/16457704570606436204</link>
             <description>半人前の恋人</description>
@@ -5513,6 +5527,13 @@
             <description>半人前の恋人</description>
             <pubDate>Mon, 08 May 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361211079463-28e6cbcbf8d5b2353dcf3af3ef0a2070" />
+        </item>
+        <item>
+            <title>[第23話]人類蝕</title>
+            <link>https://shonenjumpplus.com/episode/11990162089552220689</link>
+            <description>人類蝕</description>
+            <pubDate>Mon, 15 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089552220689-d4e81826d520dbe364bac48b7b109709" />
         </item>
         <item>
             <title>[第22話]人類蝕</title>

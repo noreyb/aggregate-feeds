@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 15 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 03:00:00 +0000</lastBuildDate>
         <item>
             <title>あくまで好きすぎるだけ</title>
             <link>https://shonenjumpplus.com/episode/16457704570609866963</link>
@@ -3016,18 +3016,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755532365260-cd968f7822309a3241ebb7c49479a825" />
         </item>
         <item>
+            <title>第３５話　キャンプ④</title>
+            <link>https://comic-days.com/episode/14079602755131560844</link>
+            <description>いけない！ルナ先生R</description>
+            <pubDate>Tue, 26 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755131560844-37ddd220f37b6a8c7be59d50abf0c769" />
+        </item>
+        <item>
             <title>第３４話　キャンプ③</title>
             <link>https://comic-days.com/episode/14079602755131560841</link>
             <description>いけない！ルナ先生R</description>
             <pubDate>Tue, 19 Dec 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755131560841-26b8ed37a80805739c8a6cb6125ee4e4" />
-        </item>
-        <item>
-            <title>第３３話　キャンプ②</title>
-            <link>https://comic-days.com/episode/14079602755131560838</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 12 Dec 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755131560838-1b5b098ce2c85f1a328131efa02177dc" />
         </item>
         <item>
             <title>特別編　書道</title>
@@ -4542,18 +4542,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755228592465-9567ca36160026cc4254a90287eecabc" />
         </item>
         <item>
+            <title>第92話 幼なじみと本命</title>
+            <link>https://kuragebunch.com/episode/14079602755455507423</link>
+            <description>今日から始める幼なじみ</description>
+            <pubDate>Tue, 09 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755455507423-1fd8b0937282c554091425059a299a0c" />
+        </item>
+        <item>
             <title>第91話 幼なじみとチョコレート</title>
             <link>https://kuragebunch.com/episode/14079602755455507415</link>
             <description>今日から始める幼なじみ</description>
             <pubDate>Tue, 26 Dec 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755455507415-4c3ddd1e5634fbf9432d2c443eadf8ff" />
-        </item>
-        <item>
-            <title>第90話 幼なじみとバレンタインデー</title>
-            <link>https://kuragebunch.com/episode/14079602755455507410</link>
-            <description>今日から始める幼なじみ</description>
-            <pubDate>Tue, 12 Dec 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755455507410-2637de73adb8299fc2c4cfab5a5b3a7b" />
         </item>
         <item>
             <title>第50話 幼なじみと後輩</title>
@@ -4953,6 +4953,13 @@
             <description>のボルダ</description>
             <pubDate>Fri, 23 Jul 2021 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496410437550-7c35097e14563bc6bffefcb064ef8c0f" />
+        </item>
+        <item>
+            <title>イラスト</title>
+            <link>https://kuragebunch.com/episode/14079602755607041207</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 16 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755607041207-0c884806102ae83f0079e7e642442e32" />
         </item>
         <item>
             <title>第41話 お互いさま</title>

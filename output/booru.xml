@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Wed, 17 Jan 2024 06:51:36 -0000</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 13:05:52 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9431790&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -1993,6 +1993,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9497758&amp;tags=chigasaki_yukari</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/86/5b/thumbnail_865b10984bc993d183d3cfe8cd864eee.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9463278&amp;tags=chigasaki_yukari</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/74/19/thumbnail_741900e3068bc1a02f3981bc9005231c.jpg" />
@@ -2044,12 +2050,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9331727&amp;tags=chigasaki_yukari</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ab/9b/thumbnail_ab9b4d8d9c88fb51b79d9cca926ffa72.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9283064&amp;tags=chigasaki_yukari</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/4d/05/thumbnail_4d058d2db077b1f1dbec6aaf683e856a.jpg" />
         </item>
         <item>
             <title />

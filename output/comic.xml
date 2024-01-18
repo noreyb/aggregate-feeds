@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 17 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>刀贄心中</title>
             <link>https://shonenjumpplus.com/episode/11990162089556165918</link>
@@ -1070,6 +1070,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8723/1695094946728_884.jpg" />
         </item>
         <item>
+            <title>第27話『蘇れ！ボクと彼女の思い出』</title>
+            <link>https://comic-medu.com/episodes/7bd74ef124f8b/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Fri, 19 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/428191/default/202401181252545169850A31C864170CD74DA32C8C2E3E938-sm.png" />
+        </item>
+        <item>
             <title>第26話『立ち向かえ！失ったモノと守りたいモノ』</title>
             <link>https://comic-medu.com/episodes/fd880109cb2c0/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1236,13 +1243,6 @@
             <description />
             <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8721/1695095975156_547.jpg" />
-        </item>
-        <item>
-            <title>第3話『ワンナイト・ラブ』</title>
-            <link>https://comic-medu.com/episodes/181e3a4ccb977/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8721/1695095971442_475.jpg" />
         </item>
         <item>
             <title>第3話①</title>
@@ -4241,6 +4241,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755360143697-f48f43bc8c9692e049bd41a1e6301787" />
         </item>
         <item>
+            <title>[Episode8]魔女の執行人</title>
+            <link>https://shonenjumpplus.com/episode/11990162089556162864</link>
+            <description>魔女の執行人</description>
+            <pubDate>Thu, 18 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089556162864-b6b037d31e845addcac44bc8d6811afa" />
+        </item>
+        <item>
             <title>[Episode7]魔女の執行人</title>
             <link>https://shonenjumpplus.com/episode/16457704570609866500</link>
             <description>魔女の執行人</description>
@@ -6278,6 +6285,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/3270375685449569180-a613a4cb62b8771307b45468fa1676e1" />
         </item>
         <item>
+            <title>第97話 極暖！あけまして愛でとうですわ</title>
+            <link>https://www.sunday-webry.com/episode/10044607041217806314</link>
+            <description>ジャイアントお嬢様</description>
+            <pubDate>Thu, 18 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/10044607041217806314-571b6c45820327109d997c3b3dcc024c" />
+        </item>
+        <item>
             <title>第96話 師走！年末調整おわらね〜ですわ</title>
             <link>https://www.sunday-webry.com/episode/14079602755593375396</link>
             <description>ジャイアントお嬢様</description>
@@ -7459,6 +7473,13 @@
             <description>少女Null</description>
             <pubDate>Fri, 04 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361584136770-30e7c288f26e4cd799775d54f2002345" />
+        </item>
+        <item>
+            <title>[番外編13]サチ録～サチの黙示録～</title>
+            <link>https://shonenjumpplus.com/episode/11990162089556169561</link>
+            <description>サチ録～サチの黙示録～</description>
+            <pubDate>Thu, 18 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089556169561-92020463ce05347daf5342bb6e9342d9" />
         </item>
         <item>
             <title>[第十五話]サチ録～サチの黙示録～</title>

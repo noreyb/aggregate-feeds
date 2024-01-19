@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 18 Jan 2024 18:51:40 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 01:53:12 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9431790&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2233,6 +2233,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9504119&amp;tags=clearite</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ad/24/thumbnail_ad243f0c983457285e76cd875676e80c.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9500726&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3d/37/thumbnail_3d37d40d2690fdfc57ab2624531da1ff.jpg" />
@@ -2284,12 +2290,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9473049&amp;tags=clearite</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/9b/77/thumbnail_9b77a69195e7749e61b1763bcb8c0262.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9472156&amp;tags=clearite</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/36/72/thumbnail_36727adaa8fb4f6f21ad9a41f2b3776b.jpg" />
         </item>
         <item>
             <title />
@@ -17491,6 +17491,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9504231&amp;tags=woga_(ogkntk)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/61/47/thumbnail_6147a073ea9ddf234f89608d9aca2919.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9077460&amp;tags=woga_(ogkntk)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/4f/c6/thumbnail_4fc6b09e3c71fa35a71c4b52fdf3fb4a.jpg" />
@@ -17542,12 +17548,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8482241&amp;tags=woga_(ogkntk)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c2/f4/thumbnail_c2f42d28d301e50ca6bb7c52789257fb.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=3845272&amp;tags=woga_(ogkntk)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b0/5c/thumbnail_b05c70c6663a8a3cb6e89ad169f1c866.jpg" />
         </item>
         <item>
             <title />

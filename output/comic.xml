@@ -4,7 +4,14 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 19 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <item>
+            <title>かわいそうな私たち</title>
+            <link>https://kuragebunch.com/episode/10044607041220212386</link>
+            <description>かわいそうな私たち</description>
+            <pubDate>Fri, 19 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/10044607041220212386-2fc299d041255efc43656fe342f498dc" />
+        </item>
         <item>
             <title>刀贄心中</title>
             <link>https://shonenjumpplus.com/episode/11990162089556165918</link>
@@ -2533,6 +2540,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202303242205349720B19EDF45ACE18892A125C1874334226-sm.png" />
         </item>
         <item>
+            <title>第59話</title>
+            <link>https://youngchampion.jp/episodes/e79d4e69324c3/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 21 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2024011211331267219C492C67E0CF02EE28143BFCE1E9B5B-sm.png" />
+        </item>
+        <item>
             <title>第58話</title>
             <link>https://youngchampion.jp/episodes/4784a5bd01aba/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -2701,11 +2715,11 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7180/1678840496031_takane_midare_35.jpg" />
         </item>
         <item>
-            <title>第34話</title>
-            <link>https://youngchampion.jp/episodes/d8f67c6e6dbb8/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/d8f67c6e6dbb8"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Thu, 16 Feb 2023 13:39:10 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7180/1678840495535_takane_midare_34.jpg" />
+            <title>第160話</title>
+            <link>https://youngchampion.jp/episodes/7018319bbe6e4/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 21 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240112113505714FC052624FB13E588808769BC4E4DCF18-sm.png" />
         </item>
         <item>
             <title>第159話</title>
@@ -2874,13 +2888,6 @@
             <description />
             <pubDate>Thu, 16 Feb 2023 13:28:46 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202306061854223985933FD8FB7B8B18FDC5B040994255FD1-sm.png" />
-        </item>
-        <item>
-            <title>第135話</title>
-            <link>https://youngchampion.jp/episodes/745aee61fa477/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Thu, 16 Feb 2023 13:28:34 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230606185820514272B3079ADFA0D61BF9C397C18A40B47-sm.png" />
         </item>
         <item>
             <title>第2話</title>
@@ -4122,6 +4129,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755375774956-1e57ce48a641a4533ca40ef56b7ea4ac" />
         </item>
         <item>
+            <title>[第7話]愛が重い地雷系ヴァンパイア</title>
+            <link>https://shonenjumpplus.com/episode/11990162089556161935</link>
+            <description>愛が重い地雷系ヴァンパイア</description>
+            <pubDate>Sat, 20 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089556161935-5b852803d5c878cd9862b538865a8941" />
+        </item>
+        <item>
             <title>[第6話]愛が重い地雷系ヴァンパイア</title>
             <link>https://shonenjumpplus.com/episode/16457704570609869761</link>
             <description>愛が重い地雷系ヴァンパイア</description>
@@ -4750,6 +4764,13 @@
             <description>エクソシストを堕とせない</description>
             <pubDate>Tue, 21 Mar 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496649675685-a19156562a0fc50ab5bb73fe576a5838" />
+        </item>
+        <item>
+            <title>[12話]クソ女に幸あれ</title>
+            <link>https://shonenjumpplus.com/episode/11990162089556161703</link>
+            <description>クソ女に幸あれ</description>
+            <pubDate>Sat, 20 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089556161703-507d0f924a06d76e9f0a416fb200d18b" />
         </item>
         <item>
             <title>[イラスト3]クソ女に幸あれ</title>
@@ -6556,6 +6577,13 @@
             <description>ジャイアントお嬢様</description>
             <pubDate>Thu, 29 Jul 2021 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/3269754496551508303-26557a423f8f968a249bd62e0511f5ef" />
+        </item>
+        <item>
+            <title>[番外編19]ちえりの恋は8メートル</title>
+            <link>https://shonenjumpplus.com/episode/11990162089556162043</link>
+            <description>ちえりの恋は8メートル</description>
+            <pubDate>Sat, 20 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089556162043-27e23c0400c7842adc9193fb7713e044" />
         </item>
         <item>
             <title>[41話]ちえりの恋は8メートル</title>

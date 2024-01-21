@@ -4,7 +4,7 @@
         <title>agg-nitter</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>nitter</description>
-        <lastBuildDate>Sun, 21 Jan 2024 13:27:01 -0000</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 19:15:34 -0000</lastBuildDate>
         <item>
             <title>そろそろ寿司を食べないとしぬぜ！</title>
             <link>https://nitter.net/pic/orig/media%2FGC6HMVLaUAAgiH7.jpg</link>
@@ -670,6 +670,12 @@
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF6jsXseacAAwbq4.jpg" />
         </item>
         <item>
+            <title>突発的衝動により折部やすな描いた</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXq2RMbQAE5Ggp.jpg</link>
+            <description>Haidacutlet</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXq2RMbQAE5Ggp.jpg" />
+        </item>
+        <item>
             <title>氷川丸の中にあったパンカールーバーの説明書
 これいつのもんなんだろうか、戦前からの掲示物なのかしら</title>
             <link>https://nitter.net/pic/orig/media%2FGEXLP4-aEAA24lQ.jpg</link>
@@ -719,12 +725,6 @@
             <link>https://nitter.net/pic/orig/media%2FGDfHPXzWEAAfR4P.jpg</link>
             <description>Haidacutlet</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDfHPXzWEAAfR4P.jpg" />
-        </item>
-        <item>
-            <title>#艦これ　へそ</title>
-            <link>https://nitter.net/pic/orig/media%2FGDUoUDJbwAAaJzr.jpg</link>
-            <description>Haidacutlet</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDUoUDJbwAAaJzr.jpg" />
         </item>
         <item>
             <title>昨年はありがとうございました🙇‍♂️
@@ -984,6 +984,114 @@
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF1t4Px8aEAEvcG7.jpg" />
         </item>
         <item>
+            <title>エゼル ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEYbcm6agAAKXDn.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEYbcm6agAAKXDn.jpg" />
+        </item>
+        <item>
+            <title>エゼル ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEYbdXgakAAlc1T.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEYbdXgakAAlc1T.jpg" />
+        </item>
+        <item>
+            <title>モスティマ ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXsAj9bIAAgWPq.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXsAj9bIAAgWPq.jpg" />
+        </item>
+        <item>
+            <title>モスティマ ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXsBn5awAA2kXt.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXsBn5awAA2kXt.jpg" />
+        </item>
+        <item>
+            <title>レミュアン ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXqdK-bkAAwOgk.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXqdK-bkAAwOgk.jpg" />
+        </item>
+        <item>
+            <title>レミュアン ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXqdyfbwAAmHMr.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXqdyfbwAAmHMr.jpg" />
+        </item>
+        <item>
+            <title>フィアメッタ ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXqE3TbgAAM_X3.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXqE3TbgAAM_X3.jpg" />
+        </item>
+        <item>
+            <title>フィアメッタ ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXqFwkbIAAxwl2.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXqFwkbIAAxwl2.jpg" />
+        </item>
+        <item>
+            <title>セシリア ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXpm07bIAAAGlO.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXpm07bIAAAGlO.jpg" />
+        </item>
+        <item>
+            <title>セシリア ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXpoNfaIAEDEAX.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXpoNfaIAEDEAX.jpg" />
+        </item>
+        <item>
+            <title>アンドアイン ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXnXdmaAAAqpc8.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXnXdmaAAAqpc8.jpg" />
+        </item>
+        <item>
+            <title>アンドアイン ver.</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXnZFubIAARcL4.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXnZFubIAARcL4.jpg" />
+        </item>
+        <item>
+            <title>アークナイツの「己が導きへ -Guiding Ahead」に登場する六人をモチーフにしたドリンク仕様のシリーズグッズ【リキッドライフ】を皆様にお届けできることを嬉しく思います。お好きなドリンクをお楽しみいただければ幸いです。🥂
+ご予約はこちらへ：
+comicup.booth.pm/items/54362…
+comicup.booth.pm/items/54362…</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXmX8bbAAANMhg.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXmX8bbAAANMhg.jpg" />
+        </item>
+        <item>
+            <title>アークナイツの「己が導きへ -Guiding Ahead」に登場する六人をモチーフにしたドリンク仕様のシリーズグッズ【リキッドライフ】を皆様にお届けできることを嬉しく思います。お好きなドリンクをお楽しみいただければ幸いです。🥂
+ご予約はこちらへ：
+comicup.booth.pm/items/54362…
+comicup.booth.pm/items/54362…</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXmZGiaEAAGhUg.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXmZGiaEAAGhUg.jpg" />
+        </item>
+        <item>
+            <title>アークナイツの「己が導きへ -Guiding Ahead」に登場する六人をモチーフにしたドリンク仕様のシリーズグッズ【リキッドライフ】を皆様にお届けできることを嬉しく思います。お好きなドリンクをお楽しみいただければ幸いです。🥂
+ご予約はこちらへ：
+comicup.booth.pm/items/54362…
+comicup.booth.pm/items/54362…</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXmaFbaUAAKqQo.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXmaFbaUAAKqQo.jpg" />
+        </item>
+        <item>
+            <title>アークナイツの「己が導きへ -Guiding Ahead」に登場する六人をモチーフにしたドリンク仕様のシリーズグッズ【リキッドライフ】を皆様にお届けできることを嬉しく思います。お好きなドリンクをお楽しみいただければ幸いです。🥂
+ご予約はこちらへ：
+comicup.booth.pm/items/54362…
+comicup.booth.pm/items/54362…</title>
+            <link>https://nitter.net/pic/orig/media%2FGEXma_ab0AA2nS_.jpg</link>
+            <description>_Chuzenji_</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEXma_ab0AA2nS_.jpg" />
+        </item>
+        <item>
             <title>🌊</title>
             <link>https://nitter.net/pic/orig/media%2FGC5deGObIAA9KSV.jpg</link>
             <description>_Chuzenji_</description>
@@ -1033,54 +1141,6 @@
             <link>https://nitter.net/pic/orig/media%2FGCGuyXabsAAKotr.jpg</link>
             <description>_Chuzenji_</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCGuyXabsAAKotr.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGB9thYVbUAAATiN.png</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGB9thYVbUAAATiN.png" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGB89sN6aEAAIxxz.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGB89sN6aEAAIxxz.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGB7Qefza4AABpoD.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGB7Qefza4AABpoD.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGB7Sw5dakAA6msR.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGB7Sw5dakAA6msR.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGA1U559acAAMBgY.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGA1U559acAAMBgY.jpg" />
-        </item>
-        <item>
-            <title>😚</title>
-            <link>https://nitter.net/pic/orig/media%2FGA05gELaYAALGns.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGA05gELaYAALGns.jpg" />
-        </item>
-        <item>
-            <title>❄️</title>
-            <link>https://nitter.net/pic/orig/media%2FGARH29BbMAAPOR7.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGARH29BbMAAPOR7.jpg" />
-        </item>
-        <item>
-            <title>😽</title>
-            <link>https://nitter.net/pic/orig/media%2FF_i8zB9bUAA4Jc6.jpg</link>
-            <description>_Chuzenji_</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF_i8zB9bUAA4Jc6.jpg" />
         </item>
         <item>
             <title>新しいiPadProで試し描きφ三φ( 'ω' )</title>
@@ -1141,6 +1201,12 @@
             <link>https://nitter.net/pic/orig/media%2FF1ug_MEakAUKae-.jpg</link>
             <description>sc_ome</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FF1ug_MEakAUKae-.jpg" />
+        </item>
+        <item>
+            <title>hmmmmmm</title>
+            <link>https://nitter.net/pic/orig/media%2FGEYE-aUaQAA284Q.jpg</link>
+            <description>ccreayus</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEYE-aUaQAA284Q.jpg" />
         </item>
         <item>
             <title>頑張った</title>
@@ -1209,12 +1275,6 @@
             <link>https://nitter.net/pic/orig/media%2FGDsvkZ0bQAAuGDF.jpg</link>
             <description>ccreayus</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDsvkZ0bQAAuGDF.jpg" />
-        </item>
-        <item>
-            <title>薄くなった服を処分しょとしていたらたぶん司令(先代猫)ここに居たよの証拠になってるから、やっぱ着よ…</title>
-            <link>https://nitter.net/pic/orig/media%2FGDQFp3faYAAfPR1.jpg</link>
-            <description>ccreayus</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDQFp3faYAAfPR1.jpg" />
         </item>
         <item>
             <title>美容師さんに聞いたメモをまとめたフリーナのセットの仕方です
@@ -1342,6 +1402,12 @@ YouTube： piped.video/live/s4HD5TzrdTw
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGB2KdyBbgAANZc0.jpg" />
         </item>
         <item>
+            <title>プク！</title>
+            <link>https://nitter.net/pic/orig/media%2FGEX7gF0b0AAm3Vd.jpg</link>
+            <description>gagaimo_man</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEX7gF0b0AAm3Vd.jpg" />
+        </item>
+        <item>
             <title>ボロンするキョンシー控えめ牌。
 
 無料プラン更新しました。
@@ -1403,15 +1469,6 @@ fantia.jp/posts/2466304</title>
             <link>https://nitter.net/pic/orig/media%2FGCHtv56aQAA4Pvz.jpg</link>
             <description>gagaimo_man</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCHtv56aQAA4Pvz.jpg" />
-        </item>
-        <item>
-            <title>下書き。
-魚眼ぽいのをやろうと思ったが、長い曲線をどうやって引けばいいのか分からなくて何となくで描いた。
-
-まぁこんな間取りないですわな笑</title>
-            <link>https://nitter.net/pic/orig/media%2FGBbNgICbAAAlfkD.jpg</link>
-            <description>gagaimo_man</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGBbNgICbAAAlfkD.jpg" />
         </item>
         <item>
             <title>......？？</title>
@@ -1510,12 +1567,6 @@ fantia.jp/posts/2466304</title>
             <link>https://nitter.net/pic/orig/media%2FGEMx91TbAAA-aih.jpg</link>
             <description>708FNWP</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEMx91TbAAA-aih.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGEMwyhPbMAARKGM.jpg</link>
-            <description>708FNWP</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEMwyhPbMAARKGM.jpg" />
         </item>
         <item>
             <title>ᝰ✍🏻</title>
@@ -2435,53 +2486,6 @@ jnthed.fanbox.cc/posts/60104…</title>
             <link>https://nitter.net/pic/orig/media%2FGENszp-bUAAbFar.png</link>
             <description>nonanonnon6u6</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGENszp-bUAAbFar.png" />
-        </item>
-        <item>
-            <title>연하님께 넣은 케이미온 커미션...
-너무 커여워... .. . . .. . .. 
-주저앉아서앙앙우는중</title>
-            <link>https://nitter.net/pic/orig/media%2FGEMxHztbgAAXBlz.png</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEMxHztbgAAXBlz.png" />
-        </item>
-        <item>
-            <title>산고 조아</title>
-            <link>https://nitter.net/pic/orig/media%2FGEJMk5ObAAAMnKW.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEJMk5ObAAAMnKW.jpg" />
-        </item>
-        <item>
-            <title>화내지않아도사랑에빠져잇는게대놓고보이는그녀!
-아누가코테가와유이안그려주나,,,</title>
-            <link>https://nitter.net/pic/orig/media%2FGEHiFGQbgAALJER.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEHiFGQbgAALJER.jpg" />
-        </item>
-        <item>
-            <title>화내지않아도사랑에빠져잇는게대놓고보이는그녀!
-아누가코테가와유이안그려주나,,,</title>
-            <link>https://nitter.net/pic/orig/media%2FGEHiIZQbAAAKp3P.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEHiIZQbAAAKp3P.jpg" />
-        </item>
-        <item>
-            <title>화내지않아도사랑에빠져잇는게대놓고보이는그녀!
-아누가코테가와유이안그려주나,,,</title>
-            <link>https://nitter.net/pic/orig/media%2FGEHiSsJakAAoDTP.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEHiSsJakAAoDTP.jpg" />
-        </item>
-        <item>
-            <title>제가개좋아함</title>
-            <link>https://nitter.net/pic/orig/media%2FGEGRVCtbcAATVtn.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEGRVCtbcAATVtn.jpg" />
-        </item>
-        <item>
-            <title>제가개좋아함</title>
-            <link>https://nitter.net/pic/orig/media%2FGEGRe5LaIAEnoGN.jpg</link>
-            <description>nonanonnon6u6</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEGRe5LaIAEnoGN.jpg" />
         </item>
         <item>
             <title>イエメンの件も含めてXのヘイト行為に該当するのでは？
@@ -3622,6 +3626,12 @@ kiminovel.jp/book/toshoshits…</title>
             <link>https://nitter.net/pic/orig/media%2FGCBoRnfbMAACZJD.jpg</link>
             <description>marumoru_ka</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCBoRnfbMAACZJD.jpg" />
+        </item>
+        <item>
+            <title>おりたたみねっこ</title>
+            <link>https://nitter.net/pic/orig/media%2FGEYLzowa4AA9gWH.jpg</link>
+            <description>chigasaki_y</description>
+            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEYLzowa4AA9gWH.jpg" />
         </item>
         <item>
             <title />
@@ -5518,16 +5528,6 @@ heapsside.stores.jp/</title>
             <link>https://nitter.net/pic/orig/media%2FGCdSreya4AAl43j.jpg</link>
             <description>mnnnmfk</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCdSreya4AAl43j.jpg" />
-        </item>
-        <item>
-            <title>趣味絵だけでまとめようとしたけど無理だった…ってくらいには今年は仕事の絵ばかり描いてたなと…！
-2023年はたくさん絵を見てくださりありがとうございました！
-来年は自分の絵としっかり向き合うつもりで、仕事の絵に限らず自分の好きなものをたくさん描く年にしたいです。よいお年を🎍
-
-#2023年を振り返る</title>
-            <link>https://nitter.net/pic/orig/media%2FGCbiOC7acAAU8JQ.jpg</link>
-            <description>mnnnmfk</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGCbiOC7acAAU8JQ.jpg" />
         </item>
         <item>
             <title>バニし。</title>
@@ -8627,12 +8627,6 @@ LOVE SALON @lovesalon_07
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGEF3ffMbIAAUaH7.jpg" />
         </item>
         <item>
-            <title />
-            <link>https://nitter.net/pic/orig/media%2FGD9uJNDbkAA9Hlm.jpg</link>
-            <description>we_iK214</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGD9uJNDbkAA9Hlm.jpg" />
-        </item>
-        <item>
             <title>あけましておめでとうございます🎍🎍</title>
             <link>https://nitter.net/pic/orig/media%2FGDJDI15bMAAVIBF.jpg</link>
             <description>llluicent</description>
@@ -9440,24 +9434,6 @@ ncode.syosetu.com/n1227ii/</title>
             <link>https://nitter.net/pic/orig/media%2FGDpfgs4bYAAS0mo.jpg</link>
             <description>rureizi</description>
             <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDpfgs4bYAAS0mo.jpg" />
-        </item>
-        <item>
-            <title>#EISEITALK　イメトレ大事</title>
-            <link>https://nitter.net/pic/orig/media%2FGDkXADiawAAn8q3.png</link>
-            <description>rureizi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDkXADiawAAn8q3.png" />
-        </item>
-        <item>
-            <title>なんだかんだ初めて来たよ</title>
-            <link>https://nitter.net/pic/orig/media%2FGDDka-PaAAAB6aV.jpg</link>
-            <description>rureizi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDDka-PaAAAB6aV.jpg" />
-        </item>
-        <item>
-            <title>#EISEITALK</title>
-            <link>https://nitter.net/pic/orig/media%2FGDAUiu2aQAA-D-G.png</link>
-            <description>rureizi</description>
-            <enclosure length="0" type="image/jpg" url="https://nitter.net/pic/orig/media%2FGDAUiu2aQAA-D-G.png" />
         </item>
         <item>
             <title />

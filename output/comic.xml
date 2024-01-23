@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sun, 21 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>かわいそうな私たち</title>
             <link>https://kuragebunch.com/episode/10044607041220212386</link>
@@ -879,6 +879,13 @@
             <description />
             <pubDate>Thu, 30 Nov 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/292104/default/20231026152007240A32C559A395AB67B21C40DCF78878370-sm.png" />
+        </item>
+        <item>
+            <title>第3話</title>
+            <link>https://youngchampion.jp/episodes/d2ad0b7e9ba67/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Wed, 24 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240117170235073A1080536C26B574FD74836464A2AC822-sm.png" />
         </item>
         <item>
             <title>第2話</title>
@@ -3912,11 +3919,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321587916-7e3cd0b96b1cdb79e45e1fa0a98fa858" />
         </item>
         <item>
-            <title>第10話 つみきさんと蛇園さん。</title>
-            <link>https://www.sunday-webry.com/episode/10044607041214467179</link>
+            <title>第11話 つみきさん、訪問。</title>
+            <link>https://www.sunday-webry.com/episode/10044607041234589034</link>
             <description>尾守つみきと奇日常。</description>
-            <pubDate>Tue, 16 Jan 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/10044607041214467179-357cebb33de04dbc6f81325411f23e08" />
+            <pubDate>Tue, 23 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/10044607041234589034-0cb6482393dd5be3b3a13b6368bfdc1f" />
         </item>
         <item>
             <title>第3話 つみきさんとお昼。</title>
@@ -4295,6 +4302,13 @@
             <description>カツオノエボシが大量発生していた。/2023年9月期ブロンズルーキー賞</description>
             <pubDate>Thu, 19 Oct 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755345805658-eb4f17c6a0424c507dc2d05118f55fd2" />
+        </item>
+        <item>
+            <title>[57話]エクソシストを堕とせない</title>
+            <link>https://shonenjumpplus.com/episode/11990162089562568576</link>
+            <description>エクソシストを堕とせない</description>
+            <pubDate>Tue, 23 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089562568576-3cdda8e64c2e6625e7805554f608b277" />
         </item>
         <item>
             <title>[56話]エクソシストを堕とせない</title>

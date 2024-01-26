@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Fri, 26 Jan 2024 01:46:11 -0000</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:50:16 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9431790&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -4855,6 +4855,18 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9537264&amp;tags=haida_katsuretsu</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1a/2c/thumbnail_1a2c3e85d3b1571037b952014266b704.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9537227&amp;tags=haida_katsuretsu</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ad/bc/thumbnail_adbc33b05eecc1dfb3628a7964380c02.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9525122&amp;tags=haida_katsuretsu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1c/36/thumbnail_1c3692b2a394d77591b1c914829c6254.jpg" />
@@ -4900,18 +4912,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9485759&amp;tags=haida_katsuretsu</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/9d/a7/thumbnail_9da7baca7784ec0ca1845800ad6ace4a.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9477845&amp;tags=haida_katsuretsu</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/a3/15/thumbnail_a315af58b93563c84763ac7bbacb2d4c.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9477806&amp;tags=haida_katsuretsu</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/59/c3/thumbnail_59c36a65bed5ea8679edec498c69f235.jpg" />
         </item>
         <item>
             <title />
@@ -9205,6 +9205,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9537232&amp;tags=mattaku_mousuke</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e3/35/thumbnail_e335dbebf7427759c5a4a03b0b2b10a5.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9505604&amp;tags=mattaku_mousuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/bd/a1/thumbnail_bda194061ddd0fa72a49ef4f79a94f32.jpg" />
@@ -9256,12 +9262,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9444745&amp;tags=mattaku_mousuke</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/2e/42/thumbnail_2e42a1af3d3a561138a4af1ed863d4aa.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9407912&amp;tags=mattaku_mousuke</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/81/5a/thumbnail_815a093cccc605893737221b378ffc16.jpg" />
         </item>
         <item>
             <title />

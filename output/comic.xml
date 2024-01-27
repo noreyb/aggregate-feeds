@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 26 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>かわいそうな私たち</title>
             <link>https://kuragebunch.com/episode/10044607041220212386</link>
@@ -1959,6 +1959,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7155/1678839911790_sarumono_39.jpg" />
         </item>
         <item>
+            <title>第36話①</title>
+            <link>https://youngchampion.jp/episodes/4342b06a2498f/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 28 Jan 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2024011915023882380E2E98BF6444C276BF494BEBAB0E65F-sm.png" />
+        </item>
+        <item>
             <title>第35話②</title>
             <link>https://youngchampion.jp/episodes/8323da289d5e3/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -2125,13 +2132,6 @@
             <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/a21ad66c23943"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Sat, 18 Feb 2023 02:29:59 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202303242206139559789E2D1F8598A9AAD221709FFEB67F9-sm.png" />
-        </item>
-        <item>
-            <title>第19話</title>
-            <link>https://youngchampion.jp/episodes/85df171769864/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/85df171769864"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Sat, 18 Feb 2023 02:29:55 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202303242205349720B19EDF45ACE18892A125C1874334226-sm.png" />
         </item>
         <item>
             <title>第59話</title>
@@ -4400,6 +4400,13 @@
             <description>エクソシストを堕とせない</description>
             <pubDate>Tue, 21 Mar 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496649675685-a19156562a0fc50ab5bb73fe576a5838" />
+        </item>
+        <item>
+            <title>[13話]クソ女に幸あれ</title>
+            <link>https://shonenjumpplus.com/episode/11990162089564821450</link>
+            <description>クソ女に幸あれ</description>
+            <pubDate>Sat, 27 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089564821450-8cc445204bf8f4ed59ce3421512d6b74" />
         </item>
         <item>
             <title>[12話]クソ女に幸あれ</title>

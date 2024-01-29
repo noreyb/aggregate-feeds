@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:44:50 -0000</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 06:50:46 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9431790&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -2989,6 +2989,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9550183&amp;tags=drid</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/1b/b6/thumbnail_1bb644a872098ce8b129a4cbf901dd34.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9518428&amp;tags=drid</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/03/fc/thumbnail_03fc17c376c3b466c6fdc8be5eb2ca76.jpg" />
@@ -3040,12 +3046,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9052477&amp;tags=drid</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e0/44/thumbnail_e04462ded25148124ac318507b74fc9b.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=8969974&amp;tags=drid</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/e8/a2/thumbnail_e8a2f19085ac0522fa43058d859ef7fd.jpg" />
         </item>
         <item>
             <title />
@@ -17851,6 +17851,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9550960&amp;tags=yanyo_(ogino_atsuki)</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/b5/65/thumbnail_b565dc32cf9a5e672382e248bafc9c8a.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9546571&amp;tags=yanyo_(ogino_atsuki)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ef/2f/thumbnail_ef2f20f2209666b3f4cb32c9b57beb30.jpg" />
@@ -17902,12 +17908,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9479416&amp;tags=yanyo_(ogino_atsuki)</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/59/04/thumbnail_59040de552517b031652897040e2d010.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9472188&amp;tags=yanyo_(ogino_atsuki)</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/ab/ca/thumbnail_abcab1edfe7022adbd690e67a3498f98.jpg" />
         </item>
         <item>
             <title />

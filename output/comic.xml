@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 31 Jan 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>かわいそうな私たち</title>
             <link>https://kuragebunch.com/episode/10044607041220212386</link>
@@ -482,6 +482,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/428191/default/20231228163729018A9DCC78EF46DF69CC2E92D8E4F00545F-sm.png" />
         </item>
         <item>
+            <title>その(112)</title>
+            <link>https://comic-medu.com/episodes/45aeb0f838d1e/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Fri, 02 Feb 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/428191/default/202402011508231083F34A904F2AF2C495BE1F888650F758E-sm.png" />
+        </item>
+        <item>
             <title>その(111)</title>
             <link>https://comic-medu.com/episodes/d5232f30a7d49/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -648,13 +655,6 @@
             <description />
             <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8723/1695094950236_898.jpg" />
-        </item>
-        <item>
-            <title>その(87)</title>
-            <link>https://comic-medu.com/episodes/50a77366cfc79/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8723/1695094948548_895.jpg" />
         </item>
         <item>
             <title>第27話『蘇れ！ボクと彼女の思い出』</title>
@@ -3926,6 +3926,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755360143697-f48f43bc8c9692e049bd41a1e6301787" />
         </item>
         <item>
+            <title>[Episode9]魔女の執行人</title>
+            <link>https://shonenjumpplus.com/episode/8603475606553452175</link>
+            <description>魔女の執行人</description>
+            <pubDate>Thu, 01 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606553452175-76e86832ef2d8342aecaf36275c77c5d" />
+        </item>
+        <item>
             <title>[Episode8]魔女の執行人</title>
             <link>https://shonenjumpplus.com/episode/11990162089556162864</link>
             <description>魔女の執行人</description>
@@ -3945,20 +3952,6 @@
             <description>魔女の執行人</description>
             <pubDate>Thu, 21 Dec 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755588946330-990bbb9c96bd7f8cf68bd7f2d40e9720" />
-        </item>
-        <item>
-            <title>[Episode5]魔女の執行人</title>
-            <link>https://shonenjumpplus.com/episode/14079602755532933067</link>
-            <description>魔女の執行人</description>
-            <pubDate>Thu, 07 Dec 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755532933067-2e66af04c980e3774c8b2748fd57d51c" />
-        </item>
-        <item>
-            <title>[Episode4]魔女の執行人</title>
-            <link>https://shonenjumpplus.com/episode/14079602755476949684</link>
-            <description>魔女の執行人</description>
-            <pubDate>Thu, 23 Nov 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755476949684-d9db9cd5cad67cf1dc58a55d1f041f10" />
         </item>
         <item>
             <title>[Episode3]魔女の執行人</title>
@@ -5424,62 +5417,6 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606552821450-50ed2c7914416292920d695bcb0316fc" />
         </item>
         <item>
-            <title>[第23話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/11990162089552220689</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 15 Jan 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/11990162089552220689-d4e81826d520dbe364bac48b7b109709" />
-        </item>
-        <item>
-            <title>[第22話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755570530203</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 18 Dec 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755570530203-6e69a02f0d265fe6b4e95fbc7ed44c0e" />
-        </item>
-        <item>
-            <title>[第21話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755518251695</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 04 Dec 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755518251695-8823b4304cd05e23c79acec1db58ad6b" />
-        </item>
-        <item>
-            <title>[第20話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755476280327</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 20 Nov 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755476280327-5073d753e36d77244573f618649394d7" />
-        </item>
-        <item>
-            <title>[第19話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755399362573</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 06 Nov 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755399362573-e055eb275730cdfbdcd0213f5d220250" />
-        </item>
-        <item>
-            <title>[第18話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755360447994</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 23 Oct 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755360447994-e22a3e8a7bbfa48ef49eb8e980e6fbd9" />
-        </item>
-        <item>
-            <title>[第17話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755280971432</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 09 Oct 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755280971432-5ea44dd6903a574d522c5da2d1bffaf8" />
-        </item>
-        <item>
-            <title>[第16話]人類蝕</title>
-            <link>https://shonenjumpplus.com/episode/14079602755245027160</link>
-            <description>人類蝕</description>
-            <pubDate>Mon, 25 Sep 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755245027160-b2109ae5e28acd02ed45d7b3e8aef164" />
-        </item>
-        <item>
             <title>[第3話]人類蝕</title>
             <link>https://shonenjumpplus.com/episode/4856001361034307402</link>
             <description>人類蝕</description>
@@ -5702,6 +5639,13 @@
             <description>ヤンキー君と科学ごはん</description>
             <pubDate>Tue, 24 Oct 2023 05:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/3270375685449569180-a613a4cb62b8771307b45468fa1676e1" />
+        </item>
+        <item>
+            <title>第99話 METAちゃん</title>
+            <link>https://www.sunday-webry.com/episode/11341664176569813849</link>
+            <description>ジャイアントお嬢様</description>
+            <pubDate>Thu, 01 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/11341664176569813849-629a54d606770f81e21f30ba6744dcd0" />
         </item>
         <item>
             <title>第98話 鍋パ！食わず嫌い嬢ですわ</title>
@@ -6941,6 +6885,13 @@
             <description>少女Null</description>
             <pubDate>Fri, 04 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361584136770-30e7c288f26e4cd799775d54f2002345" />
+        </item>
+        <item>
+            <title>[番外編14]サチ録～サチの黙示録～</title>
+            <link>https://shonenjumpplus.com/episode/8603475606553452252</link>
+            <description>サチ録～サチの黙示録～</description>
+            <pubDate>Thu, 01 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606553452252-2002590cacd705265a86ee98be9ae4a3" />
         </item>
         <item>
             <title>[第十六話]サチ録～サチの黙示録～</title>

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 02 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 03 Feb 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>七草はづきお誕生日イラスト</title>
             <link>https://www.sunday-webry.com/episode/11341664176575781525</link>
@@ -2015,6 +2015,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7155/1678839911790_sarumono_39.jpg" />
         </item>
         <item>
+            <title>第36話②</title>
+            <link>https://youngchampion.jp/episodes/9715116d23afc/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 04 Feb 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240119150332549EF39C48F97B6E01EFB11024D43510A73-sm.png" />
+        </item>
+        <item>
             <title>第36話①</title>
             <link>https://youngchampion.jp/episodes/4342b06a2498f/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -2181,13 +2188,6 @@
             <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/3e99fce089949"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Sat, 18 Feb 2023 02:30:07 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230324220649937EAA381501291EB24948C0516431C3F92-sm.png" />
-        </item>
-        <item>
-            <title>第20話</title>
-            <link>https://youngchampion.jp/episodes/a21ad66c23943/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/a21ad66c23943"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Sat, 18 Feb 2023 02:29:59 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202303242206139559789E2D1F8598A9AAD221709FFEB67F9-sm.png" />
         </item>
         <item>
             <title>第59話</title>
@@ -3856,6 +3856,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755375774956-1e57ce48a641a4533ca40ef56b7ea4ac" />
         </item>
         <item>
+            <title>[イラスト]愛が重い地雷系ヴァンパイア</title>
+            <link>https://shonenjumpplus.com/episode/8603475606557217804</link>
+            <description>愛が重い地雷系ヴァンパイア</description>
+            <pubDate>Sat, 03 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606557217804-8dbec863b1e5dd778e994626ee005518" />
+        </item>
+        <item>
             <title>[第7話]愛が重い地雷系ヴァンパイア</title>
             <link>https://shonenjumpplus.com/episode/11990162089556161935</link>
             <description>愛が重い地雷系ヴァンパイア</description>
@@ -4463,6 +4470,13 @@
             <description>エクソシストを堕とせない</description>
             <pubDate>Tue, 21 Mar 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496649675685-a19156562a0fc50ab5bb73fe576a5838" />
+        </item>
+        <item>
+            <title>[14話]クソ女に幸あれ</title>
+            <link>https://shonenjumpplus.com/episode/8603475606557226448</link>
+            <description>クソ女に幸あれ</description>
+            <pubDate>Sat, 03 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606557226448-baf8bb4182325d74258f1bdbb0af2cce" />
         </item>
         <item>
             <title>[13話]クソ女に幸あれ</title>
@@ -6479,6 +6493,13 @@
             <description>ジャイアントお嬢様</description>
             <pubDate>Thu, 29 Jul 2021 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/3269754496551508303-26557a423f8f968a249bd62e0511f5ef" />
+        </item>
+        <item>
+            <title>[42話]ちえりの恋は8メートル</title>
+            <link>https://shonenjumpplus.com/episode/8603475606557220956</link>
+            <description>ちえりの恋は8メートル</description>
+            <pubDate>Sat, 03 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/8603475606557220956-599bdaad667b0f515997b490a1451b48" />
         </item>
         <item>
             <title>[番外編19]ちえりの恋は8メートル</title>

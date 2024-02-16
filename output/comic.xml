@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 15 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 03:00:00 +0000</lastBuildDate>
         <item>
             <title>ヒトナー</title>
             <link>https://shonenjumpplus.com/episode/8603475606570879923</link>
@@ -5347,6 +5347,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
         </item>
         <item>
+            <title>[36発目 ⑤] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/11341664176584927353</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 16 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176584927353-a69ffedc9e23b1c81646a7eac6d8c97f" />
+        </item>
+        <item>
             <title>[36発目 ④] こういうのがいい</title>
             <link>https://tonarinoyj.jp/episode/11341664176567077955</link>
             <description>こういうのがいい</description>
@@ -7333,13 +7340,6 @@
             <description>結婚するって言ったよね？</description>
             <pubDate>Mon, 01 May 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361183570631-af3de0d2bac6d99adf49f7b890075761" />
-        </item>
-        <item>
-            <title>[第28話] 地球外少年少女</title>
-            <link>https://tonarinoyj.jp/episode/11341664176569511010</link>
-            <description>地球外少年少女</description>
-            <pubDate>Fri, 02 Feb 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176569511010-1f71156fd7ab292a69a20683130a695c" />
         </item>
         <item>
             <title>[第1話] 地球外少年少女</title>

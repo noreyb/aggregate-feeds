@@ -4,7 +4,7 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Sat, 17 Feb 2024 17:56:23 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 01:29:37 +0000</lastBuildDate>
         <item>
             <title>New note by ubanis</title>
             <link>https://misskey.io/notes/9mj3ecbr8aun0478</link>
@@ -327,6 +327,13 @@
             <description>窮吹雪、乳を見せる</description>
             <pubDate>Tue, 06 Feb 2024 19:49:59 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/a03195bb-f952-4b23-8ad0-7eb8f85d01cc.webp" />
+        </item>
+        <item>
+            <title>New note by お絵かきおじさん</title>
+            <link>https://misskey.io/notes/9pu1xelhfktg00be</link>
+            <description>パラレルって作業用アプリ明日からテスト使用したいので、試しに貼ってみる。ocean_27586</description>
+            <pubDate>Sat, 17 Feb 2024 19:44:18 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-3756a6ba-8963-4155-8bf2-629115ce5d5b.webp" />
         </item>
         <item>
             <title>New note by お絵かきおじさん</title>
@@ -695,17 +702,18 @@ https://shidenchan.fanbox.cc/posts/7318523</description>
         </item>
         <item>
             <title>New note by たまや🔞</title>
+            <link>https://misskey.io/notes/9pu1aapjg11008j8</link>
+            <description>てんてん先輩おめでとうの絵
+#あま絵展</description>
+            <pubDate>Sat, 17 Feb 2024 19:26:20 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/4c000fe9-5fb7-4abe-9ad1-682290703826.png" />
+        </item>
+        <item>
+            <title>New note by たまや🔞</title>
             <link>https://misskey.io/notes/9ptd74bu3yog04i5</link>
             <description>3大栄養素に限って言えばはま寿司のバランスはかなり神ってるかも...</description>
             <pubDate>Sat, 17 Feb 2024 08:12:01 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-6eb75775-c309-4bae-a5d0-0765cfe29387.webp" />
-        </item>
-        <item>
-            <title>New note by たまや🔞</title>
-            <link>https://misskey.io/notes/9pqsiwk0ysq20am9</link>
-            <description>ブルアカrkgk最近のやつ</description>
-            <pubDate>Thu, 15 Feb 2024 12:57:47 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/fe15c2e9-abc4-4b53-ab97-b715b55eae2e.png" />
         </item>
         <item>
             <title>New note by やきへび🔞</title>
@@ -1228,28 +1236,6 @@ https://www.melonbooks.co.jp/detail/detail.php?product_id=2181146</description>
 かつては下品なギャグ漫画ばかり描いてました。そしてエッチで可愛い女の子を描く才能に気が付き、エロ漫画家になりましたｗ #画力ビフォーアフター</description>
             <pubDate>Fri, 16 Feb 2024 13:25:28 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/ae20e779-cf68-4df6-bd34-c91a4468fee0.webp" />
-        </item>
-        <item>
-            <title>New note by 牛柄ビキニの:_mo::_mo::_zi:</title>
-            <link>https://misskey.io/notes/9pthicrmljqo0fet</link>
-            <description>しめじとキャベツと茎わかめのサラダ</description>
-            <pubDate>Sat, 17 Feb 2024 10:12:44 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-fbb065f6-af92-4a46-8ea1-8f8f19c4ad23.webp" />
-        </item>
-        <item>
-            <title>New note by 牛柄ビキニの:_mo::_mo::_zi:</title>
-            <link>https://misskey.io/notes/9ptg6d18g6px0btc</link>
-            <description>これは2尾目
-要領掴んできた</description>
-            <pubDate>Sat, 17 Feb 2024 09:35:25 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-b1a7feac-d3d0-491e-b351-ec2422cc539d.webp" />
-        </item>
-        <item>
-            <title>New note by 牛柄ビキニの:_mo::_mo::_zi:</title>
-            <link>https://misskey.io/notes/9ptfp432q29h0a4a</link>
-            <description>ギョギョ</description>
-            <pubDate>Sat, 17 Feb 2024 09:22:00 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-0896f0d0-b5b7-4caf-a348-027f7d008263.webp" />
         </item>
         <item>
             <title>New note by 華葡。</title>
@@ -2555,13 +2541,6 @@ https://fantia.jp/posts/2539095</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/8bd61d91-5b48-48cb-baa0-5cefc79e941c.webp" />
         </item>
         <item>
-            <title>New note by なわけな</title>
-            <link>https://misskey.io/notes/9phxc5iollfc0695</link>
-            <description>酷いこと言われて興奮する神様です</description>
-            <pubDate>Fri, 09 Feb 2024 08:02:34 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/b1a61753-5bc2-4fec-8b4b-5a57c9b74fdf.webp" />
-        </item>
-        <item>
             <title>New note by 天然炭酸水🔞</title>
             <link>https://misskey.io/notes/9p836zwwv2i001om</link>
             <description>運動会んおJSたち集め😚</description>
@@ -3134,13 +3113,6 @@ https://fantia.jp/posts/2477665</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/1bc6d597-b8aa-4b14-a32c-7882d389c509.webp" />
         </item>
         <item>
-            <title>New note by うめばちまん</title>
-            <link>https://misskey.io/notes/9ptugqbqks1m0az3</link>
-            <description>:minnna_niha_naisyo_dayo::meowshh:</description>
-            <pubDate>Sat, 17 Feb 2024 16:15:23 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-74bc6556-4163-479c-a362-37ec8f76fc25.webp" />
-        </item>
-        <item>
             <title>New note by れもんpan@FANBOX</title>
             <link>https://misskey.io/notes/9ptrp51gxkxd080e</link>
             <description>落書きのつもりが、色塗って差分までつくちゃった絵</description>
@@ -3187,20 +3159,6 @@ https://fantia.jp/posts/2477665</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/b0763772-097f-4f37-82f0-ac1140acbdb2.webp" />
         </item>
         <item>
-            <title>New note by みるくもち:skeb:ご依頼募集中</title>
-            <link>https://misskey.io/notes/9pthps8jh5a00g5a</link>
-            <description>バレンタイン絵のX用です</description>
-            <pubDate>Sat, 17 Feb 2024 10:18:30 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/92130c0a-86a8-4123-8123-d7ce976ea164.png" />
-        </item>
-        <item>
-            <title>New note by みるくもち:skeb:ご依頼募集中</title>
-            <link>https://misskey.io/notes/9pth4snbg6px0eox</link>
-            <description>バレンタインな代理ちゃん</description>
-            <pubDate>Sat, 17 Feb 2024 10:02:11 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/32688c12-fc86-4dcb-938a-ad3cfbccf8d4.png" />
-        </item>
-        <item>
             <title>New note by 獅子千丸</title>
             <link>https://misskey.io/notes/9ptl9i0pu73z08nl</link>
             <description>町人から銭も白いのも搾りとるイベントシーン</description>
@@ -3230,13 +3188,6 @@ https://fantia.jp/posts/2477665</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-b37cb43b-f94b-43f3-b4fd-a0bc5a43444f.webp" />
         </item>
         <item>
-            <title>New note by オオカミうお</title>
-            <link>https://misskey.io/notes/9prseqno1ug704s8</link>
-            <description>:blobcat_mudamudamuda:</description>
-            <pubDate>Fri, 16 Feb 2024 05:42:18 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-e5dd7816-dbea-4ec0-8f06-5be88a137142.webp" />
-        </item>
-        <item>
             <title>New note by 味噌煮込みバナナ</title>
             <link>https://misskey.io/notes/9ptt3ua8yab109z0</link>
             <description>多分貼ってないCCさくら</description>
@@ -3251,11 +3202,21 @@ https://fantia.jp/posts/2477665</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-c5220bd9-c168-4546-aeff-394f6b6088c2.webp" />
         </item>
         <item>
-            <title>New note by 味噌煮込みバナナ</title>
-            <link>https://misskey.io/notes/9pth55vag6px0eq5</link>
-            <description>ロールちゃんとサヤカかわいいね</description>
-            <pubDate>Sat, 17 Feb 2024 10:02:28 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/c281ddc2-ec6a-44b0-bec8-7f24272e5484.webp" />
+            <title>New note by ZooTAN🔞</title>
+            <link>https://misskey.io/notes/9pub15n1zwsf09ka</link>
+            <description>除膜中のいろはちゃん</description>
+            <pubDate>Sat, 17 Feb 2024 23:59:10 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/66162178-1e90-4e39-9f08-c90cf3dcb950.webp" />
+        </item>
+        <item>
+            <title>New note by ZooTAN🔞</title>
+            <link>https://misskey.io/notes/9pu5g2u1v8a3055q</link>
+            <description>#BubbleGame (normal)
+SCORE: 7,790pt
+
+はじめて最大のを消せたわ</description>
+            <pubDate>Sat, 17 Feb 2024 21:22:48 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/918c261d-ef02-41f0-a05c-0f0baf4ed38a.png" />
         </item>
         <item>
             <title>New note by ZooTAN🔞</title>
@@ -3627,20 +3588,6 @@ https://www.melonbooks.co.jp/detail/detail.php?product_id=2184674
             <description>コメダに🏄‍♀️あかめちゃん #akamechan</description>
             <pubDate>Thu, 15 Feb 2024 06:01:36 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-eda58df3-bf43-4c7d-81ec-b38b2ec9959b.webp" />
-        </item>
-        <item>
-            <title>New note by きょーやん</title>
-            <link>https://misskey.io/notes/9pqdmnkqw0dw0123</link>
-            <description>せいそな🌱わたニャベ #watanyabe</description>
-            <pubDate>Thu, 15 Feb 2024 06:00:47 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-76d0d574-ed91-49ad-92a0-e6f8ea2c6fa9.png" />
-        </item>
-        <item>
-            <title>New note by きょーやん</title>
-            <link>https://misskey.io/notes/9pqdlcyp0vzi02zk</link>
-            <description>しふくの🏄‍♀️あかめちゃん #akamechan</description>
-            <pubDate>Thu, 15 Feb 2024 05:59:47 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/5d04f7f2-1317-4568-82e3-1cb36fbfb78c.png" />
         </item>
         <item>
             <title>New note by DaRoon5@C102日曜東ロ03b</title>
@@ -4122,6 +4069,24 @@ KO☆TO☆YO☆RO</description>
         </item>
         <item>
             <title>New note by 高遠そら</title>
+            <link>https://misskey.io/notes/9pu0kvbzg11007ro</link>
+            <description>異世界食堂のアニメって
+
+世間で「異世界モノ」と揶揄されることもあるカテゴリの作品で
+同時に「グルメモノ」と揶揄されることもあるカテゴリの作品で
+ある意味ネガティブになり得る要素が二つもセットになっているのに
+
+なんで毎回観ていると涙が出るのだろう
+この優しさは何なのだろう
+
+原作者か。アニメ監督か。
+
+この優しさを作り出してるのは誰なんだろう。</description>
+            <pubDate>Sat, 17 Feb 2024 19:06:34 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/2a7e0e75-b9bb-474c-b50c-01d9e37883c9.png" />
+        </item>
+        <item>
+            <title>New note by 高遠そら</title>
             <link>https://misskey.io/notes/9pp0bfn3o9vg06rp</link>
             <description>うちのこ運動中</description>
             <pubDate>Wed, 14 Feb 2024 07:00:23 +0000</pubDate>
@@ -4141,22 +4106,6 @@ KO☆TO☆YO☆RO</description>
             <description>背景作業中</description>
             <pubDate>Mon, 12 Feb 2024 08:02:31 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/ceed68af-a532-46a6-a3c5-592be386a539.png" />
-        </item>
-        <item>
-            <title>New note by 高遠そら</title>
-            <link>https://misskey.io/notes/9ply41lca3i106kp</link>
-            <description>Abemaで異世界食堂 一挙放送してるよー</description>
-            <pubDate>Mon, 12 Feb 2024 03:35:20 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/2a7e0e75-b9bb-474c-b50c-01d9e37883c9.png" />
-        </item>
-        <item>
-            <title>New note by 高遠そら</title>
-            <link>https://misskey.io/notes/9pkm4icfxiaq08x0</link>
-            <description>My New Shirt...
-
-Y.M.walk on "BD polo" indigo chambray</description>
-            <pubDate>Sun, 11 Feb 2024 05:12:00 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-cae1c3aa-21ef-4c76-8d7f-30e928a4ce59.webp" />
         </item>
         <item>
             <title>New note by nikumochu:skeb:🔞</title>
@@ -4407,6 +4356,14 @@ https://himitunisitoite.fanbox.cc/posts/7043441</description>
         </item>
         <item>
             <title>New note by 湯村きの</title>
+            <link>https://misskey.io/notes/9pue9hiulqff03dd</link>
+            <description>ドット絵　大貝獣物語の戦闘画面っぽい絵
+こういう感じで戦闘中お尻眺めるRPGやりたい</description>
+            <pubDate>Sun, 18 Feb 2024 01:29:37 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/28b7b347-7e34-4445-89ee-61685323a55b.png" />
+        </item>
+        <item>
+            <title>New note by 湯村きの</title>
             <link>https://misskey.io/notes/9pico29c9u6t067e</link>
             <description>褌</description>
             <pubDate>Fri, 09 Feb 2024 15:11:44 +0000</pubDate>
@@ -4432,6 +4389,20 @@ https://himitunisitoite.fanbox.cc/posts/7043441</description>
             <description>GBC風テクナ！</description>
             <pubDate>Wed, 31 Jan 2024 12:20:51 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/93ea97cb-47e8-4012-b17f-2ba8df6f9894.png" />
+        </item>
+        <item>
+            <title>New note by ヌワラグレイ:role_illustrator:</title>
+            <link>https://misskey.io/notes/9pu9tdx587th05gp</link>
+            <description>:deltu:</description>
+            <pubDate>Sat, 17 Feb 2024 23:25:08 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-76ef19e3-eed8-4281-bdaf-1fbb937f6dc5.webp" />
+        </item>
+        <item>
+            <title>New note by ヌワラグレイ:role_illustrator:</title>
+            <link>https://misskey.io/notes/9pu9sp6uwxhe058k</link>
+            <description>デシャ</description>
+            <pubDate>Sat, 17 Feb 2024 23:24:36 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-1fcd64c4-2304-4ad8-9009-e48e0c2e98ce.png" />
         </item>
         <item>
             <title>New note by ヌワラグレイ:role_illustrator:</title>
@@ -4729,6 +4700,13 @@ https://bookmate-net.com/ec/53567</description>
         </item>
         <item>
             <title>New note by 蛙Ｍ</title>
+            <link>https://misskey.io/notes/9pucraywek7o0ek6</link>
+            <description>サンデー朝パン</description>
+            <pubDate>Sun, 18 Feb 2024 00:47:29 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/f50daa3b-d8c4-4cf0-9df3-b37dccfdceae.webp" />
+        </item>
+        <item>
+            <title>New note by 蛙Ｍ</title>
             <link>https://misskey.io/notes/9ptpsl6e5bw902zn</link>
             <description>夜ブルマ</description>
             <pubDate>Sat, 17 Feb 2024 14:04:38 +0000</pubDate>
@@ -4859,13 +4837,6 @@ https://bookmate-net.com/ec/53567</description>
             <description>ド夜中スケベ絵</description>
             <pubDate>Thu, 08 Feb 2024 15:34:57 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/061b6e5b-fdde-4e31-9844-6303a03baa3d.webp" />
-        </item>
-        <item>
-            <title>New note by 蛙Ｍ</title>
-            <link>https://misskey.io/notes/9pfyczswj5dx0aoc</link>
-            <description>寒朝ＭＢ</description>
-            <pubDate>Wed, 07 Feb 2024 22:55:41 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/36183bf9-ad51-4be1-adb5-c2ce8bb2a33a.webp" />
         </item>
         <item>
             <title>New note by ごーごーぱんだ:blender::unitycube:</title>
@@ -5588,6 +5559,13 @@ https://www.wani.com/product/13877_202310/</description>
         </item>
         <item>
             <title>New note by ツナ爪@春例売り子案件募集</title>
+            <link>https://misskey.io/notes/9pu9dlnc8aox04y3</link>
+            <description>静物画デッサン(人体クロッキー)</description>
+            <pubDate>Sat, 17 Feb 2024 23:12:51 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-20639743-6c62-44b5-a6a0-7a64323769b2.webp" />
+        </item>
+        <item>
+            <title>New note by ツナ爪@春例売り子案件募集</title>
             <link>https://misskey.io/notes/9ptokm30tj4x002e</link>
             <description>仮面ライダー龍騎最終回で流れたCMで何もない背景に立ってる龍騎と共に「真司くんと蓮を忘れないでね」ってテロップが出てジッと画面を向いている龍騎に初めて"龍騎の物語が終わる"のを実感した。
 
@@ -5639,29 +5617,6 @@ https://discord.com/invite/Zz5EEf6Z</description>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-5b274653-64e1-4473-bdf9-e02dcde401b2.webp" />
         </item>
         <item>
-            <title>New note by ツナ爪@春例売り子案件募集</title>
-            <link>https://misskey.io/notes/9ps5sr3oxl58040d</link>
-            <description>バニー小傘キーホルダー(模索)
-サイズ:約50×50mm 付属:ナスカンシルバー(仮)</description>
-            <pubDate>Fri, 16 Feb 2024 11:57:07 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/f9c8f132-d397-4c61-898f-e422a850122e.webp" />
-        </item>
-        <item>
-            <title>New note by ツナ爪@春例売り子案件募集</title>
-            <link>https://misskey.io/notes/9prt4d4amalk06ew</link>
-            <description>おやつの進歩
-修正が終わらん…</description>
-            <pubDate>Fri, 16 Feb 2024 06:02:14 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/8ac36a5b-6bd8-4358-a1a9-a93751b18790.webp" />
-        </item>
-        <item>
-            <title>New note by :_ki2::_xya2::_prolong:</title>
-            <link>https://misskey.io/notes/9pt6mtncbw5a02p4</link>
-            <description>かわいいね #香耶ちゃんかわいいね</description>
-            <pubDate>Sat, 17 Feb 2024 05:08:16 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/384f5934-05ff-4d95-ad77-43a2ae04e845.webp" />
-        </item>
-        <item>
             <title>New note by すみやお</title>
             <link>https://misskey.io/notes/9pfdvlpzyq9g00p0</link>
             <description />
@@ -5675,13 +5630,6 @@ https://discord.com/invite/Zz5EEf6Z</description>
 ##odaibako__smiyao https://odaibako.net/detail/request/4d46b134-2628-469a-9ccc-4429c35407c9</description>
             <pubDate>Mon, 29 Jan 2024 10:01:56 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/5e3deab0-d6c9-417b-8805-1aa37f1f86d6.webp" />
-        </item>
-        <item>
-            <title>New note by :peroro_sama: nayamy(ﾅﾔﾐｰ)🔞:skeb:</title>
-            <link>https://misskey.io/notes/9pt35xivsjkc0d2u</link>
-            <description>#合歓垣フブキマイクロビキニ部 への入部届書いてきました:yoroshikuonegaishimasu: #ブルアカ</description>
-            <pubDate>Sat, 17 Feb 2024 03:31:09 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/1d485559-071e-418b-b33d-76ca23b18354.webp" />
         </item>
         <item>
             <title>New note by 抹茶さま</title>
@@ -6030,6 +5978,13 @@ https://comic-walker.com/contents/detail/KDCW_FS04204226010000_68/</description>
             <description>:blabcatpeek:</description>
             <pubDate>Wed, 29 Nov 2023 10:45:32 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-72f3bc3c-3a12-4eec-a436-0332af29aad0.png" />
+        </item>
+        <item>
+            <title>New note by xx682567:pixiv_icon::role_nsfw::role_illustrator:</title>
+            <link>https://misskey.io/notes/9pu2yqpzqs2i01mb</link>
+            <description>おっぱい:aissh:</description>
+            <pubDate>Sat, 17 Feb 2024 20:13:20 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/577ca08f-5904-4608-8fd8-a179f8985d2d.webp" />
         </item>
         <item>
             <title>New note by xx682567:pixiv_icon::role_nsfw::role_illustrator:</title>
@@ -6470,6 +6425,16 @@ https://ecs.toranoana.jp/tora/ec/item/040031111861/</description>
         </item>
         <item>
             <title>New note by けれの帝国</title>
+            <link>https://misskey.io/notes/9pu3uhplyjfl02s3</link>
+            <description>コーヒー常飲してるのですが一々ケトル内の水が切れる度に台所立つのが面倒で
+こういう浄水ポット欲しい…って思ってるんだけど
+多分こういうのは意識の高い生活を送る人のためのもので
+そういうズボラ選手権出場者向けの製品ではないという気もする…</description>
+            <pubDate>Sat, 17 Feb 2024 20:38:02 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/3bd50490-b23d-444e-abf3-2c564070f226.webp" />
+        </item>
+        <item>
+            <title>New note by けれの帝国</title>
             <link>https://misskey.io/notes/9ptev4jqzvk208hc</link>
             <description>ちょっとした進捗など…
 ?[fantia](https://fantia.jp/posts/2565219)/?[fanbox](https://kereno.fanbox.cc/posts/7473753)/?[ci-en](https://ci-en.dlsite.com/creator/21813/article/1073931)</description>
@@ -6490,6 +6455,13 @@ https://ecs.toranoana.jp/tora/ec/item/040031111861/</description>
 Ci-enに投稿しました「ぼうけんのしょ総集編vol.2 進捗 「魔物に敗北して犯されないと思ってるのぉ？」」 https://ci-en.dlsite.com/creator/247/article/1074182 #Ci_en #シエン</description>
             <pubDate>Sat, 17 Feb 2024 14:32:04 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/511e2b64-2970-4b28-91f0-8bcb108c7804.webp" />
+        </item>
+        <item>
+            <title>New note by タナトス</title>
+            <link>https://misskey.io/notes/9pu5k5lk587m004z</link>
+            <description>昼まだ用件...一旦寝よう</description>
+            <pubDate>Sat, 17 Feb 2024 21:25:59 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://proxy.misskeyusercontent.com/image.webp?url=https%3A%2F%2Fimg.pawoo.net%2Fmedia_attachments%2Ffiles%2F111%2F948%2F932%2F401%2F286%2F056%2Foriginal%2F7f8fe9fd7cc57d17.png" />
         </item>
         <item>
             <title>New note by タナトス</title>
@@ -7905,6 +7877,13 @@ PVだと活発系ライバル→プレイ時は戦闘狂系ヒロイン→プレ
         </item>
         <item>
             <title>New note by はんぶん虚弱🔞えち絵描く</title>
+            <link>https://misskey.io/notes/9ptzw0ht2t4006y4</link>
+            <description>らくがき･･･らくがきたのしい･･･</description>
+            <pubDate>Sat, 17 Feb 2024 18:47:14 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/69af5972-bf82-4a85-982b-b1f593a1da6e.webp" />
+        </item>
+        <item>
+            <title>New note by はんぶん虚弱🔞えち絵描く</title>
             <link>https://misskey.io/notes/9psl67kiulr105rb</link>
             <description>らくがきしてるばあいじゃないけどらくがきはたのしい
 つかさちゃんは細おっぱいで描きたいといつも思ってるけど結構忘れる</description>
@@ -8626,6 +8605,14 @@ $[fg.color=ffB0C1 **:syuilo::mama:に勝てた:ureshii::small_tsu_heart_exclamat
             <enclosure length="0" type="image/jpg" url="https://media.misskeyusercontent.com/io/33a92989-a03b-418e-9dc2-4de44facf1b2.jpg" />
         </item>
         <item>
+            <title>New note by Po2</title>
+            <link>https://misskey.io/notes/9puc5329mak707k1</link>
+            <description>2014↔2023
+スライム娘ちゃんで比較:blobcatconfounded: #画力ビフォーアフター</description>
+            <pubDate>Sun, 18 Feb 2024 00:30:13 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/ee92f377-8ab0-47f7-a1cd-219d9a43c730.png" />
+        </item>
+        <item>
             <title>New note by たっく:circle_sanka_simasu:日曜東ツ36b</title>
             <link>https://misskey.io/notes/9ptn1wu5uk9m0el4</link>
             <description>きりたんキラキラ:wipppu:
@@ -9235,6 +9222,13 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_323525/</description>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/io/webpublic-274ecc04-557f-4b34-95c0-c66ed605a682.png" />
         </item>
         <item>
+            <title>New note by ふじこ:skeb::role_nsfw:</title>
+            <link>https://misskey.io/notes/9pu9zvc88aox06pe</link>
+            <description>本格的な運用は２代目が凍結してからだから２ヶ月くらい先だけど２年生になりました</description>
+            <pubDate>Sat, 17 Feb 2024 23:30:10 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/41d1065e-618e-454c-9432-5a52c752af23.webp" />
+        </item>
+        <item>
             <title>New note by レアメタル🔞🎨</title>
             <link>https://misskey.io/notes/9p3w5pjatloq04mc</link>
             <description>グラブルのハイラさん:otoko:なら一度は:yume:みる:blobcozynap:引きこもりックスである</description>
@@ -9334,16 +9328,6 @@ https://fantia.jp/posts/2524582</description>
             <description>【R-18 ふたなり】大昔使ってた塗りに戻してみた。こっちの方が良いか。</description>
             <pubDate>Wed, 24 Jan 2024 10:51:39 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/c7cc5317-0017-46cb-9295-bca012d5d0c0.webp" />
-        </item>
-        <item>
-            <title>New note by にゅーひん</title>
-            <link>https://misskey.io/notes/9omuny9c29wh0afb</link>
-            <description>【R-18 ふたなり】うらやましい。俺もふたなり娘とオトモダチになってケツさしだしてヘコヘコしたい。
-続き→8p（前半4p公開済み）兜合わせ＋逆アナル＋全裸差分＋セリフ無し差分
-https://nyu-hin55.fanbox.cc/posts/7320212
-https://fantia.jp/posts/2503056</description>
-            <pubDate>Thu, 18 Jan 2024 14:06:54 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/85186fb0-1812-4900-8304-6075b9fcc68d.webp" />
         </item>
         <item>
             <title>New note by Frägarach :verify: :role_illustrator:</title>
@@ -9910,6 +9894,13 @@ Please look forward to their debuts on 7/31!
             <description>えっちな金剛落書き～　#艦これ</description>
             <pubDate>Sat, 30 Sep 2023 11:21:25 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/ae9e381a-7034-4ad5-b449-7ec5b8adaf35.webp" />
+        </item>
+        <item>
+            <title>New note by 変ポ丸</title>
+            <link>https://misskey.io/notes/9pu2xzodv8a301ob</link>
+            <description>浜風</description>
+            <pubDate>Sat, 17 Feb 2024 20:12:45 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/18e835da-70a0-4939-ace1-08bd30ad6a41.webp" />
         </item>
         <item>
             <title>New note by 変ポ丸</title>
@@ -11307,13 +11298,6 @@ iPadで雑に仕上げるのに慣れ過ぎてPCでちゃんと彩色すると�
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/ee50234b-71b4-4d79-ab42-bc69d85ae768.webp" />
         </item>
         <item>
-            <title>New note by まんす:role_nsfw:</title>
-            <link>https://misskey.io/notes/9pqonkjejp1l00p5</link>
-            <description>コアマガ担当編集を拉致して:gundam:観ました🤞</description>
-            <pubDate>Thu, 15 Feb 2024 11:09:26 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/webpublic-6c1a4a74-dc65-45fc-a943-75afce9247a4.webp" />
-        </item>
-        <item>
             <title>New note by EROTIPOP :nice_ass__i:</title>
             <link>https://misskey.io/notes/9hnq014qtc</link>
             <description>Hello Misskey!
@@ -11848,13 +11832,6 @@ watch here: https://www.youtube.com/watch?v=YlOwkwdygY0
             <description>:_ne::_mu::_ga::_ki:に:taiho:されて濃いの出た…:oreno_make:</description>
             <pubDate>Sat, 17 Feb 2024 04:36:02 +0000</pubDate>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.com/misskey/fada461d-4cd9-4b4e-8f4f-8935e896e834.png" />
-        </item>
-        <item>
-            <title>New note by きりみあ:skeb: C103日曜東ル-01b</title>
-            <link>https://misskey.io/notes/9potqxemvj4q0i9o</link>
-            <description>イロハのチョコたべたい:wave_hearts::peroro_sama:</description>
-            <pubDate>Wed, 14 Feb 2024 03:56:28 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.com/io/839e2a33-4885-41fa-ae6e-e9501bfdc000.webp" />
         </item>
         <item>
             <title>New note by そばあじ:role_nyanpuppu:</title>

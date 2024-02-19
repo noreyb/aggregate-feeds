@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sun, 18 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[1話]ナヴィガトリア</title>
             <link>https://shonenjumpplus.com/episode/9324074615349351708</link>
@@ -1021,6 +1021,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202312201514314980AD72114544E61E9CEE49FAD3B2AB15A-sm.png" />
         </item>
         <item>
+            <title>第50話</title>
+            <link>https://youngchampion.jp/episodes/7211bdf00c122/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Tue, 20 Feb 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202402161422524160464A06F821FCFD1A7794DBF6C58D5C3-sm.png" />
+        </item>
+        <item>
             <title>第49話</title>
             <link>https://youngchampion.jp/episodes/58708dee321b3/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1187,13 +1194,6 @@
             <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/a2e3956f1e416"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Tue, 28 Mar 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7101/1678508016930_isekaiNTR_26.jpg" />
-        </item>
-        <item>
-            <title>第25話</title>
-            <link>https://youngchampion.jp/episodes/09eb14421026a/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/09eb14421026a"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Thu, 16 Feb 2023 02:16:59 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7101/1676596904217_isekaiNTR_25.jpg" />
         </item>
         <item>
             <title>最終話</title>
@@ -5779,6 +5779,13 @@
             <description>鶴子の恩返し</description>
             <pubDate>Thu, 24 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755125437490-b7ed2d7767ec7f6874ef29403803446b" />
+        </item>
+        <item>
+            <title>[#14]スパイダーマン：オクトパスガール</title>
+            <link>https://shonenjumpplus.com/episode/9324074615349451462</link>
+            <description>スパイダーマン：オクトパスガール</description>
+            <pubDate>Mon, 19 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615349451462-c512a6f8ae93a5cb7ab6b984f8fffca1" />
         </item>
         <item>
             <title>[#13]スパイダーマン：オクトパスガール</title>

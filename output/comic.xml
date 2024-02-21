@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 20 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[1話]ナヴィガトリア</title>
             <link>https://shonenjumpplus.com/episode/9324074615349351708</link>
@@ -3401,6 +3401,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.corocoro.jp/public/episode-thumbnail/14079602755502771318-23616ace59feb41436d009cdd8eedfd0" />
         </item>
         <item>
+            <title>[第6話] バカ女26時</title>
+            <link>https://tonarinoyj.jp/episode/11341664176597191417</link>
+            <description>バカ女26時</description>
+            <pubDate>Wed, 21 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176597191417-937ce886fd632e7a621fce757219eef0" />
+        </item>
+        <item>
             <title>[第5話] バカ女26時</title>
             <link>https://tonarinoyj.jp/episode/10044607041212201354</link>
             <description>バカ女26時</description>
@@ -3511,6 +3518,13 @@
             <description>スウィングが無ければ意味が無い</description>
             <pubDate>Tue, 14 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755430095088-f083393071782f80ca2d3248e7dab626" />
+        </item>
+        <item>
+            <title>[第8話] しれっとすげぇこと言ってるギャル。</title>
+            <link>https://tonarinoyj.jp/episode/11341664176597191413</link>
+            <description>しれっとすげぇこと言ってるギャル。ー私立パラの丸高校の日常ー</description>
+            <pubDate>Wed, 21 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176597191413-eb6ddeb433e69bc0a2a06bce74041b39" />
         </item>
         <item>
             <title>[第7話] しれっとすげぇこと言ってるギャル。</title>
@@ -4458,11 +4472,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321587910-2a93586e3e12792753c4fa6d776adcdb" />
         </item>
         <item>
-            <title>[第4話] 恋は忍耐</title>
-            <link>https://tonarinoyj.jp/episode/10044607041200422431</link>
+            <title>[第5話] 恋は忍耐</title>
+            <link>https://tonarinoyj.jp/episode/11341664176609994253</link>
             <description>恋は忍耐</description>
-            <pubDate>Wed, 24 Jan 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/10044607041200422431-d8fa0fbdea86ebf115a87940448fd301" />
+            <pubDate>Wed, 21 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176609994253-0a3bc256f30d9d405d86d91ceec7f768" />
         </item>
         <item>
             <title>[第2話] 恋は忍耐</title>

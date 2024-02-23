@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 22 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[1話]ナヴィガトリア</title>
             <link>https://shonenjumpplus.com/episode/9324074615349351708</link>
@@ -5018,18 +5018,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269632237305143755-4450df36fa58dd3f7a91e7175429d017" />
         </item>
         <item>
+            <title>第58話 まもなくゴールですか？</title>
+            <link>https://kuragebunch.com/episode/14079602755643934437</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 02 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755643934437-53562230cd9fdd39d512949dbb187578" />
+        </item>
+        <item>
             <title>第57話 イケメンがジムにいます</title>
             <link>https://kuragebunch.com/episode/14079602755567434245</link>
             <description>のボルダ</description>
             <pubDate>Fri, 12 Jan 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755567434245-c319798f6fddc3ad2d71bc5abcae653b" />
-        </item>
-        <item>
-            <title>第56話 ウオオオウハハ</title>
-            <link>https://kuragebunch.com/episode/14079602755510278192</link>
-            <description>のボルダ</description>
-            <pubDate>Fri, 15 Dec 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755510278192-7c1fa9bde8ccc24ced7263e7f1564ef5" />
         </item>
         <item>
             <title>番外編 いいこと思いついたっス</title>
@@ -5429,6 +5429,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[37発目 ①] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/2550668105996440465</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 23 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550668105996440465-dd293354d1ad843c40243bc1e737b0ab" />
         </item>
         <item>
             <title>[36発目 ⑤] こういうのがいい</title>
@@ -7468,6 +7475,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361214474046-19171a9dda1b35f65725da45336af689" />
         </item>
         <item>
+            <title>[第19話] 聖母の断罪</title>
+            <link>https://tonarinoyj.jp/episode/2550668106005607891</link>
+            <description>聖母の断罪</description>
+            <pubDate>Fri, 23 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550668106005607891-13d1443e8f2bd656947e20d420306ef7" />
+        </item>
+        <item>
             <title>[休載イラスト] 聖母の断罪</title>
             <link>https://tonarinoyj.jp/episode/11341664176584930252</link>
             <description>聖母の断罪</description>
@@ -7480,13 +7494,6 @@
             <description>聖母の断罪</description>
             <pubDate>Fri, 26 Jan 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/10044607041233573998-a185849eab03d031c0d1e8c59c3149d6" />
-        </item>
-        <item>
-            <title>[第17話] 聖母の断罪</title>
-            <link>https://tonarinoyj.jp/episode/14079602755643779891</link>
-            <description>聖母の断罪</description>
-            <pubDate>Fri, 12 Jan 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755643779891-b90fc522fbba09938643afbcb258d3ba" />
         </item>
         <item>
             <title>[年賀イラスト] 聖母の断罪</title>

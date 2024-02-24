@@ -4,7 +4,14 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 23 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <item>
+            <title>[2話]ナヴィガトリア</title>
+            <link>https://shonenjumpplus.com/episode/9324074615354954984</link>
+            <description>ナヴィガトリア</description>
+            <pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615354954984-7c27378e07f4fe8a8052a0dab196659f" />
+        </item>
         <item>
             <title>[1話]ナヴィガトリア</title>
             <link>https://shonenjumpplus.com/episode/9324074615349351708</link>
@@ -2260,6 +2267,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230324220649937EAA381501291EB24948C0516431C3F92-sm.png" />
         </item>
         <item>
+            <title>第60話</title>
+            <link>https://youngchampion.jp/episodes/3e1c9970791c7/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 25 Feb 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202402161509371881D827F8E9D8BE8839959705FF0493AFD-sm.png" />
+        </item>
+        <item>
             <title>第59話</title>
             <link>https://youngchampion.jp/episodes/e79d4e69324c3/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -2428,11 +2442,11 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7180/1678840496667_takane_midare_36.jpg" />
         </item>
         <item>
-            <title>第35話</title>
-            <link>https://youngchampion.jp/episodes/0dff3d6f117f3/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/0dff3d6f117f3"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Thu, 16 Feb 2023 13:39:13 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7180/1678840496031_takane_midare_35.jpg" />
+            <title>第161話</title>
+            <link>https://youngchampion.jp/episodes/3412eef51c36d/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 25 Feb 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202402161510390949E554416B849079C0FBFB5BDA7C27953-sm.png" />
         </item>
         <item>
             <title>第160話</title>
@@ -2601,13 +2615,6 @@
             <description />
             <pubDate>Thu, 16 Feb 2023 13:28:57 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230606185552155C459F876BD2E73E3226F943974A035CE-sm.png" />
-        </item>
-        <item>
-            <title>第136話</title>
-            <link>https://youngchampion.jp/episodes/ee5e80ab1e053/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Thu, 16 Feb 2023 13:28:46 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202306061854223985933FD8FB7B8B18FDC5B040994255FD1-sm.png" />
         </item>
         <item>
             <title>第3話</title>
@@ -4680,6 +4687,13 @@
             <description>エクソシストを堕とせない</description>
             <pubDate>Tue, 21 Mar 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496649675685-a19156562a0fc50ab5bb73fe576a5838" />
+        </item>
+        <item>
+            <title>[16話]クソ女に幸あれ</title>
+            <link>https://shonenjumpplus.com/episode/9324074615354955019</link>
+            <description>クソ女に幸あれ</description>
+            <pubDate>Sat, 24 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615354955019-b376c8be458d338e78031abdff3748b7" />
         </item>
         <item>
             <title>[15話]クソ女に幸あれ</title>

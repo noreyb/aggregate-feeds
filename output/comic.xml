@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 28 Feb 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>ハナストロンガー</title>
             <link>https://shonenjumpplus.com/episode/9324074615354955268</link>
@@ -615,6 +615,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/428191/default/20231228163729018A9DCC78EF46DF69CC2E92D8E4F00545F-sm.png" />
         </item>
         <item>
+            <title>その(116)</title>
+            <link>https://comic-medu.com/episodes/742b57ff77dd0/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Fri, 01 Mar 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/428191/default/20240229171026686B8E25A9820495DFCA8FA62B5428FDF8A-sm.png" />
+        </item>
+        <item>
             <title>その(115)</title>
             <link>https://comic-medu.com/episodes/7703c9ce2a73d/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -781,13 +788,6 @@
             <description />
             <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8723/1695094956722_1023.jpg" />
-        </item>
-        <item>
-            <title>その(91)</title>
-            <link>https://comic-medu.com/episodes/65b7d085803d4/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Mon, 23 Oct 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/8723/1695094955075_1014.jpg" />
         </item>
         <item>
             <title>第27話『蘇れ！ボクと彼女の思い出』</title>
@@ -4211,6 +4211,13 @@
             <description>私のためにおっパブ行ってください</description>
             <pubDate>Sat, 28 Oct 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755360143697-f48f43bc8c9692e049bd41a1e6301787" />
+        </item>
+        <item>
+            <title>[イラスト]魔女の執行人</title>
+            <link>https://shonenjumpplus.com/episode/9324074615362170692</link>
+            <description>魔女の執行人</description>
+            <pubDate>Thu, 29 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615362170692-258e394a0d313c584cdca892f19a1ca5" />
         </item>
         <item>
             <title>[Episode10]魔女の執行人</title>
@@ -7872,6 +7879,13 @@
             <description>少女Null</description>
             <pubDate>Fri, 04 Aug 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/4856001361584136770-30e7c288f26e4cd799775d54f2002345" />
+        </item>
+        <item>
+            <title>[番外編16]サチ録～サチの黙示録～</title>
+            <link>https://shonenjumpplus.com/episode/9324074615362169103</link>
+            <description>サチ録～サチの黙示録～</description>
+            <pubDate>Thu, 29 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615362169103-21dbb526ecce2d7053d9755af05c4fdd" />
         </item>
         <item>
             <title>[第十八話]サチ録～サチの黙示録～</title>

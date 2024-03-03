@@ -24,26 +24,26 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update_nitter:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
-      - run: poetry install --no-root
-      - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_NITTER=${{secrets.RAINDROP_NITTER}} poetry run python main.py nitter
-      - name: Update feed
-        continue-on-error: true
-        run: |
-          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-          git fetch origin main
-          git merge origin/main
-          git add ./output/nitter.xml
-          git commit -m "update nitter feed"
-          git push origin main
+#  update_nitter:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/checkout@v3
+#      - uses: actions/setup-python@v4
+#        with:
+#          python-version: "3.11"
+#      - uses: Gr1N/setup-poetry@v8
+#      - run: poetry install --no-root
+#      - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_NITTER=${{secrets.RAINDROP_NITTER}} poetry run python main.py nitter
+#      - name: Update feed
+#        continue-on-error: true
+#        run: |
+#          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+#          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+#          git fetch origin main
+#          git merge origin/main
+#          git add ./output/nitter.xml
+#          git commit -m "update nitter feed"
+#          git push origin main
 
   update_cmc:
     runs-on: ubuntu-latest
@@ -131,7 +131,7 @@ jobs:
 
   deploy:
     if: ${{ always() }}
-    needs: [update_cmc, update_fdv, update_booru, update_kmn, update_nitter]
+    needs: [update_cmc, update_fdv, update_booru, update_kmn]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

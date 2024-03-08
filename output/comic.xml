@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 07 Mar 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 03:00:00 +0000</lastBuildDate>
         <item>
             <title>写して</title>
             <link>https://shonenjumpplus.com/episode/9324103623764425925</link>
@@ -3730,6 +3730,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755420766202-09d1f196c1626caedc27a04439372ede" />
         </item>
         <item>
+            <title>第7話 松浦診療所</title>
+            <link>https://kuragebunch.com/episode/14079602755566214146</link>
+            <description>ういちの島</description>
+            <pubDate>Fri, 09 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/14079602755566214146-72edcb2f8b55d8270743570cb774ded4" />
+        </item>
+        <item>
             <title>第6話 寒い夢</title>
             <link>https://kuragebunch.com/episode/14079602755566214141</link>
             <description>ういちの島</description>
@@ -5347,11 +5354,305 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361365625405-9dd8809e9d24e412703c48af9d0a3750" />
         </item>
         <item>
+            <title>第44話 友達が帰ってきました</title>
+            <link>https://kuragebunch.com/episode/4856001361096215545</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 12 May 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361096215545-481da3231c0eae1445405e2e16048c60" />
+        </item>
+        <item>
+            <title>第43話 母</title>
+            <link>https://kuragebunch.com/episode/4856001361030673135</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 31 Mar 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361030673135-b681b96d501a84fcf06b6179b1a428a0" />
+        </item>
+        <item>
+            <title>第42話 ジム遠征に行きますよ・その5</title>
+            <link>https://kuragebunch.com/episode/4855956445074850521</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 10 Mar 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4855956445074850521-6c8efeed61000e58af8d796907648eee" />
+        </item>
+        <item>
+            <title>第41話 ジム遠征に行きますよ・その4</title>
+            <link>https://kuragebunch.com/episode/4855956445074850516</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 24 Feb 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4855956445074850516-0181e1f58cef97c4d728259a752bc0be" />
+        </item>
+        <item>
+            <title>第40話 ジム遠征に行きますよ・その3</title>
+            <link>https://kuragebunch.com/episode/316190247135937825</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 10 Feb 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190247135937825-5ed8c58ff0508bd77c5d2c994328e484" />
+        </item>
+        <item>
+            <title>第39話 ジム遠征に行きますよ・その2</title>
+            <link>https://kuragebunch.com/episode/316190247076910397</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 27 Jan 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190247076910397-b7558271ded6cee53ee78cd9bf35dfa1" />
+        </item>
+        <item>
+            <title>第38話 ジム遠征に行きますよ・その1</title>
+            <link>https://kuragebunch.com/episode/316190247045839817</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 06 Jan 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190247045839817-b0e91e28b60e8bd8b785c47ae77401a8" />
+        </item>
+        <item>
+            <title>第37話 ボルダリングは体の全てを使うスポーツです</title>
+            <link>https://kuragebunch.com/episode/316190246989013369</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 23 Dec 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190246989013369-bed72d370d7397e517ec089ff1f50efe" />
+        </item>
+        <item>
+            <title>第36話 あったらいいな</title>
+            <link>https://kuragebunch.com/episode/316190246989013364</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 09 Dec 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190246989013364-8979f19ede5e65acee07e8a118480ea3" />
+        </item>
+        <item>
+            <title>第35話 ジブズさん・その2</title>
+            <link>https://kuragebunch.com/episode/316190246950943038</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 25 Nov 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190246950943038-05f2681ca5c166408d1e6d77d0f42f0e" />
+        </item>
+        <item>
+            <title>第34話 ジブズさん・その1</title>
+            <link>https://kuragebunch.com/episode/316112896931392704</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 11 Nov 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896931392704-35e5b671ee441de444573c0b96aa1918" />
+        </item>
+        <item>
+            <title>第33話 ボルダリングは少し寂しいスポーツです</title>
+            <link>https://kuragebunch.com/episode/316112896931392687</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 28 Oct 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896931392687-8e25889fd271d15da57b48122de42b4d" />
+        </item>
+        <item>
+            <title>第32話 ボルダリングはやっぱり危険なスポーツです</title>
+            <link>https://kuragebunch.com/episode/316112896866457038</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 14 Oct 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896866457038-6a4072fc8c0fd0f7b0bb62f105b0e142" />
+        </item>
+        <item>
+            <title>第31話 ボルダリングはモヤっとするスポーツです</title>
+            <link>https://kuragebunch.com/episode/316112896827754730</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 23 Sep 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896827754730-34fe8b977fa4b5e091bf5fa09d743ee9" />
+        </item>
+        <item>
             <title>２巻発売記念 描き下ろしイラスト</title>
             <link>https://kuragebunch.com/episode/316112896911307193</link>
             <description>のボルダ</description>
             <pubDate>Fri, 07 Oct 2022 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896911307193-38a6436a02b007a4a1ed40a2e3ce11a0" />
+        </item>
+        <item>
+            <title>第30話 ユリ</title>
+            <link>https://kuragebunch.com/episode/3270375685379440476</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 09 Sep 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685379440476-ee28073ffb5fa334a753b8f95ef4d7db" />
+        </item>
+        <item>
+            <title>第29話 お父さんと息子</title>
+            <link>https://kuragebunch.com/episode/3270375685379440471</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 19 Aug 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685379440471-5f460dd4edc269278c398b1dc58da2ce" />
+        </item>
+        <item>
+            <title>第28話 ボルダリングは頭を使うスポーツです</title>
+            <link>https://kuragebunch.com/episode/3270375685346388698</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 29 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685346388698-63e704df545ef10fa21a3e3fe333cc96" />
+        </item>
+        <item>
+            <title>第27話 2足目は攻め攻めです</title>
+            <link>https://kuragebunch.com/episode/3270375685313524789</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 15 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313524789-49e8bff392046836e16d4cda7e7590dd" />
+        </item>
+        <item>
+            <title>第26話 シューズを買いました</title>
+            <link>https://kuragebunch.com/episode/3270296674385865966</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 01 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674385865966-addf0981e2fc0d725d3e128e506e5b10" />
+        </item>
+        <item>
+            <title>第25話 シューズを買ったわよ</title>
+            <link>https://kuragebunch.com/episode/3270296674385865961</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674385865961-d6bae1e1cbd897225cdfdf3ad182760d" />
+        </item>
+        <item>
+            <title>第24話 赤いクツのお話知ってますか？</title>
+            <link>https://kuragebunch.com/episode/3269754496872078237</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 03 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496872078237-53ebd4fe77ddc573fdcbc5b13f80ddba" />
+        </item>
+        <item>
+            <title>第23話 ボルダリングは初心者にやさしいスポーツらしいわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496872078232</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 20 May 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496872078232-fedf8f2f2fcdc322fdcde1df3f170af6" />
+        </item>
+        <item>
+            <title>第22話 人によって数がちがうらしいわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496842246134</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 06 May 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496842246134-01ff265aa9997a056278f5003c787d78" />
+        </item>
+        <item>
+            <title>第21話 非情な運命に翻弄されるわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496842246129</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 15 Apr 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496842246129-878920713e7bca4d8491f165b98215ed" />
+        </item>
+        <item>
+            <title>第20話 ホールドの名称を教えてもらうわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496790601438</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 01 Apr 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496790601438-82d7f1e2c5ecfea61e163fd41fddfb1b" />
+        </item>
+        <item>
+            <title>第19話 指と手の話</title>
+            <link>https://kuragebunch.com/episode/3269754496790601426</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 18 Mar 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496790601426-e87fd0f6b528e51f93bcd5c6ff213f7b" />
+        </item>
+        <item>
+            <title>第18話 強くなるためにやっておくこと何ですか</title>
+            <link>https://kuragebunch.com/episode/3269754496737493556</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 04 Mar 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496737493556-e19eff482e6bc5515d0f1b5f983a316f" />
+        </item>
+        <item>
+            <title>第17話 気がつけばまたスポーツ漫画、とか</title>
+            <link>https://kuragebunch.com/episode/3269754496737493549</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 18 Feb 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496737493549-cbba3d58345036d186dedabcc40edaad" />
+        </item>
+        <item>
+            <title>第16話 やっぱりその由来じゃないらしいわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496711743650</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 04 Feb 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496711743650-a83c97d8dd4714684a3c737ebce6e8e2" />
+        </item>
+        <item>
+            <title>第15話 変な用語を解説させるわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496711743645</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 28 Jan 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496711743645-efee85956aa6c426dae0e5075e449545" />
+        </item>
+        <item>
+            <title>第14話 変な用語に翻弄されるわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496651349316</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 21 Jan 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496651349316-bfb35aaae4f1dfe45b95e7125b814f86" />
+        </item>
+        <item>
+            <title>第13話 肩も意識してみよう</title>
+            <link>https://kuragebunch.com/episode/3269754496651349308</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 07 Jan 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496651349308-1e94c5b6f6d5d680a2c589ffd157dcd8" />
+        </item>
+        <item>
+            <title>第12話 チョークの話</title>
+            <link>https://kuragebunch.com/episode/3269754496631346033</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 17 Dec 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496631346033-bf4e71d83b21fede733cf7a2bdd67fdd" />
+        </item>
+        <item>
+            <title>第11話 ボルダリングをやってみるわよ</title>
+            <link>https://kuragebunch.com/episode/3269754496608360312</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 03 Dec 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496608360312-154603cb67c03c0a49e0586435d5da86" />
+        </item>
+        <item>
+            <title>第10話 ボルダリングをしていると時々聞かれることがあります</title>
+            <link>https://kuragebunch.com/episode/3269754496584190392</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 19 Nov 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496584190392-60bcda34709c5c954a81b48cc01ac4af" />
+        </item>
+        <item>
+            <title>第9話 ハートホールド</title>
+            <link>https://kuragebunch.com/episode/3269754496498357932</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 05 Nov 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496498357932-bb62cd03a63f20effdce3038aed4b725" />
+        </item>
+        <item>
+            <title>第8話 ボルダリングを始めたキッカケはなんですか？</title>
+            <link>https://kuragebunch.com/episode/3269754496498357923</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 15 Oct 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496498357923-3649bf54614f58599c1e15e90d95dbc0" />
+        </item>
+        <item>
+            <title>第7話  ボルダリング中に勉強なんてできません</title>
+            <link>https://kuragebunch.com/episode/3269754496432602604</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 01 Oct 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496432602604-a93333684a972464e85c8e3eb7894ee6" />
+        </item>
+        <item>
+            <title>第6話 ボルダリングはカベで遊ぶスポーツです</title>
+            <link>https://kuragebunch.com/episode/3269754496432602599</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 17 Sep 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496432602599-f3793e1f702c50d00eb3a890d6684f6c" />
+        </item>
+        <item>
+            <title>第5話 ボルダリングはマゾなスポーツです</title>
+            <link>https://kuragebunch.com/episode/3269754496432602591</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 03 Sep 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496432602591-0e6e4a282bb05ea803a18d0592e1510f" />
+        </item>
+        <item>
+            <title>第4話 ボルダリングで背中に性格が出たりはしません</title>
+            <link>https://kuragebunch.com/episode/3269754496432602586</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 20 Aug 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496432602586-3b36c4e6bdf38db36b09b9232c839b09" />
+        </item>
+        <item>
+            <title>第3話 ボルダリングは静かなスポーツです</title>
+            <link>https://kuragebunch.com/episode/3269754496410437558</link>
+            <description>のボルダ</description>
+            <pubDate>Fri, 06 Aug 2021 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496410437558-d4e0f5f4224fc179c9f076c4050a214b" />
         </item>
         <item>
             <title>第2話 ボルダリングはちょっとヘンなスポーツです</title>
@@ -5417,11 +5718,74 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361178410210-94fec19e86d4ab2db24148be05d5f61a" />
         </item>
         <item>
+            <title>第23話 初めての都</title>
+            <link>https://kuragebunch.com/episode/316190246972567088</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 13 Dec 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190246972567088-d69567ba53028aa954aff04069bc9e8e" />
+        </item>
+        <item>
+            <title>第22話 合戦の記憶</title>
+            <link>https://kuragebunch.com/episode/316190246950958333</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 29 Nov 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316190246950958333-a9d2b3e039d58800672b44fd48db5e26" />
+        </item>
+        <item>
+            <title>第21話 癒しの一時</title>
+            <link>https://kuragebunch.com/episode/316112896951774650</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 15 Nov 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896951774650-9ba18aed2613513da09e34573af7150e" />
+        </item>
+        <item>
+            <title>第20話 成長の過程</title>
+            <link>https://kuragebunch.com/episode/316112896951774645</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 01 Nov 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896951774645-d86711604a45e68dcfb613e630648b0f" />
+        </item>
+        <item>
             <title>休載イラスト</title>
             <link>https://kuragebunch.com/episode/316112896951774636</link>
             <description>女騎士とケモミミの子</description>
             <pubDate>Tue, 08 Nov 2022 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896951774636-98ee9e3068d691fe401973a116549bf4" />
+        </item>
+        <item>
+            <title>第19話 筋トレ開始♪</title>
+            <link>https://kuragebunch.com/episode/316112896931410485</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 21 Oct 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896931410485-0924a057f45138d23d9ded33c674fc5e" />
+        </item>
+        <item>
+            <title>第18話 腕まえ発揮⁉</title>
+            <link>https://kuragebunch.com/episode/316112896847701074</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 14 Oct 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896847701074-9cf5763730d74f66c75ccef3afdc3a85" />
+        </item>
+        <item>
+            <title>第17話 こわい迷信</title>
+            <link>https://kuragebunch.com/episode/316112896847701069</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 23 Sep 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896847701069-12504b418a406e8640ae6c39235b0ef9" />
+        </item>
+        <item>
+            <title>第16話 彷徨う骸骨</title>
+            <link>https://kuragebunch.com/episode/3270375685313551524</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 16 Sep 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313551524-7a33b871551b4dffe69da8ae79cf1227" />
+        </item>
+        <item>
+            <title>第15話 菓子争奪戦</title>
+            <link>https://kuragebunch.com/episode/3270375685313551507</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 26 Aug 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313551507-75c3a3cdd7f63bf39a5d7abadc7297ce" />
         </item>
         <item>
             <title>番外編 なつやすみ</title>
@@ -5431,11 +5795,88 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/316112896806005820-7b82c994bc24e359d5186228645feb19" />
         </item>
         <item>
+            <title>第14話 弟子の思い</title>
+            <link>https://kuragebunch.com/episode/3270375685313551498</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 05 Aug 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313551498-bca24131261f94e378031c03dda0277b" />
+        </item>
+        <item>
+            <title>第13話 師匠が２人⁉</title>
+            <link>https://kuragebunch.com/episode/3270375685313551484</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 22 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313551484-a93fcb392394bafa794df7418a972803" />
+        </item>
+        <item>
+            <title>第12話 上達の秘訣</title>
+            <link>https://kuragebunch.com/episode/3270375685313551478</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 08 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270375685313551478-7fcf16e74753ae94d574df0a7aa8df51" />
+        </item>
+        <item>
+            <title>第11話 一人で買物</title>
+            <link>https://kuragebunch.com/episode/3270296674413650587</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 01 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674413650587-df48eb882fd434764ded7884bb51bcba" />
+        </item>
+        <item>
+            <title>第10話 梟を飼おう</title>
+            <link>https://kuragebunch.com/episode/3270296674413650582</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 01 Jul 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674413650582-bb6ed2cb16294ad329f95b9c1dfaf587" />
+        </item>
+        <item>
             <title>イラスト</title>
             <link>https://kuragebunch.com/episode/3270296674429791423</link>
             <description>女騎士とケモミミの子</description>
             <pubDate>Fri, 24 Jun 2022 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674429791423-60d3f48f41b361e145d919c80c750c78" />
+        </item>
+        <item>
+            <title>第9話 修行の成果</title>
+            <link>https://kuragebunch.com/episode/3270296674413650575</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674413650575-478a51169c265895756733646524be54" />
+        </item>
+        <item>
+            <title>第8話 滑らない話</title>
+            <link>https://kuragebunch.com/episode/3270296674413650570</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674413650570-3f6c3186357b9995e8b2b14a23899270" />
+        </item>
+        <item>
+            <title>第7話 出会いの日</title>
+            <link>https://kuragebunch.com/episode/3270296674399721347</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674399721347-c092cbc9c6403db219374103b918858e" />
+        </item>
+        <item>
+            <title>第6話 ひざまくら</title>
+            <link>https://kuragebunch.com/episode/3270296674399721343</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 10 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674399721343-925d3a5bcf0d464e8ab4f6f83c5369c6" />
+        </item>
+        <item>
+            <title>第5話 帰りを待つ</title>
+            <link>https://kuragebunch.com/episode/3270296674399721336</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 10 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674399721336-16ac086ec53700e420cb19867a433412" />
+        </item>
+        <item>
+            <title>第4話 バッタの書</title>
+            <link>https://kuragebunch.com/episode/3270296674386258876</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Fri, 10 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674386258876-fd2420fa946050a275e76d63a76145a3" />
         </item>
         <item>
             <title>第3話 ヨガの極意</title>
@@ -5583,13 +6024,6 @@
             <description>胸がドキワ荘</description>
             <pubDate>Fri, 12 Jan 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137675-992a73d9f2e2676df157dde792714612" />
-        </item>
-        <item>
-            <title>第１２話　眠れぬ隣の美女</title>
-            <link>https://comic-days.com/episode/4855956445051137663</link>
-            <description>胸がドキワ荘</description>
-            <pubDate>Fri, 08 Dec 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445051137663-5001d642ff3e0f231aefeb3662432187" />
         </item>
         <item>
             <title>休載イラスト</title>
@@ -5758,6 +6192,13 @@
             <description>涼風会長の憂なる日々</description>
             <pubDate>Tue, 16 May 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/4856001361221941408-1e9dca6c20830a99480342888613709c" />
+        </item>
+        <item>
+            <title>[37発目 ③] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/2550668106020531046</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 08 Mar 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550668106020531046-89b54581522e4bfe9e029e61f763ab1f" />
         </item>
         <item>
             <title>[37発目 ②] こういうのがいい</title>
@@ -7825,6 +8266,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361214474046-19171a9dda1b35f65725da45336af689" />
         </item>
         <item>
+            <title>[第20話] 聖母の断罪</title>
+            <link>https://tonarinoyj.jp/episode/2550689798288584192</link>
+            <description>聖母の断罪</description>
+            <pubDate>Fri, 08 Mar 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798288584192-fe98a3dfb601ae5c72df78f9809e710e" />
+        </item>
+        <item>
             <title>[第19話] 聖母の断罪</title>
             <link>https://tonarinoyj.jp/episode/2550668106005607891</link>
             <description>聖母の断罪</description>
@@ -7837,13 +8285,6 @@
             <description>聖母の断罪</description>
             <pubDate>Fri, 09 Feb 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176584930252-ceca29112df193c3455cce6c7c2db5cc" />
-        </item>
-        <item>
-            <title>[第18話] 聖母の断罪</title>
-            <link>https://tonarinoyj.jp/episode/10044607041233573998</link>
-            <description>聖母の断罪</description>
-            <pubDate>Fri, 26 Jan 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/10044607041233573998-a185849eab03d031c0d1e8c59c3149d6" />
         </item>
         <item>
             <title>[年賀イラスト] 聖母の断罪</title>

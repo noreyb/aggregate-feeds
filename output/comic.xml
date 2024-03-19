@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 18 Mar 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>パティスリー・ヘクセン</title>
             <link>https://tonarinoyj.jp/episode/2550689798287081413</link>
@@ -5032,11 +5032,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755321587916-7e3cd0b96b1cdb79e45e1fa0a98fa858" />
         </item>
         <item>
-            <title>第17話 つみきさんと勉強。</title>
-            <link>https://www.sunday-webry.com/episode/2550689798305573258</link>
+            <title>第18話 つみきさんとブラシ。</title>
+            <link>https://www.sunday-webry.com/episode/2550689798326849477</link>
             <description>尾守つみきと奇日常。</description>
-            <pubDate>Tue, 12 Mar 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798305573258-78cd1cda483fe1dad48afc4340ba4f38" />
+            <pubDate>Tue, 19 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798326849477-5e166ac3a99f96b24733896d558ed3f5" />
         </item>
         <item>
             <title>第3話 つみきさんとお昼。</title>
@@ -5415,6 +5415,13 @@
             <description>カツオノエボシが大量発生していた。/2023年9月期ブロンズルーキー賞</description>
             <pubDate>Thu, 19 Oct 2023 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/14079602755345805658-eb4f17c6a0424c507dc2d05118f55fd2" />
+        </item>
+        <item>
+            <title>[61話]エクソシストを堕とせない</title>
+            <link>https://shonenjumpplus.com/episode/9324103658549643059</link>
+            <description>エクソシストを堕とせない</description>
+            <pubDate>Tue, 19 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103658549643059-b29167ed7603218ff0db44ba27298ee8" />
         </item>
         <item>
             <title>[60話]エクソシストを堕とせない</title>
@@ -5830,6 +5837,27 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/4856001361004456935-71d1734561b800b49c5b31281f6c6fda" />
         </item>
         <item>
+            <title>Season7／10本目 花束みたいな恋をした(後編)</title>
+            <link>https://comic-ogyaaa.com/episode/3269754496829572536</link>
+            <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
+            <pubDate>Fri, 20 May 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/3269754496829572536-930b694c23a21ee91e27edde48d349f7" />
+        </item>
+        <item>
+            <title>Season7／9本目 花束みたいな恋をした(中編)</title>
+            <link>https://comic-ogyaaa.com/episode/3269754496829572529</link>
+            <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
+            <pubDate>Fri, 20 May 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/3269754496829572529-587c6081127fa73fb038e4ace793ad6b" />
+        </item>
+        <item>
+            <title>Season7／8本目 花束みたいな恋をした(前編)</title>
+            <link>https://comic-ogyaaa.com/episode/3269754496829572524</link>
+            <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
+            <pubDate>Fri, 20 May 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/3269754496829572524-5fc5d0c1e1aefa702b0b4563e9e28288" />
+        </item>
+        <item>
             <title>Season6／10本目 STAND BY ME ドラえもん</title>
             <link>https://comic-ogyaaa.com/episode/3269754496829572483</link>
             <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
@@ -5842,6 +5870,13 @@
             <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
             <pubDate>Fri, 20 May 2022 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/3269754496829572262-b9f60118859c682da0572531de711273" />
+        </item>
+        <item>
+            <title>Season1／4本目 ゲゲゲの鬼太郎 千年呪い歌</title>
+            <link>https://comic-ogyaaa.com/episode/3269754496829572106</link>
+            <description>邦画プレゼン女子高生　邦キチ！ 映子さん</description>
+            <pubDate>Fri, 29 Dec 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-ogyaaa.com/public/episode-thumbnail/3269754496829572106-d4c9b3cffc141dcd016eef6c1c347eb9" />
         </item>
         <item>
             <title>Season1／1本目 魔女の宅急便</title>

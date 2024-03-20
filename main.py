@@ -95,16 +95,16 @@ def fediverse():
 
 
 @cli.command()
-def nitter():
-    container = NitterContainer()
+def twitter():
+    container = TwtterContainer()
     container.config.token.from_env("RAINDROP_TOKEN")
     container.config.collection_id.from_env("RAINDROP_NITTER")
     feed_aggregate = _get_wired_app(
         container,
-        "./output/nitter.xml",
-        "agg-nitter",
+        "./output/twitter.xml",
+        "agg-twitter",
         "https://noreyb.github.io/agg-feed",
-        "nitter",
+        "twitter",
     )
     container.config.random_page.from_value(True)
     feed_aggregate.run()

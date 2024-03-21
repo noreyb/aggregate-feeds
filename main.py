@@ -14,7 +14,7 @@ from container import (
 from usecase.interface.aggregate_feed import IAggregateFeed
 
 # TODO: remove later
-load_dotenv()
+# load_dotenv()
 
 
 @click.group()

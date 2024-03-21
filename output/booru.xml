@@ -4,7 +4,7 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Thu, 21 Mar 2024 01:45:47 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 06:52:24 -0000</lastBuildDate>
         <item>
             <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9431790&amp;tags=%2B%2B_(9oafxjjhuktkdef)</link>
@@ -12553,6 +12553,12 @@
         </item>
         <item>
             <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9790373&amp;tags=ricochet-gou</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/d7/d2/thumbnail_d7d247753064fcd5c72a228391770086.jpg" />
+        </item>
+        <item>
+            <title />
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9708515&amp;tags=ricochet-gou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/21/28/thumbnail_2128f0d861860939a9872015e0ab4c39.jpg" />
@@ -12604,12 +12610,6 @@
             <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9479504&amp;tags=ricochet-gou</link>
             <description />
             <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/03/39/thumbnail_03399cbe01b8413740dbe14f46257988.jpg" />
-        </item>
-        <item>
-            <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=9447427&amp;tags=ricochet-gou</link>
-            <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/3b/5c/thumbnail_3b5c1417a9a3992d86f72f5e63d42b64.jpg" />
         </item>
         <item>
             <title />

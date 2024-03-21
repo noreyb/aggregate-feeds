@@ -1,30 +1,20 @@
-import sys
+import os
 
 import click
 from dotenv import load_dotenv
+from injector import Injector
 
 from container import (
-    BooruContainer,
-    ComicContainer,
-    FediverseContainer,
-    KemonoContainer,
-    NitterContainer,
+    BooruFactory,
+    ComicFactory,
+    FediverseFactory,
+    KemonoFactory,
+    TwitterFactory,
 )
+from usecase.interface.aggregate_feed import IAggregateFeed
 
-
-def _get_wired_app(
-    container, output_path: str, title: str, link: str, description: str
-):
-    container.config.from_dict(
-        {
-            "output_path": output_path,
-            "title": title,
-            "link": link,
-            "description": description,
-        }
-    )
-    container.wire(modules=[sys.modules[__name__]])
-    return container.aggregate_feed()
+# TODO: remove later
+# load_dotenv()
 
 
 @click.group()
@@ -34,79 +24,82 @@ def cli():
 
 @cli.command()
 def booru():
-    container = BooruContainer()
-    container.config.base_url.from_env("BOORU_BASE_URL")
-    container.config.endpoint.from_env("BOORU_ENDPOINT")
-    feed_aggregate = _get_wired_app(
-        container,
-        "./output/booru.xml",
-        "agg-booru",
-        "https://noreyb.github.io/agg-feed",
-        "booru",
+    factory = BooruFactory(
+        base_url=os.getenv("BOORU_BASE_URL"),
+        endpoint=os.getenv("BOORU_ENDPOINT"),
+        output_path="./output/booru.xml",
+        title="agg-booru",
+        link="https://noreyb.github.io/agg-feed",
+        description="booru",
     )
+    injector = Injector(factory.configure)
+    feed_aggregate = injector.get(IAggregateFeed)
     feed_aggregate.run()
 
 
 @cli.command()
 def comic():
-    container = ComicContainer()
-    container.config.token.from_env("RAINDROP_TOKEN")
-    container.config.collection_id.from_env("RAINDROP_COMIC")
-    feed_aggregate = _get_wired_app(
-        container,
-        "./output/comic.xml",
-        "agg-comic",
-        "https://noreyb.github.io/agg-feed",
-        "comic",
+    factory = ComicFactory(
+        token=os.getenv("RAINDROP_TOKEN"),
+        collection_id=os.getenv("RAINDROP_COMIC"),
+        random_page=True,
+        output_path="./output/comic.xml",
+        title="agg-comic",
+        link="https://noreyb.github.io/agg-feed",
+        description="comic",
     )
-    container.config.random_page.from_value(False)
+    injector = Injector(factory.configure)
+    feed_aggregate = injector.get(IAggregateFeed)
     feed_aggregate.run()
 
 
 @cli.command()
 def kemono():
-    container = KemonoContainer()
-    container.config.base_url.from_env("KEMONO_BASE_URL")
-    container.config.endpoint.from_env("KEMONO_ENDPOINT")
-    feed_aggregate = _get_wired_app(
-        container,
-        "./output/kemono.xml",
-        "agg-kemono",
-        "https://noreyb.github.io/agg-feed",
-        "kemono",
+    factory = KemonoFactory(
+        base_url=os.getenv("KEMONO_BASE_URL"),
+        endpoint=os.getenv("KEMONO_ENDPOINT"),
+        output_path="./output/fediverse.xml",
+        title="agg-fediverse",
+        link="https://noreyb.github.io/agg-feed",
+        description="fediverse",
     )
+    injector = Injector(factory.configure)
+    feed_aggregate = injector.get(IAggregateFeed)
     feed_aggregate.run()
 
 
 @cli.command()
 def fediverse():
-    container = FediverseContainer()
-    container.config.token.from_env("RAINDROP_TOKEN")
-    container.config.collection_id.from_env("RAINDROP_FEDIVERSE")
-    feed_aggregate = _get_wired_app(
-        container,
-        "./output/fediverse.xml",
-        "agg-fediverse",
-        "https://noreyb.github.io/agg-feed",
-        "fediverse",
+    factory = FediverseFactory(
+        token=os.getenv("RAINDROP_TOKEN"),
+        collection_id=os.getenv("RAINDROP_FEDIVERSE"),
+        random_page=True,
+        output_path="./output/fediverse.xml",
+        title="agg-fediverse",
+        link="https://noreyb.github.io/agg-feed",
+        description="fediverse",
     )
-    container.config.random_page.from_value(True)
+    injector = Injector(factory.configure)
+    feed_aggregate = injector.get(IAggregateFeed)
     feed_aggregate.run()
 
 
 @cli.command()
-def nitter():
-    container = NitterContainer()
-    container.config.token.from_env("RAINDROP_TOKEN")
-    container.config.collection_id.from_env("RAINDROP_NITTER")
-    feed_aggregate = _get_wired_app(
-        container,
-        "./output/nitter.xml",
-        "agg-nitter",
-        "https://noreyb.github.io/agg-feed",
-        "nitter",
+def twitter():
+    factory = TwitterFactory(
+        token=os.getenv("RAINDROP_TOKEN"),
+        collection_id=os.getenv("RAINDROP_TWITTER"),
+        email=os.getenv("TWITTER_EMAIL"),
+        _id=os.getenv("TWITTER_ID"),
+        passwd=os.getenv("TWITTER_PASSWORD"),
+        random_page=True,
+        output_path="./output/twitter.xml",
+        title="agg-twitter",
+        link="https://noreyb.github.io/agg-feed",
+        description="twitter",
     )
-    container.config.random_page.from_value(True)
+    injector = Injector(factory.configure)
+    feed_aggregate = injector.get(IAggregateFeed)
     feed_aggregate.run()
 
 

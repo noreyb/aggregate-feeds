@@ -147,8 +147,8 @@ jobs:
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           git fetch origin main
           git merge origin/main
-          git add ./output/fediverse.xml
-          git commit -m "update fediverse feed"
+          git add ./output/twitter.xml
+          git commit -m "update twitter feed"
           git push origin main
 
 

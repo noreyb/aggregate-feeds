@@ -138,7 +138,7 @@ jobs:
           python-version: "3.11"
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
-      - run: playwright install
+      - run: poetry run playwright install
       - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_TWITTER=${{secrets.RAINDROP_TWITTER}} TWITTER_EMAIL=${{secrets.TWITTER_EMAIL}} TWITTER_ID=${{secrets.TWITTER_ID}} TWITTER_PASSWORD=${{secrets.TWITTER_PASSWORD}} poetry run python main.py twitter
       - name: Update feed
         continue-on-error: true

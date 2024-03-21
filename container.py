@@ -1,101 +1,191 @@
-from dependency_injector import containers, providers
+from injector import Module
 
 from repository.comic_raindropio import ComicRaindropIOHandler
 from repository.fediverse_raindropio import FediverseRaindropIOHandler
 from repository.githubio import GithubIOHandler
-from repository.interface.feed_urls import IFeedURLs
-from repository.nitter_raindropio import NitterRaindropIOHandler
+
+# from repository.interface.feed_urls import IFeedURLs
+from repository.twitter_raindropio import TwitterRaindropIOHandler
 from usecase.booru_aggregate import BooruAggregateFeed
 from usecase.comic_aggregate import ComicAggregateFeed
 from usecase.fediverse_aggregate import FediverseAggregateFeed
 from usecase.interface.aggregate_feed import IAggregateFeed
 from usecase.kemono_aggregate import KemonoAggregateFeed
-from usecase.nitter_aggregate import NitterAggregateFeed
+from usecase.twitter_aggregate import TwitterAggregateFeed
 
 
-class BooruContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-    feed_url_handler: IFeedURLs = providers.Factory(
-        GithubIOHandler,
-        base_url=config.base_url,
-        endpoint=config.endpoint,
-    )
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        BooruAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.output_path,
-        title=config.title,
-        link=config.link,
-        description=config.description,
-    )
+class BooruFactory(Module):
+    def __init__(
+        self,
+        base_url: str,
+        endpoint: str,
+        output_path: str,
+        title: str,
+        link: str,
+        description: str,
+    ):
+        self.base_url = base_url
+        self.endpoint = endpoint
+        self.output_path = output_path
+        self.title = title
+        self.link = link
+        self.description = description
+
+    def configure(self, binder):
+        binder.bind(
+            IAggregateFeed,
+            to=BooruAggregateFeed(
+                GithubIOHandler(self.base_url, self.endpoint),
+                self.output_path,
+                self.title,
+                self.link,
+                self.description,
+            ),
+        )
 
 
-class ComicContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-    feed_url_handler: IFeedURLs = providers.Factory(
-        ComicRaindropIOHandler,
-        token=config.token,
-        collection_id=config.collection_id,
-        random_page=config.random_page,
-    )
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        ComicAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.output_path,
-        title=config.title,
-        link=config.link,
-        description=config.description,
-    )
+class ComicFactory(Module):
+    def __init__(
+        self,
+        token: str,
+        collection_id: str,
+        random_page: bool,
+        output_path: str,
+        title: str,
+        link: str,
+        description: str,
+    ):
+        self.token = token
+        self.collection_id = collection_id
+        self.random_page = random_page
+        self.output_path = output_path
+        self.title = title
+        self.link = link
+        self.description = description
+
+    def configure(self, binder):
+        binder.bind(
+            IAggregateFeed,
+            to=ComicAggregateFeed(
+                ComicRaindropIOHandler(
+                    token=self.token,
+                    collection_id=self.collection_id,
+                    random_page=self.random_page,
+                ),
+                self.output_path,
+                self.title,
+                self.link,
+                self.description,
+            ),
+        )
 
 
-class KemonoContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-    feed_url_handler: IFeedURLs = providers.Factory(
-        GithubIOHandler,
-        base_url=config.base_url,
-        endpoint=config.endpoint,
-    )
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        KemonoAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.output_path,
-        title=config.title,
-        link=config.link,
-        description=config.description,
-    )
+class KemonoFactory(Module):
+    def __init__(
+        self,
+        base_url: str,
+        endpoint: str,
+        output_path: str,
+        title: str,
+        link: str,
+        description: str,
+    ):
+        self.base_url = base_url
+        self.endpoint = endpoint
+        self.output_path = output_path
+        self.title = title
+        self.link = link
+        self.description = description
+
+    def configure(self, binder):
+        binder.bind(
+            IAggregateFeed,
+            to=KemonoAggregateFeed(
+                GithubIOHandler(self.base_url, self.endpoint),
+                self.output_path,
+                self.title,
+                self.link,
+                self.description,
+            ),
+        )
 
 
-class FediverseContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-    feed_url_handler: IFeedURLs = providers.Factory(
-        FediverseRaindropIOHandler,
-        token=config.token,
-        collection_id=config.collection_id,
-        random_page=config.random_page,
-    )
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        FediverseAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.output_path,
-        title=config.title,
-        link=config.link,
-        description=config.description,
-    )
+class FediverseFactory(Module):
+    def __init__(
+        self,
+        token: str,
+        collection_id: str,
+        random_page: bool,
+        output_path: str,
+        title: str,
+        link: str,
+        description: str,
+    ):
+        self.token = token
+        self.collection_id = collection_id
+        self.random_page = random_page
+        self.output_path = output_path
+        self.title = title
+        self.link = link
+        self.description = description
+
+    def configure(self, binder):
+        binder.bind(
+            IAggregateFeed,
+            to=FediverseAggregateFeed(
+                FediverseRaindropIOHandler(
+                    token=self.token,
+                    collection_id=self.collection_id,
+                    random_page=self.random_page,
+                ),
+                self.output_path,
+                self.title,
+                self.link,
+                self.description,
+            ),
+        )
 
 
-class NitterContainer(containers.DeclarativeContainer):
-    config = providers.Configuration()
-    feed_url_handler: IFeedURLs = providers.Factory(
-        NitterRaindropIOHandler,
-        token=config.token,
-        collection_id=config.collection_id,
-        random_page=config.random_page,
-    )
-    aggregate_feed: IAggregateFeed = providers.Factory(
-        NitterAggregateFeed,
-        feed_url_handler=feed_url_handler,
-        output_path=config.output_path,
-        title=config.title,
-        link=config.link,
-        description=config.description,
-    )
+class TwitterFactory(Module):
+    def __init__(
+        self,
+        token: str,
+        collection_id: str,
+        email: str,
+        _id: str,
+        passwd: str,
+        random_page: bool,
+        output_path: str,
+        title: str,
+        link: str,
+        description: str,
+    ):
+        self.token = token
+        self.collection_id = collection_id
+        self.random_page = random_page
+        self.output_path = output_path
+        self.title = title
+        self.link = link
+        self.description = description
+        self.email = email
+        self._id = _id
+        self.passwd = passwd
+
+    def configure(self, binder):
+        binder.bind(
+            IAggregateFeed,
+            to=TwitterAggregateFeed(
+                TwitterRaindropIOHandler(
+                    token=self.token,
+                    collection_id=self.collection_id,
+                    random_page=self.random_page,
+                ),
+                self.email,
+                self._id,
+                self.passwd,
+                self.output_path,
+                self.title,
+                self.link,
+                self.description,
+            ),
+        )

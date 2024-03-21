@@ -1,7 +1,7 @@
 from repository.raindropio import RaindropIOHandler
 
 
-class NitterRaindropIOHandler(RaindropIOHandler):
+class TwitterRaindropIOHandler(RaindropIOHandler):
     def __init__(self, token: str, collection_id: str, random_page: bool) -> None:
         self.token = token
         self.collection_id = collection_id

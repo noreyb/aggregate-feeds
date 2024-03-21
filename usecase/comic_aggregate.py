@@ -53,25 +53,49 @@ class ComicAggregateFeed(IAggregateFeed):
 
     def __add_feed_item(self, feeds, entries):
         for entry in entries:
-            if len(entry["links"]) < 2:  # Only catch media note
+            if len(entry["links"]) == 1: # comici
+                feeds = self.__add_feed_item_comici(entry, feeds)
+
+            elif len(entry["links"]) == 2: # giga
+                feeds = self.__add_feed_item_giga(entry, feeds)
+
+            else:
                 continue
+        return feeds
 
-            for elem in entry["links"]:
-                if "enclosure" == elem["rel"]:
-                    enclosure = feedgenerator.Enclosure(
-                        url=elem["href"],
-                        length=elem["length"],
-                        mime_type=elem["type"],
-                    )
+    def __add_feed_item_giga(self, entry, feeds):
+        for elem in entry["links"]:
+            if "enclosure" == elem["rel"]:
+                enclosure = feedgenerator.Enclosure(
+                    url=elem["href"],
+                    length=elem["length"],
+                    mime_type=elem["type"],
+                )
 
-            summary = entry.get("summary", "")
-            feeds.add_item(
-                title=entry["title"],
-                link=entry["link"],
-                description=summary,
-                enclosure=enclosure,
-                pubdate=parse(entry["published"]),
-            )
+        summary = entry.get("summary", "")
+        feeds.add_item(
+            title=entry["title"],
+            link=entry["link"],
+            description=summary,
+            enclosure=enclosure,
+            pubdate=parse(entry["published"]),
+        )
+        return feeds
+
+    def __add_feed_item_comici(self, entry, feeds):
+        enclosure = feedgenerator.Enclosure(
+            url=entry["href"],
+            length='0',
+            mime_type='image/jpg',
+        )
+        summary = entry.get("summary", "")
+        feeds.add_item(
+            title=entry["title"],
+            link=entry["link"],
+            description=summary,
+            enclosure=enclosure,
+            pubdate=parse(entry["published"]),
+        )
         return feeds
 
     def output(self, feeds):

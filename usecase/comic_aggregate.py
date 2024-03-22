@@ -53,10 +53,10 @@ class ComicAggregateFeed(IAggregateFeed):
 
     def __add_feed_item(self, feeds, entries):
         for entry in entries:
-            if len(entry["links"]) == 1: # comici
+            if len(entry["links"]) == 1:  # comici
                 feeds = self.__add_feed_item_comici(entry, feeds)
 
-            elif len(entry["links"]) == 2: # giga
+            elif len(entry["links"]) == 2:  # giga
                 feeds = self.__add_feed_item_giga(entry, feeds)
 
             else:
@@ -85,8 +85,8 @@ class ComicAggregateFeed(IAggregateFeed):
     def __add_feed_item_comici(self, entry, feeds):
         enclosure = feedgenerator.Enclosure(
             url=entry["href"],
-            length='0',
-            mime_type='image/jpg',
+            length="0",
+            mime_type="image/jpg",
         )
         summary = entry.get("summary", "")
         feeds.add_item(

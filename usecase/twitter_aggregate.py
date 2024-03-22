@@ -123,23 +123,23 @@ class TwitterAggregateFeed(IAggregateFeed):
                 image_urls.extend(img_urls)
                 print(image_urls)
 
-                # 原寸画像のurlへ変換
-                image_urls = [f"{s}&name=orig" for s in image_urls]
-
                 # feed追加
                 for image_url in image_urls:
                     # titleの生成
                     pattern = r"/media/(\w+)\?"
                     match = re.search(pattern, image_url)
 
+                    title = None
                     if match:
                         extracted_string = match.group(1)
+                        title = f"{user}-{extracted_string}"
                         print(extracted_string)
                     else:
+                        title = f"{user}-{str(uuid.uuid4())[:8]}"
                         print("No match found")
 
-                    img_link = image_url
-                    title = f"{user}-{str(uuid.uuid4())[:8]}"
+                    # 原寸画像のurlへ変換
+                    img_link = image_url + "&name=orig"
                     description = user
 
                     # add feed

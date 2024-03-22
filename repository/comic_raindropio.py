@@ -111,11 +111,11 @@ class ComicRaindropIOHandler(RaindropIOHandler):
 
         soup = BeautifulSoup(resp.text, "html.parser")
         feed_urls = soup.find_all(
-            'div',
+            "div",
             class_="prof-link-item mode-right",
         )
 
         feed_url = None
         for e in feed_urls:
-            feed_url = e.find_all('a')[2]['href']
+            feed_url = e.find_all("a")[2]["href"]
         return feed_url

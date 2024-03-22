@@ -123,6 +123,9 @@ class TwitterAggregateFeed(IAggregateFeed):
                 image_urls.extend(img_urls)
                 print(image_urls)
 
+                # 原寸画像のurlへ変換
+                image_urls = [f"{s}&name=orig" for s in image_urls]
+
                 # feed追加
                 for image_url in image_urls:
                     # titleの生成

@@ -139,7 +139,7 @@ jobs:
       - uses: Gr1N/setup-poetry@v8
       - run: poetry install --no-root
       - run: poetry run playwright install --with-deps
-      - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_TWITTER=${{secrets.RAINDROP_TWITTER}} TWITTER_EMAIL=${{secrets.TWITTER_EMAIL}} TWITTER_ID=${{secrets.TWITTER_ID}} TWITTER_PASSWORD=${{secrets.TWITTER_PASSWORD}} poetry run python main.py twitter
+      - run: DBX_ACCESS_TOKEN=${{ secrets.DBX_ACCESS_TOKEN }} GMAIL_CREDS_PATH=${{ secrets.GMAIL_CREDS_PATH }} GMAIL_TOKEN_PATH=${{ secrets.GMAIL_TOKEN_PATH }} RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_TWITTER=${{secrets.RAINDROP_TWITTER}} TWITTER_EMAIL=${{secrets.TWITTER_EMAIL}} TWITTER_ID=${{secrets.TWITTER_ID}} TWITTER_PASSWORD=${{secrets.TWITTER_PASSWORD}} poetry run python main.py twitter
       - name: Update feed
         continue-on-error: true
         run: |

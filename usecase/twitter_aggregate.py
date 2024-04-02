@@ -174,6 +174,7 @@ class TwitterAggregateFeed(IAggregateFeed):
                 user_id_input = page.get_by_test_id("ocfEnterTextTextInput")
                 user_id_input.wait_for(timeout=5000)  # 5秒間待つ
                 if user_id_input.is_visible():
+                    time.sleep(30)
                     otp = self.get_otp()
                     # user_id_input.fill(self._id)
                     user_id_input.fill(otp)

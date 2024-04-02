@@ -16,6 +16,9 @@ python-dotenv = "^1.0.0"
 injector = "^0.21.0"
 playwright = "^1.42.0"
 dropbox = "^11.36.2"
+google-api-python-client = "^2.124.0"
+google-auth-httplib2 = "^0.2.0"
+google-auth-oauthlib = "^1.2.0"
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"

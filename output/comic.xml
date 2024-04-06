@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 05 Apr 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 00:00:00 +0900</lastBuildDate>
         <item>
             <title>第27話『蘇れ！ボクと彼女の思い出』</title>
             <link>https://comic-medu.com/episodes/7bd74ef124f8b/?utm_source=rss&amp;utm_medium=referral</link>
@@ -860,6 +860,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7102/1676952145506_chi4_102.jpg" />
         </item>
         <item>
+            <title>第112話</title>
+            <link>https://youngchampion.jp/episodes/66a40da69d6f5/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 07 Apr 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202403291940410056B3FBFCB3C865DC5635F7BD3FF64F378-sm.png" />
+        </item>
+        <item>
             <title>第111話</title>
             <link>https://youngchampion.jp/episodes/c01c7c6e02bcf/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1026,13 +1033,6 @@
             <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/fc313a5a28aba"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Thu, 16 Feb 2023 02:24:56 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7107/1678508122091_rakujitu_88.jpg" />
-        </item>
-        <item>
-            <title>第87話</title>
-            <link>https://youngchampion.jp/episodes/f8875b465f1b5/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/f8875b465f1b5"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Thu, 16 Feb 2023 02:24:52 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7107/1678508121149_rakujitu_87.jpg" />
         </item>
         <item>
             <title>第52話②</title>
@@ -1385,6 +1385,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7155/1678839913910_sarumono_43.jpg" />
         </item>
         <item>
+            <title>第38話②</title>
+            <link>https://youngchampion.jp/episodes/6c2cc6dc893f1/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 07 Apr 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202403251256170649729B3D406B16BCA26F9847C24127E2C-sm.png" />
+        </item>
+        <item>
             <title>第38話①</title>
             <link>https://youngchampion.jp/episodes/ff9caac57e5a2/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -1551,13 +1558,6 @@
             <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/35c3492413acc"&gt;続きをみる&lt;/a&gt;</description>
             <pubDate>Tue, 28 Mar 2023 10:00:02 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7212/1679012261089_wakagemakuri_25.jpg" />
-        </item>
-        <item>
-            <title>第24話</title>
-            <link>https://youngchampion.jp/episodes/b9996420d478f/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/b9996420d478f"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Tue, 28 Mar 2023 10:00:01 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7212/1679100854684_wakagemakuri_24.jpg" />
         </item>
         <item>
             <title>第61話</title>

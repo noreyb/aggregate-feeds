@@ -187,7 +187,8 @@ class TwitterAggregateFeed(IAggregateFeed):
             raw_urls = self.feed_url_handler.get()
             # Twitter linkを取得
 
-            raw_urls = random.sample(raw_urls, min(4, len(raw_urls)))  # ランダムに4人選ぶ
+            N = 10
+            raw_urls = random.sample(raw_urls, min(N, len(raw_urls)))  # ランダムにN人選ぶ
             for link in raw_urls:
                 # userを取り出し
                 user = urlparse(link).path.split("/")[1]

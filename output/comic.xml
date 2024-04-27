@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0900</lastBuildDate>
         <item>
             <title>渚、それが君の愛ならば</title>
             <link>https://shonenjumpplus.com/episode/9324074615362173477</link>
@@ -32,6 +32,13 @@
             <description>黒髪の天使さん</description>
             <pubDate>Sun, 25 Feb 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324074615355952206-739594691195f665955abf7d7ecb288f" />
+        </item>
+        <item>
+            <title>[11話]ナヴィガトリア</title>
+            <link>https://shonenjumpplus.com/episode/17106371853177785492</link>
+            <description>ナヴィガトリア</description>
+            <pubDate>Sat, 27 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853177785492-30c214f2b2d43d7861832bd38ae2de77" />
         </item>
         <item>
             <title>[10話]ナヴィガトリア</title>
@@ -2218,6 +2225,13 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230320120808586BDEA092464B66953261E87C725223789-sm.png" />
         </item>
         <item>
+            <title>第68話</title>
+            <link>https://youngchampion.jp/episodes/c2744784b1f2c/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 28 Apr 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2024041911524571564454CF49C40E2C0596CC4662DFAF6BD-sm.png" />
+        </item>
+        <item>
             <title>第67話</title>
             <link>https://youngchampion.jp/episodes/4566e243da581/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -2386,11 +2400,11 @@
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202306051836407389FCC0BE735F446117B0AD54463CA1019-sm.png" />
         </item>
         <item>
-            <title>第43話</title>
-            <link>https://youngchampion.jp/episodes/749e3220480df/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/749e3220480df"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Tue, 28 Mar 2023 00:07:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7155/1678839913910_sarumono_43.jpg" />
+            <title>第39話①</title>
+            <link>https://youngchampion.jp/episodes/4b5b177a9bdd1/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Sun, 28 Apr 2024 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240423120818440D673193E5E51AA0B097C2C5024A94261-sm.png" />
         </item>
         <item>
             <title>第38話②</title>
@@ -2559,13 +2573,6 @@
             <description />
             <pubDate>Sun, 02 Apr 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21481/default/20230324145135725D75C51394FDF21A232484D20E1033251-sm.png" />
-        </item>
-        <item>
-            <title>第25話</title>
-            <link>https://youngchampion.jp/episodes/35c3492413acc/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/35c3492413acc"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Tue, 28 Mar 2023 10:00:02 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7212/1679012261089_wakagemakuri_25.jpg" />
         </item>
         <item>
             <title>第62話</title>

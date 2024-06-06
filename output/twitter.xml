@@ -4,7 +4,7 @@
         <title>agg-twitter</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>twitter</description>
-        <lastBuildDate>Thu, 06 Jun 2024 12:56:44 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 18:42:46 -0000</lastBuildDate>
         <item>
             <title>kanine41-F_adTNBbEAAxn12</title>
             <link>https://pbs.twimg.com/media/F_adTNBbEAAxn12?format=jpg&amp;name=orig</link>
@@ -42,16 +42,40 @@
             <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/FmvlOPOakAA73Fw?format=jpg&amp;name=orig" />
         </item>
         <item>
-            <title>refeia-FOMICQTaQAEoq6t</title>
-            <link>https://pbs.twimg.com/media/FOMICQTaQAEoq6t?format=jpg&amp;name=orig</link>
-            <description>refeia</description>
-            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/FOMICQTaQAEoq6t?format=jpg&amp;name=orig" />
+            <title>HamsterFragment-FSoGTJ_UYAA7USB</title>
+            <link>https://pbs.twimg.com/media/FSoGTJ_UYAA7USB?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/FSoGTJ_UYAA7USB?format=png&amp;name=orig" />
         </item>
         <item>
-            <title>refeia-FOMICQTaQAEoq6t</title>
-            <link>https://pbs.twimg.com/media/FOMICQTaQAEoq6t?format=jpg&amp;name=orig</link>
-            <description>refeia</description>
-            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/FOMICQTaQAEoq6t?format=jpg&amp;name=orig" />
+            <title>HamsterFragment-FSoGTJ_UYAA7USB</title>
+            <link>https://pbs.twimg.com/media/FSoGTJ_UYAA7USB?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/FSoGTJ_UYAA7USB?format=png&amp;name=orig" />
+        </item>
+        <item>
+            <title>HamsterFragment-F9s79ztbEAEKGMn</title>
+            <link>https://pbs.twimg.com/media/F9s79ztbEAEKGMn?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/F9s79ztbEAEKGMn?format=png&amp;name=orig" />
+        </item>
+        <item>
+            <title>HamsterFragment-F9s79ztbEAEKGMn</title>
+            <link>https://pbs.twimg.com/media/F9s79ztbEAEKGMn?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/F9s79ztbEAEKGMn?format=png&amp;name=orig" />
+        </item>
+        <item>
+            <title>HamsterFragment-GAhFdFJbAAATRRW</title>
+            <link>https://pbs.twimg.com/media/GAhFdFJbAAATRRW?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/GAhFdFJbAAATRRW?format=png&amp;name=orig" />
+        </item>
+        <item>
+            <title>HamsterFragment-GAhFdFJbAAATRRW</title>
+            <link>https://pbs.twimg.com/media/GAhFdFJbAAATRRW?format=png&amp;name=orig</link>
+            <description>HamsterFragment</description>
+            <enclosure length="0" type="image/jpg" url="https://pbs.twimg.com/media/GAhFdFJbAAATRRW?format=png&amp;name=orig" />
         </item>
     </channel>
 </rss>

@@ -58,10 +58,10 @@ def kemono():
     factory = KemonoFactory(
         base_url=os.getenv("KEMONO_BASE_URL"),
         endpoint=os.getenv("KEMONO_ENDPOINT"),
-        output_path="./output/fediverse.xml",
-        title="agg-fediverse",
+        output_path="./output/kemono.xml",
+        title="agg-kemono",
         link="https://noreyb.github.io/agg-feed",
-        description="fediverse",
+        description="kemono",
     )
     injector = Injector(factory.configure)
     feed_aggregate = injector.get(IAggregateFeed)

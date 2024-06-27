@@ -9,5 +9,5 @@ class TwitterRaindropIOHandler(RaindropIOHandler):
 
     def get(self) -> list:
         raw_urls = self._get_site_urls()
-        raw_urls = [e for e in raw_urls if "twitter.com" in e]
+        raw_urls = [e for e in raw_urls if "twitter.com" or "x.com" in e]
         return raw_urls  # return raw urls, not feed urls

@@ -155,7 +155,7 @@ class TwitterAggregateFeed(IAggregateFeed):
             browser = p.chromium.launch(headless=True)
             context = browser.new_context()
             page = context.new_page()
-            page.goto("https://twitter.com/i/flow/login")
+            page.goto("https://x.com/i/flow/login")
 
             # User
             email_input = page.get_by_label("Phone")
@@ -194,7 +194,7 @@ class TwitterAggregateFeed(IAggregateFeed):
                 user = urlparse(link).path.split("/")[1]
 
                 try:
-                    page.goto(f"https://twitter.com/{user}/media/")
+                    page.goto(f"https://x.com/{user}/media/")
                 except PlaywrightError as e:
                     print(f"Error: {e}")
                     continue

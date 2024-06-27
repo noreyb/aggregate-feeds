@@ -34,7 +34,7 @@ class FediverseAggregateFeed(IAggregateFeed):
         )
 
         feed_urls = self.feed_url_handler.get()
-        feed_urls = random.sample(feed_urls, min(5, len(feed_urls))) # ランダムに5人選ぶ
+        feed_urls = random.sample(feed_urls, min(10, len(feed_urls))) # ランダムに10人選ぶ
         for feed_url in feed_urls:
             rss_feed = self.__get_rss_contents(feed_url)
             if rss_feed is None:

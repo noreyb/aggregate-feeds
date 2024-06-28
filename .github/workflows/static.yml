@@ -49,10 +49,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
+      - uses: Gr1N/setup-poetry@v9
       - run: poetry install --no-root
       - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_COMIC=${{secrets.RAINDROP_COMIC}} poetry run python main.py comic
       - name: Update feed
@@ -69,11 +69,11 @@ jobs:
   update_fdv:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
+      - uses: Gr1N/setup-poetry@v9
       - run: poetry install --no-root
       - run: RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_FEDIVERSE=${{secrets.RAINDROP_FEDIVERSE}} poetry run python main.py fediverse
       - name: Update feed
@@ -111,8 +111,8 @@ jobs:
   update_kmn:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - uses: Gr1N/setup-poetry@v8
@@ -132,11 +132,11 @@ jobs:
   update_twt:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
+      - uses: Gr1N/setup-poetry@v9
       - run: poetry install --no-root
       - run: poetry run playwright install --with-deps
       - run: DBX_ACCESS_TOKEN=${{ secrets.DBX_ACCESS_TOKEN }} GMAIL_CREDS_PATH=${{ secrets.GMAIL_CREDS_PATH }} GMAIL_TOKEN_PATH=${{ secrets.GMAIL_TOKEN_PATH }} RAINDROP_TOKEN=${{secrets.RAINDROP_TOKEN}} RAINDROP_TWITTER=${{secrets.RAINDROP_TWITTER}} TWITTER_EMAIL=${{secrets.TWITTER_EMAIL}} TWITTER_ID=${{secrets.TWITTER_ID}} TWITTER_PASSWORD=${{secrets.TWITTER_PASSWORD}} poetry run python main.py twitter
@@ -161,14 +161,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
           path: './output'
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4

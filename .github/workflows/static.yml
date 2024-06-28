@@ -115,7 +115,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - uses: Gr1N/setup-poetry@v8
+      - uses: Gr1N/setup-poetry@v9
       - run: poetry install --no-root
       - run: KEMONO_BASE_URL=${{secrets.KEMONO_BASE_URL}} KEMONO_ENDPOINT=${{secrets.KEMONO_ENDPOINT}} poetry run python main.py kemono
       - name: Update feed

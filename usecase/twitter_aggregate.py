@@ -1,22 +1,22 @@
+import base64
 import os
 import random
 import re
+import tempfile
 import time
 import uuid
 from urllib.parse import urlparse
 from xml.etree import ElementTree as ET
 
-import base64
-import tempfile
 import dropbox
+import feedgenerator
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-
-import feedgenerator
 from playwright.sync_api import Error as PlaywrightError
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 from repository.interface.feed_urls import IFeedURLs
@@ -24,12 +24,14 @@ from usecase.interface.aggregate_feed import IAggregateFeed
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 
+
 class Capture:
     def __init__(self) -> None:
         self.counter = 0
 
     def run(self, page):
-        time.sleep(5)
+        time.sleep(1)
+        print(self.counter)
         page.screenshot(path=f"./img/{self.counter}.png")
         self.counter += 1
 
@@ -54,6 +56,7 @@ class TwitterAggregateFeed(IAggregateFeed):
         self.title = title
         self.link = link
         self.description = description
+        self.N = 10  # number of user fetched
 
     @staticmethod
     def make_creds(creds_file, token_file):
@@ -65,13 +68,87 @@ class TwitterAggregateFeed(IAggregateFeed):
             if creds and creds.expired and creds.refresh_token:
                 creds.refresh(Request())
             else:
-                flow = InstalledAppFlow.from_client_secrets_file(creds_file.name, SCOPES)
+                flow = InstalledAppFlow.from_client_secrets_file(
+                    creds_file.name, SCOPES
+                )
                 creds = flow.run_local_server(port=0)
             # Save the credentials for the next run
             with open(token_file.name, "w") as token:
                 token.write(creds.to_json())
 
         return creds, creds_file, token_file
+
+    @staticmethod
+    def fill_form(page, field_type, value, timeout=5000) -> None:
+        try:
+            if field_type == "email":
+                input_field = page.get_by_label("email")
+            elif field_type == "username":
+                input_field = page.get_by_label("phone or username")
+            else:
+                raise ValueError(f"Unknown field type: {field_type}")
+
+            input_field.wait_for(timeout=timeout)
+            input_field.fill(value)
+
+            next_button = page.get_by_role("button", name="Next")
+            next_button.wait_for(timeout=timeout)
+
+            time.sleep(3)
+            page.screenshot(path=f"./img/{field_type}_b.png")
+
+            next_button.click()
+
+            return True
+        except PlaywrightTimeoutError:
+            print(f"Timeout waiting for {field_type} field")
+            return False
+
+    def input_username_or_email(self, page, max_attempts=3):
+        form_completed = False
+        attempts = 0
+        while not form_completed and attempts < max_attempts:
+            time.sleep(3)
+            try:
+                if page.get_by_label("email").is_visible():
+                    # page.screenshot(path=f"./img/email_a.png")
+                    self.fill_form(page, "email", self.email)
+                elif page.get_by_label("Phone or username").is_visible():
+                    # page.screenshot(path=f"./img/username_a.png")
+                    self.fill_form(page, "username", self._id)
+                else:
+                    form_completed = True
+                    print("Form completion detected")
+                    break
+                attempts += 1
+            except PlaywrightTimeoutError:
+                print(f"Timeout on attempt {attempts}")
+                break
+
+    def input_password(self, page):
+        time.sleep(3)
+        # page.screenshot(path=f"./img/pass.png")
+        password_input = page.get_by_label("Password", exact=True)
+        password_input.wait_for(timeout=5000)
+        password_input.fill(self.passwd)
+        # page.screenshot(path=f"./img/pass_post.png")
+        page.get_by_test_id("LoginForm_Login_Button").click()
+        pass
+
+    def input_otp(self, page):
+        try:
+            time.sleep(3)
+            # page.screenshot(path=f"./img/otp.png")
+            user_id_input = page.get_by_test_id("ocfEnterTextTextInput")
+            user_id_input.wait_for(timeout=5000)  # 5秒間待つ
+            if user_id_input.is_visible():
+                time.sleep(30)
+                otp = self.get_otp()
+                user_id_input.fill(otp)
+                page.get_by_test_id("ocfEnterTextNextButton").click()
+        except:
+            # 確認がない場合はpass
+            pass
 
     @staticmethod
     def get_otp() -> str:
@@ -114,7 +191,10 @@ class TwitterAggregateFeed(IAggregateFeed):
 
             for message in messages[:10]:
                 msg = (
-                    service.users().messages().get(userId="me", id=message["id"]).execute()
+                    service.users()
+                    .messages()
+                    .get(userId="me", id=message["id"])
+                    .execute()
                 )
 
                 payload = msg["payload"]
@@ -148,7 +228,6 @@ class TwitterAggregateFeed(IAggregateFeed):
             link=self.link,
             description=self.description,
         )
-        # capture = Capture()
 
         with sync_playwright() as p:
             # ログイン処理
@@ -157,38 +236,19 @@ class TwitterAggregateFeed(IAggregateFeed):
             page = context.new_page()
             page.goto("https://x.com/i/flow/login")
 
-            # User
-            email_input = page.get_by_label("Phone")
-            email_input.wait_for(timeout=5000)
-            email_input.fill(self.email)
-            page.get_by_role("button", name="Next").click()
+            # input parameter username or/and email
+            self.input_username_or_email(page)
 
-            # Pass
-            password_input = page.get_by_label("Password", exact=True)
-            password_input.wait_for(timeout=5000)
-            password_input.fill(self.passwd)
-            page.get_by_test_id("LoginForm_Login_Button").click()
+            # input password
+            self.input_password(page)
 
             # OTP
-            try:
-                user_id_input = page.get_by_test_id("ocfEnterTextTextInput")
-                user_id_input.wait_for(timeout=5000)  # 5秒間待つ
-                if user_id_input.is_visible():
-                    time.sleep(30)
-                    otp = self.get_otp()
-                    # user_id_input.fill(self._id)
-                    user_id_input.fill(otp)
-                    page.get_by_test_id("ocfEnterTextNextButton").click()
-            except:
-                # 確認がない場合はpass
-                pass
+            self.input_otp(page)
 
             # get twitter links
             raw_urls = self.feed_url_handler.get()
-            # Twitter linkを取得
 
-            N = 10
-            raw_urls = random.sample(raw_urls, min(N, len(raw_urls)))  # ランダムにN人選ぶ
+            raw_urls = random.sample(raw_urls, min(self.N, len(raw_urls)))  # ランダムにN人選ぶ
             for link in raw_urls:
                 # userを取り出し
                 user = urlparse(link).path.split("/")[1]
@@ -198,18 +258,19 @@ class TwitterAggregateFeed(IAggregateFeed):
                 except PlaywrightError as e:
                     print(f"Error: {e}")
                     continue
-                # capture.run(page)
+                time.sleep(3)
+                page.screenshot(path=f"./img/{link}.png")
 
                 # ページによってはこれをクリックする必要がある
-                try:
-                    confirm_sensitive = page.get_by_test_id("empty_state_button_text")
-                    confirm_sensitive.wait_for(timeout=5000)  # 5秒間待つ
-                    if confirm_sensitive.is_visible():
-                        page.get_by_test_id("empty_state_button_text").click()
-                    # capture.run(page)
-                except:
-                    # 確認がない場合はpass
-                    pass
+                # try:
+                #     confirm_sensitive = page.get_by_test_id("empty_state_button_text")
+                #     confirm_sensitive.wait_for(timeout=5000)  # 5秒間待つ
+                #     if confirm_sensitive.is_visible():
+                #         page.get_by_test_id("empty_state_button_text").click()
+                #     # capture.run(page)
+                # except:
+                #     # 確認がない場合はpass
+                #     pass
 
                 # htmlファイルを取得
                 html_content = page.content()

@@ -19,6 +19,7 @@ dropbox = "^11.36.2"
 google-api-python-client = "^2.124.0"
 google-auth-httplib2 = "^0.2.0"
 google-auth-oauthlib = "^1.2.0"
+setuptools = "^70.1.1"
 
 [tool.poetry.group.dev.dependencies]
 isort = "^5.12.0"

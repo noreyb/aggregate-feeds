@@ -1,29 +1,29 @@
+import base64
 import os
 import random
 import re
+import tempfile
 import time
 import uuid
 from urllib.parse import urlparse
 from xml.etree import ElementTree as ET
 
-import base64
-import tempfile
 import dropbox
+import feedgenerator
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-
-import feedgenerator
 from playwright.sync_api import Error as PlaywrightError
-from playwright.sync_api import sync_playwright
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+from playwright.sync_api import sync_playwright
 
 from repository.interface.feed_urls import IFeedURLs
 from usecase.interface.aggregate_feed import IAggregateFeed
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
+
 
 class Capture:
     def __init__(self) -> None:
@@ -68,7 +68,9 @@ class TwitterAggregateFeed(IAggregateFeed):
             if creds and creds.expired and creds.refresh_token:
                 creds.refresh(Request())
             else:
-                flow = InstalledAppFlow.from_client_secrets_file(creds_file.name, SCOPES)
+                flow = InstalledAppFlow.from_client_secrets_file(
+                    creds_file.name, SCOPES
+                )
                 creds = flow.run_local_server(port=0)
             # Save the credentials for the next run
             with open(token_file.name, "w") as token:
@@ -88,7 +90,7 @@ class TwitterAggregateFeed(IAggregateFeed):
 
             input_field.wait_for(timeout=timeout)
             input_field.fill(value)
-            
+
             next_button = page.get_by_role("button", name="Next")
             next_button.wait_for(timeout=timeout)
 
@@ -96,7 +98,7 @@ class TwitterAggregateFeed(IAggregateFeed):
             page.screenshot(path=f"./img/{field_type}_b.png")
 
             next_button.click()
-            
+
             return True
         except PlaywrightTimeoutError:
             print(f"Timeout waiting for {field_type} field")
@@ -122,7 +124,7 @@ class TwitterAggregateFeed(IAggregateFeed):
             except PlaywrightTimeoutError:
                 print(f"Timeout on attempt {attempts}")
                 break
-    
+
     def input_password(self, page):
         time.sleep(3)
         # page.screenshot(path=f"./img/pass.png")
@@ -189,7 +191,10 @@ class TwitterAggregateFeed(IAggregateFeed):
 
             for message in messages[:10]:
                 msg = (
-                    service.users().messages().get(userId="me", id=message["id"]).execute()
+                    service.users()
+                    .messages()
+                    .get(userId="me", id=message["id"])
+                    .execute()
                 )
 
                 payload = msg["payload"]

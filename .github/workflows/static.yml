@@ -154,7 +154,7 @@ jobs:
 
   deploy:
     if: ${{ always() }}
-    needs: [update_cmc, update_fdv, update_kmn, update_twt]
+    needs: [update_cmc, update_fdv, update_kmn, update_twt, update_booru]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

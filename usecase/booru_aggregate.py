@@ -19,7 +19,7 @@ class BooruAggregateFeed(IAggregateFeed):
         title: str,
         link: str,
         description: str,
-        N: int = 10,
+        N: int = 4,
     ) -> None:
         self.feed_url_handler = feed_url_handler
         self.output_path = output_path

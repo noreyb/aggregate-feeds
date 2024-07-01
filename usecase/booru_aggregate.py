@@ -1,3 +1,4 @@
+import random
 import time
 from xml.etree import ElementTree as ET
 
@@ -18,12 +19,14 @@ class BooruAggregateFeed(IAggregateFeed):
         title: str,
         link: str,
         description: str,
+        N: int = 10,
     ) -> None:
         self.feed_url_handler = feed_url_handler
         self.output_path = output_path
         self.title = title
         self.link = link
         self.description = description
+        self.N = N
 
     def run(self) -> None:
         feeds = feedgenerator.Rss201rev2Feed(
@@ -33,6 +36,7 @@ class BooruAggregateFeed(IAggregateFeed):
         )
 
         feed_urls = self.feed_url_handler.get()
+        feed_urls = random.sample(feed_urls, min(self.N, len(feed_urls)))
         for feed_url in feed_urls:
             rss_feed = self.__get_rss_contents(feed_url)
             entries = rss_feed["entries"]

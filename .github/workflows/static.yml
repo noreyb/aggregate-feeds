@@ -87,26 +87,26 @@ jobs:
           git commit -m "update fediverse feed"
           git push origin main
 
-#  update_booru:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v3
-#      - uses: actions/setup-python@v4
-#        with:
-#          python-version: "3.11"
-#      - uses: Gr1N/setup-poetry@v8
-#      - run: poetry install --no-root
-#      - run: BOORU_BASE_URL=${{secrets.BOORU_BASE_URL}} BOORU_ENDPOINT=${{secrets.BOORU_ENDPOINT}} poetry run python main.py booru
-#      - name: Update feed
-#        continue-on-error: true
-#        run: |
-#          git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-#          git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-#          git fetch origin main
-#          git merge origin/main
-#          git add ./output/booru.xml
-#          git commit -m "update booru feeds"
-#          git push origin main
+ update_booru:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v4
+     - uses: actions/setup-python@v5
+       with:
+         python-version: "3.11"
+     - uses: Gr1N/setup-poetry@v9
+     - run: poetry install --no-root
+     - run: BOORU_BASE_URL=${{secrets.BOORU_BASE_URL}} BOORU_ENDPOINT=${{secrets.BOORU_ENDPOINT}} poetry run python main.py booru
+     - name: Update feed
+       continue-on-error: true
+       run: |
+         git config user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+         git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+         git fetch origin main
+         git merge origin/main
+         git add ./output/booru.xml
+         git commit -m "update booru feeds"
+         git push origin main
     
   update_kmn:
     runs-on: ubuntu-latest

@@ -6,6 +6,13 @@
         <description>comic</description>
         <lastBuildDate>Wed, 24 Jul 2024 03:00:00 +0000</lastBuildDate>
         <item>
+            <title>あの嫌いなバンドはネットのおもちゃ</title>
+            <link>https://comic-action.com/episode/11341664176569679679</link>
+            <description>あの嫌いなバンドはネットのおもちゃ</description>
+            <pubDate>Fri, 02 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/11341664176569679679-4c5dc73ac22c2278894a60611075d217?1706669467" />
+        </item>
+        <item>
             <title>かわいそうな私たち</title>
             <link>https://kuragebunch.com/episode/10044607041220212386</link>
             <description>かわいそうな私たち</description>
@@ -4029,13 +4036,6 @@
             <description>しれっとすげぇこと言ってるギャル。ー私立パラの丸高校の日常ー</description>
             <pubDate>Wed, 15 Nov 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755434966609-22967f03ba8e7d8c0487b1da07e4efa9?1699939020" />
-        </item>
-        <item>
-            <title>[10Pショート読切] キラキラさん</title>
-            <link>https://tonarinoyj.jp/episode/14079602755426269360</link>
-            <description>キラキラさん</description>
-            <pubDate>Sun, 12 Nov 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755426269360-a84fd64ce59d986545463ef3432abef5?1699427760" />
         </item>
     </channel>
 </rss>

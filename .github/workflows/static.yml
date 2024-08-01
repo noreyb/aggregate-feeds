@@ -125,7 +125,7 @@ jobs:
           git config user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
           git fetch origin main
           git merge origin/main
-          git add ./output/kemono.xml
+          git add ./output/kemono2.xml
           git commit -m "update kemono feeds"
           git push origin main
 

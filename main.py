@@ -58,7 +58,7 @@ def kemono():
     factory = KemonoFactory(
         base_url=os.getenv("KEMONO_BASE_URL"),
         endpoint=os.getenv("KEMONO_ENDPOINT"),
-        output_path="./output/kemono.xml",
+        output_path="./output/kemono2.xml",
         title="agg-kemono",
         link="https://noreyb.github.io/agg-feed",
         description="kemono",

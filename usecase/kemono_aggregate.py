@@ -34,7 +34,7 @@ class KemonoAggregateFeed(IAggregateFeed):
         )
 
         feed_urls = self.feed_url_handler.get()
-        feed_urls = random.sample(feed_urls, min(4, len(feed_urls)))  # 4人ピックアップする
+        feed_urls = random.sample(feed_urls, min(8, len(feed_urls)))  # 4人ピックアップする
         for feed_url in feed_urls:
             rss_feed = self.__get_rss_contents(feed_url)
             entries = rss_feed["entries"]

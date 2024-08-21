@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 20 Aug 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>魔法少女のすぐそばで</title>
             <link>https://www.sunday-webry.com/episode/2550912964420378952</link>
@@ -202,18 +202,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798639213664-01091fd8498a3c54ca41ab015587eff4?1719307542" />
         </item>
         <item>
+            <title>第10話 週末、みんなと。②</title>
+            <link>https://www.sunday-webry.com/episode/2550912964514174627</link>
+            <description>恋喰少女</description>
+            <pubDate>Wed, 21 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964514174627-e20dcdfae04e6cf3201cac4fc7fef107?1724228174" />
+        </item>
+        <item>
             <title>おまけ漫画 隣の席の金瀬さん</title>
             <link>https://www.sunday-webry.com/episode/2550912964449092314</link>
             <description>恋喰少女</description>
             <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964449092314-186c5aa86a8b546b0eb957005ef9c0ab?1723018560" />
-        </item>
-        <item>
-            <title>第9話 週末、みんなと。①</title>
-            <link>https://www.sunday-webry.com/episode/2550912964416942128</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 31 Jul 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964416942128-dae5bbd461fa0cd5ff9ac81e7c30eb53?1722473977" />
         </item>
         <item>
             <title>休載イラスト&amp;PR</title>
@@ -664,11 +664,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/10044607041234328611-fd1dff3bc29633767700646e798e661a?1706085010" />
         </item>
         <item>
-            <title>secret.11 A.T.K.G.I.T.N</title>
-            <link>https://www.sunday-webry.com/episode/2550912964448151854</link>
+            <title>secret.12 A.W.Y</title>
+            <link>https://www.sunday-webry.com/episode/2550912964490278976</link>
             <description>古々路ひめるの全秘密</description>
-            <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964448151854-786a1df857664da2dee0c2427e72e3b2?1723001784" />
+            <pubDate>Wed, 21 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964490278976-8e54f7f39bdff474f375b08e8c484d5d?1723789562" />
         </item>
         <item>
             <title>secret.03 A.K.N.M.N</title>

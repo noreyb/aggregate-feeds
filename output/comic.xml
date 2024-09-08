@@ -4,7 +4,28 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 06 Sep 2024 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 15:00:00 +0000</lastBuildDate>
+        <item>
+            <title>花のようなわたしたち</title>
+            <link>https://shonenjumpplus.com/episode/17106567254421464083</link>
+            <description>花のようなわたしたち</description>
+            <pubDate>Fri, 30 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567254421464083-92e5451121fdc1f64c7142c4e6028102?1724730718" />
+        </item>
+        <item>
+            <title>電気羊と夏の海で</title>
+            <link>https://kuragebunch.com/episode/2550912964476378781</link>
+            <description>電気羊と夏の海で</description>
+            <pubDate>Fri, 30 Aug 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912964476378781-2ea050b692811b0f193d35a8412f5b5e?1724890197" />
+        </item>
+        <item>
+            <title>言葉の深海</title>
+            <link>https://shonenjumpplus.com/episode/17106567254477213886</link>
+            <description>言葉の深海</description>
+            <pubDate>Sat, 31 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567254477213886-0fc1d14f347dd5d065978f21c6534680?1724730726" />
+        </item>
         <item>
             <title>[10Pショート読切] CONTINUE?</title>
             <link>https://tonarinoyj.jp/episode/2550912964443171883</link>
@@ -55,6 +76,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798902002735-39486f7d409a033261c365670acfbd81?1723596968" />
         </item>
         <item>
+            <title>[3話]ムシムスメ</title>
+            <link>https://shonenjumpplus.com/episode/17106567254627466501</link>
+            <description>ムシムスメ</description>
+            <pubDate>Sat, 07 Sep 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567254627466501-26b896f8fdfb52c3654cca0c76e0bbf8?1725527487" />
+        </item>
+        <item>
             <title>[2話]ムシムスメ</title>
             <link>https://shonenjumpplus.com/episode/17106567254421464381</link>
             <description>ムシムスメ</description>
@@ -67,6 +95,13 @@
             <description>ムシムスメ</description>
             <pubDate>Sat, 24 Aug 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371892806261797-14e84420a88f532d08588c90498731a8?1724298501" />
+        </item>
+        <item>
+            <title>第4話 ストイックに体力測定中。</title>
+            <link>https://www.sunday-webry.com/episode/2550912964588371287</link>
+            <description>百瀬アキラの初恋破綻中。</description>
+            <pubDate>Sat, 07 Sep 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964588371287-ccbd7897821f5773b3de5f631df83928?1725599453" />
         </item>
         <item>
             <title>第3話 まっすぐ先走り中。</title>
@@ -942,41 +977,6 @@
             <description>継ぎ穂</description>
             <pubDate>Tue, 21 May 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798575876059-7f28e00bbb75e31ebd49b0bc6eecdb4f?1716429965" />
-        </item>
-        <item>
-            <title>第7話 デスアトラクション</title>
-            <link>https://www.sunday-webry.com/episode/2550912964552211059</link>
-            <description>キルニル～先生が殺し屋って本当ですか？～</description>
-            <pubDate>Tue, 03 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964552211059-b9a756ff3a4d6d413a11eba141ca62cd?1724914841" />
-        </item>
-        <item>
-            <title>第3話 命に代えても</title>
-            <link>https://www.sunday-webry.com/episode/2550689798723933180</link>
-            <description>キルニル～先生が殺し屋って本当ですか？～</description>
-            <pubDate>Tue, 18 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798723933180-b0559a2258ae5d36add5a957bc840914?1718685050" />
-        </item>
-        <item>
-            <title>第2話 試し行為</title>
-            <link>https://www.sunday-webry.com/episode/2550689798580595667</link>
-            <description>キルニル～先生が殺し屋って本当ですか？～</description>
-            <pubDate>Thu, 16 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798580595667-0022064fbbcb7f5060084ef65934b24e?1715842239" />
-        </item>
-        <item>
-            <title>第1話 その男、伝説につき</title>
-            <link>https://www.sunday-webry.com/episode/2550689798424231595</link>
-            <description>キルニル～先生が殺し屋って本当ですか？～</description>
-            <pubDate>Thu, 18 Apr 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798424231595-70a14fab7321a2d571eccdb7b427e8e4?1713404753" />
-        </item>
-        <item>
-            <title>異世界陸上</title>
-            <link>https://www.sunday-webry.com/episode/2550689798579984206</link>
-            <description>異世界陸上</description>
-            <pubDate>Sun, 19 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798579984206-5e8d67ed02313339c720438d4163189b?1715915755" />
         </item>
     </channel>
 </rss>

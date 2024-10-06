@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 01 Oct 2024 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>【コミックDAYS読み切り】KAGUYA姫</title>
             <link>https://comic-days.com/episode/14079602755311526257</link>
@@ -1231,6 +1231,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/3269754496649675685-a19156562a0fc50ab5bb73fe576a5838?1715235253" />
         </item>
         <item>
+            <title>[40話]クソ女に幸あれ</title>
+            <link>https://shonenjumpplus.com/episode/17106567255482965048</link>
+            <description>クソ女に幸あれ</description>
+            <pubDate>Sat, 05 Oct 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255482965048-406e87285cdb439861e8a994f27e7d86?1727851734" />
+        </item>
+        <item>
             <title>[39話]クソ女に幸あれ</title>
             <link>https://shonenjumpplus.com/episode/17106567255513411093</link>
             <description>クソ女に幸あれ</description>
@@ -1250,13 +1257,6 @@
             <description>クソ女に幸あれ</description>
             <pubDate>Sat, 14 Sep 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255068949576-a2d6d3b532729a8b163f0c1af45a0b78?1726196665" />
-        </item>
-        <item>
-            <title>[37話]クソ女に幸あれ</title>
-            <link>https://shonenjumpplus.com/episode/17106567254627466257</link>
-            <description>クソ女に幸あれ</description>
-            <pubDate>Sat, 07 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567254627466257-bffd6f90a32a2b7aaf08d4456b29c038?1725527487" />
         </item>
         <item>
             <title>[イラスト11]クソ女に幸あれ</title>

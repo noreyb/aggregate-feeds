@@ -1,6 +1,7 @@
 import random
 import time
 from xml.etree import ElementTree as ET
+from urllib.parse import urlparse, quote
 
 import feedgenerator
 import feedparser
@@ -57,7 +58,6 @@ class BooruAggregateFeed(IAggregateFeed):
 
     def __add_feed_item(self, feeds, entries):
         for entry in entries:
-            print(entry)
             enclosure = None
             if 1 < len(entry["links"]):  # Only catch media note
                 enclosure = feedgenerator.Enclosure(
@@ -66,9 +66,14 @@ class BooruAggregateFeed(IAggregateFeed):
                     mime_type=entry["links"][1]["type"],
                 )
 
+            o = urlparse(entry["link"])
+            link = o._replace(query=quote(o.query))
+            link = link.geturl()
+            print(link)
+
             feeds.add_item(
                 title=entry["title"],
-                link=entry["link"],
+                link=link,
                 description=entry["description"],
                 enclosure=enclosure,
                 # pubdate=parse(entry["published"]),

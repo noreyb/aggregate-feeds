@@ -66,14 +66,15 @@ class BooruAggregateFeed(IAggregateFeed):
                     mime_type=entry["links"][1]["type"],
                 )
 
-            o = urlparse(entry["link"])
-            link = o._replace(query=quote(o.query))
-            link = link.geturl()
-            print(link)
+            
+            # o = urlparse(entry["link"])
+            # link = o._replace(query=quote(o.query))
+            # link = link.geturl()
+            # print(link)
 
             feeds.add_item(
                 title=entry["title"],
-                link=link,
+                link=entry["link"],
                 description=entry["description"],
                 enclosure=enclosure,
                 # pubdate=parse(entry["published"]),

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 15:00:00 +0000</lastBuildDate>
         <item>
             <title>【コミックDAYS読み切り】木漏れ日の針</title>
             <link>https://comic-days.com/episode/2550912964784980459</link>
@@ -230,13 +230,6 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964773195281-04021151fbe0221191cfcd95d9117224?1730970163" />
         </item>
         <item>
-            <title>第29話 自転車に乗ろう</title>
-            <link>https://comic-action.com/episode/2550912964725411359</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 25 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964725411359-2f867919d608c2739f55905509bffcd7?1729579358" />
-        </item>
-        <item>
             <title>第3話 連絡手段を考えよう</title>
             <link>https://comic-action.com/episode/14079602755100509646</link>
             <description>放課後帰宅びより</description>
@@ -377,6 +370,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255043893523-42f5662bb7f2d15753642aabe7fcad1f?1726130859" />
         </item>
         <item>
+            <title>[第11話]このクラスにギャルはいない</title>
+            <link>https://shonenjumpplus.com/episode/17106567260965582161</link>
+            <description>このクラスにギャルはいない</description>
+            <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567260965582161-5c2eeb3f72bca3b41a653702ab441be7?1732084713" />
+        </item>
+        <item>
             <title>[第10話]このクラスにギャルはいない</title>
             <link>https://shonenjumpplus.com/episode/17106567256672633707</link>
             <description>このクラスにギャルはいない</description>
@@ -389,13 +389,6 @@
             <description>このクラスにギャルはいない</description>
             <pubDate>Fri, 01 Nov 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567256451614536-6588ce013a1d9a197afa60399fadc784?1730348289" />
-        </item>
-        <item>
-            <title>[第8話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567256216463808</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 25 Oct 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567256216463808-d706405ece49ae1ec175b54d643a249f?1729759333" />
         </item>
         <item>
             <title>[第5話]このクラスにギャルはいない</title>
@@ -510,18 +503,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798308133909-568d6fc5c977904b7f0d566ed287a0b8?1710737836" />
         </item>
         <item>
+            <title>第52話 夢見るぼくらの、堀田先生</title>
+            <link>https://comic-action.com/episode/2550912964884186142</link>
+            <description>だらしないです 堀田先生！</description>
+            <pubDate>Fri, 22 Nov 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964884186142-78cb1e4ddcccd2f1d20db57e988038ba?1732007471" />
+        </item>
+        <item>
             <title>第51話 意外と乙女な、堀田先生</title>
             <link>https://comic-action.com/episode/2550912964849168301</link>
             <description>だらしないです 堀田先生！</description>
             <pubDate>Fri, 15 Nov 2024 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964849168301-df9148761f489850d1d46793020a550f?1731481276" />
-        </item>
-        <item>
-            <title>第50話 画面の向こうに、堀田先生</title>
-            <link>https://comic-action.com/episode/2550912964824051222</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 08 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964824051222-f70a6d4516fc4825844d749e2909e303?1730800705" />
         </item>
         <item>
             <title>第3話 強引すぎます、堀田先生</title>
@@ -850,7 +843,7 @@
             <link>https://www.sunday-webry.com/episode/2550912964892671871</link>
             <description>百瀬アキラの初恋破綻中。</description>
             <pubDate>Sat, 16 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964892671871-b8296ccc2d3bd7b3d57bdab8bf67cf83?1731642975" />
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964892671871-b8296ccc2d3bd7b3d57bdab8bf67cf83?1732268485" />
         </item>
         <item>
             <title>第5話 LOVE全開でお菓子作り中。</title>

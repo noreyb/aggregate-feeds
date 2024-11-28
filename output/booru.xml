@@ -4,18 +4,36 @@
         <title>agg-booru</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>booru</description>
-        <lastBuildDate>Wed, 27 Nov 2024 18:46:37 -0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 02:11:44 -0000</lastBuildDate>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=6889554&amp;tags=bumch_a</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=10884423&amp;tags=iggy.m</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/18/36/thumbnail_18368ecec56ec80e77057da5c8a6ec9b.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/61/7f/thumbnail_617fee8d2901e231ad6294bd132695cd.jpg" />
         </item>
         <item>
             <title />
-            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=7672739&amp;tags=al4f</link>
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=10884401&amp;tags=iggy.m</link>
             <description />
-            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/19/ac/thumbnail_19accae8f8a037420aebd52baa39a3ab.jpg" />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/62/03/thumbnail_6203abc3a98383736f632672c507cfd4.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=10884319&amp;tags=iggy.m</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/15/22/thumbnail_15225e2508a94404147fb3228005887b.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=6825851&amp;tags=iggy.m</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/87/3d/thumbnail_873d19942226862824546e308d4ceb61.jpg" />
+        </item>
+        <item>
+            <title />
+            <link>https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=6825848&amp;tags=iggy.m</link>
+            <description />
+            <enclosure length="0" type="image/jpeg" url="https://img3.gelbooru.com/thumbnails/c6/fa/thumbnail_c6fad27c9fb2453722ba6b0e17d512e1.jpg" />
         </item>
     </channel>
 </rss>

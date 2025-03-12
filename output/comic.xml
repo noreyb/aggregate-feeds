@@ -4,993 +4,1574 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 11 Mar 2025 03:00:00 +0000</lastBuildDate>
-        <item>
-            <title>アンチゴースト</title>
-            <link>https://shonenjumpplus.com/episode/17106567263957917892</link>
-            <description>アンチゴースト</description>
-            <pubDate>Fri, 07 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263957917892-50f2f6d8c447aaedcefc59cb9a0340b5?1741064834" />
-        </item>
-        <item>
-            <title>【コミックDAYS読み切り】楽園の季節</title>
-            <link>https://comic-days.com/episode/2550912965308422088</link>
-            <description>楽園の季節</description>
-            <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965308422088-591be182628722c7a3038dc2530a3366?1741077822" />
-        </item>
-        <item>
-            <title>先輩と後輩、大暴れの週末</title>
-            <link>https://kuragebunch.com/episode/2550912965269449845</link>
-            <description>先輩と後輩、大暴れの週末</description>
-            <pubDate>Fri, 28 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965269449845-f7a71f0926a7742ec841993397876286?1739790864" />
-        </item>
-        <item>
-            <title>灼熱</title>
-            <link>https://shonenjumpplus.com/episode/17106567263769428315</link>
-            <description>灼熱</description>
-            <pubDate>Fri, 28 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769428315-858d126d601f338c22753383c94ae884?1740557285" />
-        </item>
-        <item>
-            <title>第67話</title>
-            <link>https://youngchampion.jp/episodes/673ee97cd08d2/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 19 Feb 2025 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1739501875284_kareiru_67.jpg" />
-        </item>
-        <item>
-            <title>第66話</title>
-            <link>https://youngchampion.jp/episodes/a105962c45b97/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 22 Jan 2025 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1737088546435_kareiru_66.jpg" />
-        </item>
-        <item>
-            <title>第65話</title>
-            <link>https://youngchampion.jp/episodes/8f4697e59c498/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 18 Dec 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1734084940995_kareiru_65.jpg" />
-        </item>
-        <item>
-            <title>第64話</title>
-            <link>https://youngchampion.jp/episodes/4955471601c06/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 20 Nov 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1731650647372_kareiru_64.jpg" />
-        </item>
-        <item>
-            <title>第63話</title>
-            <link>https://youngchampion.jp/episodes/a57ef5fbe2801/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 16 Oct 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1728637589279_kareiru_63.jpg" />
-        </item>
-        <item>
-            <title>第62話</title>
-            <link>https://youngchampion.jp/episodes/1196b54ca66d4/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 18 Sep 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/202409131128501947B086A37117D2477BBBB70084A9568F5-sm.png" />
-        </item>
-        <item>
-            <title>第61話</title>
-            <link>https://youngchampion.jp/episodes/adc99f94fa581/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 21 Aug 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/202408161327137186B195389E0CE1496C998C0F08F5688BB-sm.png" />
-        </item>
-        <item>
-            <title>第60話</title>
-            <link>https://youngchampion.jp/episodes/9f518f27088ff/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 17 Jul 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/602094/default/20240712154238630DFAFDF9A62BB2609B44655B1315DC705-sm.png" />
-        </item>
-        <item>
-            <title>第59話</title>
-            <link>https://youngchampion.jp/episodes/e86e73cb0d0db/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 19 Jun 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240614120852859298AB22FC3FD02A629540B3D584D6046-sm.png" />
-        </item>
-        <item>
-            <title>第58話</title>
-            <link>https://youngchampion.jp/episodes/30021cd9d77be/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 22 May 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20240517104603121B6EC9811E115E9CC0548A19866981BFD-sm.png" />
-        </item>
-        <item>
-            <title>第57話</title>
-            <link>https://youngchampion.jp/episodes/c11b553b140a2/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 20 Mar 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202403151048198727AD3CCC80FDE4D62E0FE877937CCB6AE-sm.png" />
-        </item>
-        <item>
-            <title>第56話</title>
-            <link>https://youngchampion.jp/episodes/db528216c5588/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 21 Feb 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202402161431139536B195389E0CE1496C998C0F08F5688BB-sm.png" />
-        </item>
-        <item>
-            <title>第55話</title>
-            <link>https://youngchampion.jp/episodes/ba5f0449da0d8/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 17 Jan 2024 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2024011211061013924073E109B155E0A0C10EC00D61026AE-sm.png" />
-        </item>
-        <item>
-            <title>第54話</title>
-            <link>https://youngchampion.jp/episodes/0de72f1e95451/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 20 Dec 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2023121417240123324073E109B155E0A0C10EC00D61026AE-sm.png" />
-        </item>
-        <item>
-            <title>第53話</title>
-            <link>https://youngchampion.jp/episodes/86cb751562c7e/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 22 Nov 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2023111713040803023279BEB3EA9500D93784A3500802A0E-sm.png" />
-        </item>
-        <item>
-            <title>第52話</title>
-            <link>https://youngchampion.jp/episodes/0b2fefabd5a75/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 18 Oct 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023101311283921277C7D29A9188E3661B59BACD1A487455-sm.png" />
-        </item>
-        <item>
-            <title>第51話</title>
-            <link>https://youngchampion.jp/episodes/3f458fda0bd00/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 20 Sep 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023091510594576828E8171CC12CC9C6D44472AED191F36A-sm.png" />
-        </item>
-        <item>
-            <title>第50話</title>
-            <link>https://youngchampion.jp/episodes/07b762a15d8b0/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Thu, 17 Aug 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023081014170260501898CF03C2C04FA5EF5A44D5ADB4A6F-sm.png" />
-        </item>
-        <item>
-            <title>第49話</title>
-            <link>https://youngchampion.jp/episodes/e171b49d7c992/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2023071411070679723279BEB3EA9500D93784A3500802A0E-sm.png" />
-        </item>
-        <item>
-            <title>第48話</title>
-            <link>https://youngchampion.jp/episodes/6aa222996bc0d/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 21 Jun 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230619105703706E66C3B2A2ECF8EF627DF80D8C79DA435-sm.png" />
-        </item>
-        <item>
-            <title>第47話</title>
-            <link>https://youngchampion.jp/episodes/920f527c9a443/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 17 May 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230511185544970B17E56F248C0832445731B13DAD5271A-sm.png" />
-        </item>
-        <item>
-            <title>第46話</title>
-            <link>https://youngchampion.jp/episodes/5a7daabe10588/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Thu, 20 Apr 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/20230414125156455FB66D9BBC920DF4481F077AEEE8B5BE4-sm.png" />
-        </item>
-        <item>
-            <title>第45話</title>
-            <link>https://youngchampion.jp/episodes/fa7356a5b5bc3/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/fa7356a5b5bc3"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Wed, 19 Apr 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1679098532841_kareiru_45.jpg" />
-        </item>
-        <item>
-            <title>第44話</title>
-            <link>https://youngchampion.jp/episodes/385011a42b24f/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;null&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/385011a42b24f"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Tue, 28 Mar 2023 00:07:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1679010958502_kareiru_44.jpg" />
-        </item>
-        <item>
-            <title>第43話</title>
-            <link>https://youngchampion.jp/episodes/c9c18105d0a86/?utm_source=rss&amp;utm_medium=referral</link>
-            <description>&lt;p&gt;&lt;/p&gt;&lt;br /&gt;&lt;a href="https://comici.jp/youngchampion/episodes/c9c18105d0a86"&gt;続きをみる&lt;/a&gt;</description>
-            <pubDate>Tue, 28 Mar 2023 00:06:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/202305011851350391DE304C7D8A5CDFCC6D707FD747C8315-sm.png" />
-        </item>
-        <item>
-            <title>特別読切</title>
-            <link>https://magcomi.com/episode/2550912965214492952</link>
-            <description>ゾンビ・ソープランド～未経験歓迎♡生死不問～</description>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.magcomi.com/public/episode-thumbnail/2550912965214492952-8804480e6a458ca33cd09a81eba197bf?1740036605" />
-        </item>
-        <item>
-            <title>冬眠少女</title>
-            <link>https://shonenjumpplus.com/episode/17106567263566704998</link>
-            <description>冬眠少女</description>
-            <pubDate>Fri, 21 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263566704998-c667357b0f60e2dd54006bc20de5cd34?1739847164" />
-        </item>
-        <item>
-            <title>【コミックDAYS読み切り】エマの樹</title>
-            <link>https://comic-days.com/episode/4856001361262840579</link>
-            <description>エマの樹</description>
-            <pubDate>Wed, 31 May 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361262840579-4b3bca227d2ceaf1c13be5c6521b2f95?1685323733" />
-        </item>
-        <item>
-            <title>【コミックDAYS読み切り】消えない尿の泡</title>
-            <link>https://comic-days.com/episode/2550912964975439535</link>
-            <description>消えない尿の泡</description>
-            <pubDate>Thu, 13 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964975439535-578e9fd2b05310f1b705bc3fd9c5558a?1734675597" />
-        </item>
-        <item>
-            <title>サナギの心臓</title>
-            <link>https://shonenjumpplus.com/episode/17106567263431748702</link>
-            <description>サナギの心臓</description>
-            <pubDate>Mon, 10 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263431748702-166c61f34c51d843ad3e59e9e01108d8?1738907418" />
-        </item>
-        <item>
-            <title>[第4話]滅国の宦官</title>
-            <link>https://shonenjumpplus.com/episode/17106567264132035234</link>
-            <description>滅国の宦官</description>
-            <pubDate>Sun, 09 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567264132035234-40e6dca6b7efb3bd833ac2e0822ce4f9?1741328747" />
-        </item>
-        <item>
-            <title>[第3話]滅国の宦官</title>
-            <link>https://shonenjumpplus.com/episode/17106567263769425527</link>
-            <description>滅国の宦官</description>
-            <pubDate>Sun, 23 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769425527-10279364af89df6521532c8b9e0f27ac?1740535696" />
-        </item>
-        <item>
-            <title>[第2話]滅国の宦官</title>
-            <link>https://shonenjumpplus.com/episode/17106567263566702867</link>
-            <description>滅国の宦官</description>
-            <pubDate>Sun, 16 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263566702867-df6ffcabba204d7a951d78d970c58309?1739514944" />
-        </item>
-        <item>
-            <title>[第1話]滅国の宦官</title>
-            <link>https://shonenjumpplus.com/episode/17106567263431745065</link>
-            <description>滅国の宦官</description>
-            <pubDate>Sun, 09 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263431745065-ab1b6a2a7ec3f214f3dcd85de0387bcc?1738907417" />
-        </item>
-        <item>
-            <title>第５話　お酒とダーツで敗北</title>
-            <link>https://comic-days.com/episode/2550912964995298535</link>
-            <description>かわいいのは俺である</description>
-            <pubDate>Wed, 19 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964995298535-531f7e30cbe43fb39a11319a2a7e05d5?1739497108" />
-        </item>
-        <item>
-            <title>第４話　ダンス動画で敗北</title>
-            <link>https://comic-days.com/episode/2550912964995298515</link>
-            <description>かわいいのは俺である</description>
-            <pubDate>Wed, 05 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964995298515-2eea3065fc0311b6f1d462b5e2fcc311?1738141407" />
-        </item>
-        <item>
-            <title>第２話　ファミレスで敗北</title>
-            <link>https://comic-days.com/episode/2550912964995298461</link>
-            <description>かわいいのは俺である</description>
-            <pubDate>Wed, 08 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964995298461-f03fd819d18c873e50fe48efb392c371?1735266667" />
-        </item>
-        <item>
-            <title>第１話　出会いがしらの敗北</title>
-            <link>https://comic-days.com/episode/2550912964995298425</link>
-            <description>かわいいのは俺である</description>
-            <pubDate>Wed, 08 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964995298425-e563447a44f06236e779cc41d01dae92?1735266665" />
-        </item>
-        <item>
-            <title>第6話 完全決着麻雀</title>
-            <link>https://comic-action.com/episode/2550912965245946551</link>
-            <description>トー牌少女</description>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965245946551-3be0a3394a37e1a77960953754321377?1739956082" />
-        </item>
-        <item>
-            <title>第5話 女子高生と町中華</title>
-            <link>https://comic-action.com/episode/2550912965245946532</link>
-            <description>トー牌少女</description>
-            <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965245946532-8c7838c65b3cffb1137393b7ad2301d0?1738729355" />
-        </item>
-        <item>
-            <title>第3話 〈今日〉の一打</title>
-            <link>https://comic-action.com/episode/2550912964966799587</link>
-            <description>トー牌少女</description>
-            <pubDate>Fri, 20 Dec 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964966799587-e18ec0165b237b74b1699540330b877f?1735122414" />
-        </item>
-        <item>
-            <title>第2話 路上の麻雀</title>
-            <link>https://comic-action.com/episode/2550912964966799582</link>
-            <description>トー牌少女</description>
-            <pubDate>Fri, 06 Dec 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964966799582-4b8ccfc19be9519e80298815ac6d491f?1735122427" />
-        </item>
-        <item>
-            <title>第1話 トー横の少女博徒</title>
-            <link>https://comic-action.com/episode/2550912964966799574</link>
-            <description>トー牌少女</description>
-            <pubDate>Fri, 06 Dec 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964966799574-12e55a95df2f81120fc79e55b9d80b64?1735122439" />
-        </item>
-        <item>
-            <title>【コミックDAYS読み切り】天を夢見て</title>
-            <link>https://comic-days.com/episode/2550912964518226354</link>
-            <description>天を夢見て</description>
-            <pubDate>Thu, 05 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964518226354-406ddf4c3863ca4b6fc41f695ac973fb?1725251992" />
-        </item>
-        <item>
-            <title>[第9話]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17106567263957918064</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 07 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263957918064-e9c5f4d45497f6f68bdafa952b980d9e?1741156782" />
-        </item>
-        <item>
-            <title>[第8話]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17106567263566705106</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 21 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263566705106-0c43f09d2be08ba55b70ca4cf91d9e6f?1739949044" />
-        </item>
-        <item>
-            <title>[イラスト]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17106567261852342940</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 27 Dec 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567261852342940-6402e89e12d1081eb2bab54bfe4e4be1?1735094722" />
-        </item>
-        <item>
-            <title>[第2話]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17106567260965581968</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 22 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567260965581968-dba8b0c1b980070fc6c200fc0a386b92?1732084710" />
-        </item>
-        <item>
-            <title>[第1話]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17106567256884587803</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 15 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567256884587803-5604f87a0e830aaaefd30d9f27721e39?1732771070" />
-        </item>
-        <item>
-            <title>第４話　チームショー</title>
-            <link>https://comic-days.com/episode/2550912964825152095</link>
-            <description>彼女は裸で踊ってる</description>
-            <pubDate>Thu, 16 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964825152095-b6eee911e6edde40b536ae9bcf00984b?1736831317" />
-        </item>
-        <item>
-            <title>第３話　いけないこと</title>
-            <link>https://comic-days.com/episode/2550912964825152085</link>
-            <description>彼女は裸で踊ってる</description>
-            <pubDate>Thu, 19 Dec 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964825152085-7eb86681b293716f4fbc823a5e992818?1733992128" />
-        </item>
-        <item>
-            <title>第２話　私の体は誰のもの</title>
-            <link>https://comic-days.com/episode/2550912964825152074</link>
-            <description>彼女は裸で踊ってる</description>
-            <pubDate>Thu, 21 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964825152074-6c5a9db2e86b0f0aba3ad6bb0082c0be?1731563260" />
-        </item>
-        <item>
-            <title>第１話　女でいるっていいことある？</title>
-            <link>https://comic-days.com/episode/2550912964825152067</link>
-            <description>彼女は裸で踊ってる</description>
-            <pubDate>Thu, 21 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964825152067-548609b2158261381724baa2d99145bf?1731563137" />
-        </item>
-        <item>
-            <title>[特別読切] ボトル変</title>
-            <link>https://tonarinoyj.jp/episode/2550912964887762008</link>
-            <description>ボトル変</description>
-            <pubDate>Fri, 15 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964887762008-489f38a499614335983f6db7db603e7e?1731558835" />
-        </item>
-        <item>
-            <title>【コミックDAYS読み切り】木漏れ日の針</title>
-            <link>https://comic-days.com/episode/2550912964784980459</link>
-            <description>木漏れ日の針</description>
-            <pubDate>Wed, 06 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964784980459-cba17bcb0f34cdbcbf8aefb62ab9ee8e?1730883794" />
-        </item>
-        <item>
-            <title>[特別読切] 裸のイデア</title>
-            <link>https://tonarinoyj.jp/episode/2550912964848395460</link>
-            <description>裸のイデア</description>
-            <pubDate>Fri, 08 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964848395460-ecb601bab0b13fa8daa096e3b6816e6e?1730945660" />
-        </item>
-        <item>
-            <title>休載イラスト</title>
-            <link>https://comic-days.com/episode/2550668106003109583</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 28 Feb 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550668106003109583-6499d1add9f635b7389bf1d049f7aca0?1709013806" />
-        </item>
-        <item>
-            <title>第７話　ドーン　オブ　ザ　バージン</title>
-            <link>https://comic-days.com/episode/4856001361074826971</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 05 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826971-0a5bad7398b9e6a9207952b1dcc79eb2?1688110383" />
-        </item>
-        <item>
-            <title>第６話　師匠と弟子</title>
-            <link>https://comic-days.com/episode/4856001361074826966</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 21 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826966-b7b6027587b070557bad5ef56a41e481?1686817235" />
-        </item>
-        <item>
-            <title>第５話　アイドル</title>
-            <link>https://comic-days.com/episode/4856001361074826961</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 07 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826961-541ad5bceb60b7acfe4a059339452656?1685688426" />
-        </item>
-        <item>
-            <title>第４話　撹乱</title>
-            <link>https://comic-days.com/episode/4856001361074826954</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 24 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826954-ca6b81c58aa9708a8f8b756dc6487f00?1684311238" />
-        </item>
-        <item>
-            <title>第３話　変身②</title>
-            <link>https://comic-days.com/episode/4856001361074826947</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 10 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826947-cb3c09166d456838a5bfe8350da7bbf7?1683511681" />
-        </item>
-        <item>
-            <title>第２話　変身①</title>
-            <link>https://comic-days.com/episode/4856001361074826941</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 26 Apr 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826941-cd8475b0766872e40631654602ad2af2?1682315602" />
-        </item>
-        <item>
-            <title>第１話　拝命</title>
-            <link>https://comic-days.com/episode/4856001361074826931</link>
-            <description>カルトオンデマンド～潜入捜査官と8人の女優たち～</description>
-            <pubDate>Wed, 26 Apr 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361074826931-12061334addd3586425432700f65f4f8?1682315454" />
-        </item>
-        <item>
-            <title>第２７話　良い子の体育祭</title>
-            <link>https://comic-days.com/episode/2550689798702733528</link>
-            <description>ディディアディクション♡♡♡</description>
-            <pubDate>Wed, 19 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798702733528-e0f2e006c033e124043e6fa8d0791e02?1739414011" />
-        </item>
-        <item>
-            <title>第２６話　雑魚</title>
-            <link>https://comic-days.com/episode/2550689798702733522</link>
-            <description>ディディアディクション♡♡♡</description>
-            <pubDate>Wed, 05 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798702733522-59cb1e586e96b0795463e99ad74cefe6?1738567699" />
-        </item>
-        <item>
-            <title>２話　秘密の関係</title>
-            <link>https://comic-days.com/episode/14079602755545301445</link>
-            <description>ディディアディクション♡♡♡</description>
-            <pubDate>Wed, 03 Jan 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755545301445-df49d6c476fb866be88c84f485f0eced?1703569859" />
-        </item>
-        <item>
-            <title>１話　ドキドキしてる？</title>
-            <link>https://comic-days.com/episode/14079602755545301440</link>
-            <description>ディディアディクション♡♡♡</description>
-            <pubDate>Wed, 03 Jan 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755545301440-c0fa835040c58720fd34a6b7fa8761db?1703569767" />
-        </item>
-        <item>
-            <title>第１７話　Ｈ．Ｔ</title>
-            <link>https://comic-days.com/episode/2550912965245536216</link>
-            <description>伽藍堂のガラクタたち</description>
-            <pubDate>Sun, 09 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965245536216-d1f1d616cb7e369e941612e51b83d770?1738728298" />
-        </item>
-        <item>
-            <title>第１６話　ＮＡＲＩＹＡＭＡ　ＮＩＧＨＴ</title>
-            <link>https://comic-days.com/episode/2550912965213554128</link>
-            <description>伽藍堂のガラクタたち</description>
-            <pubDate>Sun, 02 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965213554128-a198801f75ddb7f6912c3be656ce0345?1738140956" />
-        </item>
-        <item>
-            <title>第１話　ドアノブ</title>
-            <link>https://comic-days.com/episode/2550912964702642043</link>
-            <description>伽藍堂のガラクタたち</description>
-            <pubDate>Sun, 06 Oct 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964702642043-0b0aea26324a0ad4f125f5c80be861b5?1727848628" />
-        </item>
-        <item>
-            <title>8月31日</title>
-            <link>https://tonarinoyj.jp/episode/2550912964551956313</link>
-            <description>8月31日</description>
-            <pubDate>Mon, 09 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964551956313-b246bdcf95d266cd8d9194268ad2fe6d?1725530673" />
-        </item>
-        <item>
-            <title>MIMESIS</title>
-            <link>https://tonarinoyj.jp/episode/2550912964551956297</link>
-            <description>MIMESIS</description>
-            <pubDate>Mon, 09 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964551956297-60de072125ee83e8871c96273de8aa0b?1725431041" />
-        </item>
-        <item>
-            <title>幼馴染の女の子</title>
-            <link>https://tonarinoyj.jp/episode/2550912964551956291</link>
-            <description>幼馴染の女の子</description>
-            <pubDate>Mon, 09 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964551956291-28c0355db23cc1596913effb765edd4b?1725431152" />
-        </item>
-        <item>
-            <title>おかみ と ものかき</title>
-            <link>https://www.sunday-webry.com/episode/2550912964602361884</link>
-            <description>おかみ と ものかき</description>
-            <pubDate>Mon, 09 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964602361884-e9cf610b49670bd040238537a4978366?1725953468" />
-        </item>
-        <item>
-            <title>第23.5話 (おまけ)</title>
-            <link>https://www.sunday-webry.com/episode/2550912965354139475</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 02 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965354139475-8f493efc0451201e52a173c7dd2a261e?1740706946" />
-        </item>
-        <item>
-            <title>第23話 片思い</title>
-            <link>https://www.sunday-webry.com/episode/2550912965322768235</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 23 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965322768235-c793121fcc9c6da8e75dfbc6403cde9d?1740134550" />
-        </item>
-        <item>
-            <title>第19.5話 (おまけ)</title>
-            <link>https://www.sunday-webry.com/episode/2550912964893521675</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 17 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964893521675-de59128f6170914b10cde22775095867?1731660085" />
-        </item>
-        <item>
-            <title>第4.5話 「帰宅」</title>
-            <link>https://www.sunday-webry.com/episode/4856001361345220492</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 18 Jun 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361345220492-9cfb1ff5dbec1e346ea194b7116faf6e?1698032585" />
-        </item>
-        <item>
-            <title>第4話 天才だからしかたない</title>
-            <link>https://www.sunday-webry.com/episode/4856001361322091329</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 11 Jun 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361322091329-306a4dafebf5fcc4a3baf492fc6e63c3?1698032585" />
-        </item>
-        <item>
-            <title>第3.5話 「朝すぐ動けるタイプ」</title>
-            <link>https://www.sunday-webry.com/episode/4856001361296971406</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 04 Jun 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361296971406-04b16cc9e289d483e34c335f11bca7f8?1698032585" />
-        </item>
-        <item>
-            <title>第3話 青春フィルター</title>
-            <link>https://www.sunday-webry.com/episode/4856001361274068480</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 28 May 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361274068480-77e9fc7136c5986f6970ca0c14e79b62?1698032585" />
-        </item>
-        <item>
-            <title>第2.5話 「ケガ」</title>
-            <link>https://www.sunday-webry.com/episode/4856001361239238089</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 21 May 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361239238089-5fb746f3e1dbed10f55b2953901d3a79?1684486935" />
-        </item>
-        <item>
-            <title>第2話 死ぬかもしれない</title>
-            <link>https://www.sunday-webry.com/episode/4856001361225004523</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 14 May 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361225004523-f0bb83df06d4641de74d891740d41f92?1683856027" />
-        </item>
-        <item>
-            <title>1.5話 「コーヒー」</title>
-            <link>https://www.sunday-webry.com/episode/4856001361183892651</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 07 May 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361183892651-dabb328149a800f3c93380d49d7f161f?1682657820" />
-        </item>
-        <item>
-            <title>第1話 大人なのに</title>
-            <link>https://www.sunday-webry.com/episode/4856001361183356643</link>
-            <description>スクールバック</description>
-            <pubDate>Sun, 30 Apr 2023 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361183356643-56856316f1ddaeb1bdc959a425b1b067?1683686280" />
-        </item>
-        <item>
-            <title>第36話 合宿しよう</title>
-            <link>https://comic-action.com/episode/2550912965204614547</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 14 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965204614547-ffa6394d17dbf30c6b0f51b810459849?1739187438" />
-        </item>
-        <item>
-            <title>第35話 夏の計画を立てよう</title>
-            <link>https://comic-action.com/episode/2550912965144900545</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 31 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965144900545-4289c834d236beff6cf526657bfea29e?1738114259" />
-        </item>
-        <item>
-            <title>第3話 連絡手段を考えよう</title>
-            <link>https://comic-action.com/episode/14079602755100509646</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 08 Sep 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/14079602755100509646-8019c5ebd3f74a22c7ee59ac946d2f1b?1715244480" />
-        </item>
-        <item>
-            <title>第2話 コンビニ行こう</title>
-            <link>https://comic-action.com/episode/4856001361584756666</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 18 Aug 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/4856001361584756666-6bd9db211c0d2f673f04754134d1f181?1692161430" />
-        </item>
-        <item>
-            <title>第1話 一緒に帰ろう</title>
-            <link>https://comic-action.com/episode/4856001361584756651</link>
-            <description>放課後帰宅びより</description>
-            <pubDate>Fri, 04 Aug 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/4856001361584756651-b99668ab2a33657cdc1d49beea92e746?1690956240" />
-        </item>
-        <item>
-            <title>第１５湯　付き合ってんの？</title>
-            <link>https://comic-days.com/episode/2550912964668897176</link>
-            <description>はだかで恋を語る仲</description>
-            <pubDate>Tue, 25 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964668897176-de703d12937a77feb2ba2da00a12f052?1739948612" />
-        </item>
-        <item>
-            <title>第１４湯　性の話</title>
-            <link>https://comic-days.com/episode/2550912964668897173</link>
-            <description>はだかで恋を語る仲</description>
+        <lastBuildDate>Sun, 09 Mar 2025 15:00:00 +0000</lastBuildDate>
+        <item>
+            <title>第20話 淫魔の像</title>
+            <link>https://comic-action.com/episode/2550912965204614674</link>
+            <description>青春爆走！</description>
             <pubDate>Tue, 18 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964668897173-639c3f67cb2def6c5748c8c25650a3e8?1739426308" />
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965204614674-bdce0718222cd989f48811a4ecc46f76?1739342375" />
         </item>
         <item>
-            <title>第２湯　したいけど・・・！</title>
-            <link>https://comic-days.com/episode/2550912964668897113</link>
-            <description>はだかで恋を語る仲</description>
-            <pubDate>Tue, 08 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964668897113-0ec8919951ed03ce3d581dfb68a830bf?1728369790" />
+            <title>第19話 完ペキ☆無敵のアイドル</title>
+            <link>https://comic-action.com/episode/2550912965144900703</link>
+            <description>青春爆走！</description>
+            <pubDate>Tue, 04 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965144900703-695965c6ed8e972c6464e65f3dd31672?1738115200" />
         </item>
         <item>
-            <title>第１湯　私としない？</title>
-            <link>https://comic-days.com/episode/2550912964668897108</link>
-            <description>はだかで恋を語る仲</description>
-            <pubDate>Tue, 08 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964668897108-2b238d2ab30c2f0f362c76c03902c4c6?1728017845" />
+            <title>第1話 クラウチングスタート</title>
+            <link>https://comic-action.com/episode/2550689798575876047</link>
+            <description>青春爆走！</description>
+            <pubDate>Tue, 21 May 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798575876047-c27ae8b0d030f3865357edf142876525?1715757598" />
         </item>
         <item>
-            <title>[10Pショート読切] 怪談メモ_20240816</title>
-            <link>https://tonarinoyj.jp/episode/2550912964638137296</link>
-            <description>怪談メモ_20240816</description>
-            <pubDate>Thu, 03 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137296-65255d896001daae12c1b20e4e563781?1727663942" />
+            <title>継ぎ穂</title>
+            <link>https://comic-action.com/episode/2550689798575876059</link>
+            <description>継ぎ穂</description>
+            <pubDate>Tue, 21 May 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798575876059-7f28e00bbb75e31ebd49b0bc6eecdb4f?1716429965" />
         </item>
         <item>
-            <title>[10Pショート読切] 夢に出てきたら好きになっちゃうじゃん</title>
-            <link>https://tonarinoyj.jp/episode/2550912964638137292</link>
-            <description>夢に出てきたら好きになっちゃうじゃん</description>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137292-66423e5c726a4ef6af031fca57cb0064?1727413855" />
+            <title>第13話 バカンス</title>
+            <link>https://www.sunday-webry.com/episode/2550912965320970437</link>
+            <description>キルニル～先生が殺し屋って本当ですか？～</description>
+            <pubDate>Fri, 21 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965320970437-a98177702a5248f771f3bb3127993fe6?1740100657" />
         </item>
         <item>
-            <title>第８話②</title>
-            <link>https://comic-days.com/episode/2550912964611244588</link>
-            <description>邪神の弁当屋さん</description>
-            <pubDate>Wed, 05 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964611244588-87052705fe7d9ae5c57f7cdb2cb48c50?1738140499" />
+            <title>第3話 命に代えても</title>
+            <link>https://www.sunday-webry.com/episode/2550689798723933180</link>
+            <description>キルニル～先生が殺し屋って本当ですか？～</description>
+            <pubDate>Tue, 18 Jun 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798723933180-b0559a2258ae5d36add5a957bc840914?1718685050" />
         </item>
         <item>
-            <title>第８話①</title>
-            <link>https://comic-days.com/episode/2550912964611244584</link>
-            <description>邪神の弁当屋さん</description>
-            <pubDate>Wed, 22 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964611244584-2370638793f59aac04d3932f9811201a?1737003832" />
+            <title>第2話 試し行為</title>
+            <link>https://www.sunday-webry.com/episode/2550689798580595667</link>
+            <description>キルニル～先生が殺し屋って本当ですか？～</description>
+            <pubDate>Thu, 16 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798580595667-0022064fbbcb7f5060084ef65934b24e?1715842239" />
+        </item>
+        <item>
+            <title>第1話 その男、伝説につき</title>
+            <link>https://www.sunday-webry.com/episode/2550689798424231595</link>
+            <description>キルニル～先生が殺し屋って本当ですか？～</description>
+            <pubDate>Thu, 18 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798424231595-70a14fab7321a2d571eccdb7b427e8e4?1713404753" />
+        </item>
+        <item>
+            <title>第97話　あいつ変態だよ</title>
+            <link>https://kuragebunch.com/episode/2550912965183069792</link>
+            <description>妄想先生</description>
+            <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965183069792-104d2feff480fb2fc19b46063a7b9cb6?1740037060" />
+        </item>
+        <item>
+            <title>第96話 サービスしますよ♥</title>
+            <link>https://kuragebunch.com/episode/2550912965183069783</link>
+            <description>妄想先生</description>
+            <pubDate>Fri, 14 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965183069783-878e94909c4d91c6961f14b01d7d6cd5?1739426284" />
+        </item>
+        <item>
+            <title>第2話　私のボールを!?</title>
+            <link>https://kuragebunch.com/episode/3270296674399717440</link>
+            <description>妄想先生</description>
+            <pubDate>Fri, 10 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674399717440-91a1dfc025763e5aedab7d48bc6bd83f?1654750827" />
+        </item>
+        <item>
+            <title>第1話　大人の女のABC</title>
+            <link>https://kuragebunch.com/episode/3270296674399717436</link>
+            <description>妄想先生</description>
+            <pubDate>Fri, 10 Jun 2022 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3270296674399717436-e4581514d64a4fd9afe83022299ac187?1654750712" />
+        </item>
+        <item>
+            <title>異世界陸上</title>
+            <link>https://www.sunday-webry.com/episode/2550689798579984206</link>
+            <description>異世界陸上</description>
+            <pubDate>Sun, 19 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798579984206-5e8d67ed02313339c720438d4163189b?1715915755" />
+        </item>
+        <item>
+            <title>リンダ</title>
+            <link>https://www.sunday-webry.com/episode/2550689798552384194</link>
+            <description>リンダ</description>
+            <pubDate>Mon, 13 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798552384194-ad24b3c8887af3a144a88b8302078d35?1715313341" />
+        </item>
+        <item>
+            <title>君の言葉で宙に浮く</title>
+            <link>https://shonenjumpplus.com/episode/17106371856917137280</link>
+            <description>君の言葉で宙に浮く</description>
+            <pubDate>Mon, 13 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371856917137280-a11c0649e3868b8092fd5fb03a9d9929?1715567830" />
+        </item>
+        <item>
+            <title>単行本宣伝話</title>
+            <link>https://comic-days.com/episode/2550912964698242153</link>
+            <description>聖くんは清く生きたい</description>
+            <pubDate>Wed, 02 Oct 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964698242153-3fc23da3a1cfb61401f8ef7a73e20a4d?1727854724" />
+        </item>
+        <item>
+            <title>第１話　彼女はソレを我慢できない</title>
+            <link>https://comic-days.com/episode/4856001361071761322</link>
+            <description>聖くんは清く生きたい</description>
+            <pubDate>Sun, 26 Mar 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361071761322-209fbbe8d4d3ea2322f1678f6e783457?1679552892" />
+        </item>
+        <item>
+            <title>235mg</title>
+            <link>https://comic-days.com/episode/2550912964794511761</link>
+            <description>ヤニねこ</description>
+            <pubDate>Tue, 04 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964794511761-d229abe9063ca2cc4cc1da8063c4b6ec?1738223945" />
+        </item>
+        <item>
+            <title>234mg</title>
+            <link>https://comic-days.com/episode/2550912964794511750</link>
+            <description>ヤニねこ</description>
+            <pubDate>Sun, 02 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964794511750-dc9c3e073f751066945f6524ea1e1fd7?1738219711" />
+        </item>
+        <item>
+            <title>233mg</title>
+            <link>https://comic-days.com/episode/2550912964794511736</link>
+            <description>ヤニねこ</description>
+            <pubDate>Thu, 30 Jan 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964794511736-c00034f430332f2bef15fc9a9178aac4?1737700408" />
+        </item>
+        <item>
+            <title>【実写版】</title>
+            <link>https://comic-days.com/episode/2550689798355027253</link>
+            <description>ヤニねこ</description>
+            <pubDate>Sun, 31 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798355027253-93afd36dc7f349ac13dceda2178cf728?1711675416" />
+        </item>
+        <item>
+            <title>単行本宣伝話</title>
+            <link>https://comic-days.com/episode/11341664176555053966</link>
+            <description>ヤニねこ</description>
+            <pubDate>Sun, 04 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/11341664176555053966-4b6f9972c2b4351b706a8d081d2730e7?1706683730" />
+        </item>
+        <item>
+            <title>告知</title>
+            <link>https://comic-days.com/episode/4856001361557356007</link>
+            <description>ヤニねこ</description>
+            <pubDate>Sun, 30 Jul 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361557356007-b8394d4f117674d3864de46624a63a5e?1690445701" />
+        </item>
+        <item>
+            <title>3mg</title>
+            <link>https://comic-days.com/episode/4856001361358821295</link>
+            <description>ヤニねこ</description>
+            <pubDate>Tue, 27 Jun 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361358821295-1bb0af656aa911b4b9aee757dc864b0f?1687746957" />
+        </item>
+        <item>
+            <title>2mg</title>
+            <link>https://comic-days.com/episode/4856001361358821286</link>
+            <description>ヤニねこ</description>
+            <pubDate>Tue, 27 Jun 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361358821286-35ff4bbadf0a98830a4f893aae01c46c?1687746924" />
+        </item>
+        <item>
+            <title>1mg</title>
+            <link>https://comic-days.com/episode/4856001361358821279</link>
+            <description>ヤニねこ</description>
+            <pubDate>Tue, 27 Jun 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361358821279-75bce863ed0ea50ac18cdba62c33fcf2?1687746876" />
+        </item>
+        <item>
+            <title>[第25話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567264132035289</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 09 Mar 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567264132035289-cb341586d1bd0b07c1dbe0057ef433bb?1741322308" />
+        </item>
+        <item>
+            <title>[第24話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567263769425900</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 23 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769425900-77b0b183a61d5b911bc72aee501a7c24?1740122351" />
+        </item>
+        <item>
+            <title>[休載イラスト2]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567263431745610</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 09 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263431745610-8f8e2d5ff9cdc3791fac5ffee13e7257?1738907417" />
+        </item>
+        <item>
+            <title>[第23話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567263035940649</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 26 Jan 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263035940649-6bf8ea49d5c538b167ae01c04b0edb92?1737698715" />
+        </item>
+        <item>
+            <title>[第22話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567262656705868</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 12 Jan 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567262656705868-96b9fd5f6244d2af608463555b71e433?1736481816" />
+        </item>
+        <item>
+            <title>[第21話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567262008968729</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 29 Dec 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567262008968729-0a2ec1c1a6ba840392a247e682155453?1735267623" />
+        </item>
+        <item>
+            <title>[休載イラスト]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106567260965578480</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 17 Nov 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567260965578480-70fb226e9a6860a185bd3761ab91324c?1731651189" />
+        </item>
+        <item>
+            <title>[第1話]深層のラプタ</title>
+            <link>https://shonenjumpplus.com/episode/17106371856917132011</link>
+            <description>深層のラプタ</description>
+            <pubDate>Sun, 12 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371856917132011-cc89ab28d2cc8c88932df62768dfa40f?1725590407" />
+        </item>
+        <item>
+            <title>第４７話　女集う女</title>
+            <link>https://comic-days.com/episode/2550912965213554098</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 02 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965213554098-74ebd619997bcd132a52da8f7f95a5a7?1738140941" />
+        </item>
+        <item>
+            <title>スペシャルコラボ漫画『交わらない２人』</title>
+            <link>https://comic-days.com/episode/2550912964974947892</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 08 Dec 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964974947892-079975456cb32ba2a0f03e379a9fdb7c?1733294391" />
+        </item>
+        <item>
+            <title>第２８話　浮かれる女</title>
+            <link>https://comic-days.com/episode/2550912964479776983</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 18 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964479776983-63e77713526d8b8217d5a8c3d63a2f1c?1723695246" />
+        </item>
+        <item>
+            <title>第２７話　３番目の女</title>
+            <link>https://comic-days.com/episode/2550689798909573575</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 04 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798909573575-7c7dee6e846e7fd27e5434012c4eae72?1722565025" />
+        </item>
+        <item>
+            <title>第２６話　趣味打ちする女</title>
+            <link>https://comic-days.com/episode/2550689798879905085</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 28 Jul 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798879905085-e540cf82ea5a9f41d72f72ab45edea4f?1721961386" />
+        </item>
+        <item>
+            <title>第２５話　口説かれる女</title>
+            <link>https://comic-days.com/episode/2550689798850826628</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 21 Jul 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798850826628-f481bd2db8a4cf96225aaef0e86be854?1721354083" />
+        </item>
+        <item>
+            <title>第２４話　ヤッた？女</title>
+            <link>https://comic-days.com/episode/2550689798814914711</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Thu, 11 Jul 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798814914711-2ed8bbc071a2658f9e7e22e8d0e8cf65?1720576987" />
+        </item>
+        <item>
+            <title>第２３話　テイクアウト激安女</title>
+            <link>https://comic-days.com/episode/2550689798789219388</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 07 Jul 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798789219388-d01513aa2125588eff7d4128e5fac7f2?1720156629" />
+        </item>
+        <item>
+            <title>第２２話　出稼ぎする女</title>
+            <link>https://comic-days.com/episode/2550689798727726924</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 23 Jun 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798727726924-27e5a44c9c3c5d5dcb2d939018781c9a?1718849501" />
+        </item>
+        <item>
+            <title>第２１話　芸達者な女</title>
+            <link>https://comic-days.com/episode/2550689798697064221</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 16 Jun 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798697064221-2e5367dfa0ab7ea5eb5a3a03669f9236?1718327509" />
+        </item>
+        <item>
+            <title>第２０話　語る女と聞く女</title>
+            <link>https://comic-days.com/episode/2550689798667546917</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 09 Jun 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798667546917-9c86507277cd1b841e7fcb2925be2ec5?1717727245" />
+        </item>
+        <item>
+            <title>第１９話　風呂キャンする女</title>
+            <link>https://comic-days.com/episode/2550689798607107520</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 26 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798607107520-fbf49dd39b721893cc483d405196216e?1716510890" />
+        </item>
+        <item>
+            <title>第１８話　三者三様な女</title>
+            <link>https://comic-days.com/episode/2550689798574920731</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 19 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798574920731-922ba6a7d5344be465762e5378d46a66?1715846128" />
+        </item>
+        <item>
+            <title>第１７話　スカウトする女</title>
+            <link>https://comic-days.com/episode/2550689798542987547</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 12 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798542987547-d2898fb0bd21253a1700888758c01a59?1715301899" />
+        </item>
+        <item>
+            <title>第１６話　相変わらずな女</title>
+            <link>https://comic-days.com/episode/2550689798481453345</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Mon, 06 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798481453345-dc9d3e11101571fb7703305d43dde8cd?1714464627" />
+        </item>
+        <item>
+            <title>第１５話　マッサージなのに気持ちよくなっちゃってどうしよう困っちゃうビクンビクンッ女</title>
+            <link>https://comic-days.com/episode/2550689798423350995</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 21 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798423350995-855f1386197ded23195bd39082b34709?1713425113" />
+        </item>
+        <item>
+            <title>第１４話　ＡＶない女</title>
+            <link>https://comic-days.com/episode/2550689798398443821</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 14 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798398443821-f863683ef2e00eed35a79cfc831b26e0?1712883919" />
+        </item>
+        <item>
+            <title>第１３話　借金３００万の女</title>
+            <link>https://comic-days.com/episode/2550689798374124893</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 07 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798374124893-2c649e255d362a3fca51c331dd36b04c?1712220188" />
+        </item>
+        <item>
+            <title>第１２話　ぜ〜んぶ失い女</title>
+            <link>https://comic-days.com/episode/2550689798351831029</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 31 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798351831029-e3dd4b7e7e1f49c6c51b79467142caeb?1711610727" />
+        </item>
+        <item>
+            <title>第１１話　揺蕩う女</title>
+            <link>https://comic-days.com/episode/2550689798327616964</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798327616964-29e1e073e2507b81a536d01a8e947887?1711084203" />
+        </item>
+        <item>
+            <title>第１０話　ロケる女</title>
+            <link>https://comic-days.com/episode/2550689798308651156</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 17 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798308651156-6f4cf8cb0fb557334e2fc4d1d8a78dc7?1710405580" />
+        </item>
+        <item>
+            <title>第９話　意外と気張り女</title>
+            <link>https://comic-days.com/episode/2550689798288761957</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 10 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798288761957-c9911a9c94743690d46d2828995ce632?1709858563" />
+        </item>
+        <item>
+            <title>第８話　測られる女</title>
+            <link>https://comic-days.com/episode/2550668106023397801</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 03 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550668106023397801-1219cadfb031215a414c85814294ce9c?1709275650" />
+        </item>
+        <item>
+            <title>第７話　打ち合わせる女</title>
+            <link>https://comic-days.com/episode/2550668105999990275</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 25 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550668105999990275-e28d49df1a588e996453d90d620dfeb9?1708577739" />
+        </item>
+        <item>
+            <title>第６話　企画される女</title>
+            <link>https://comic-days.com/episode/2550668105982572445</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 18 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550668105982572445-c2a654cb1c08379ad78e7830e6ac7f16?1708062797" />
+        </item>
+        <item>
+            <title>第５話　待つ女と会う女</title>
+            <link>https://comic-days.com/episode/11341664176588008094</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Thu, 08 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/11341664176588008094-badee69efd557f5e28cdfe03a6611565?1707354578" />
+        </item>
+        <item>
+            <title>第４話　ポストする女</title>
+            <link>https://comic-days.com/episode/11341664176570124745</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 04 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/11341664176570124745-d6179db6b4b3c69016f61145fd949018?1706776738" />
+        </item>
+        <item>
+            <title>第３話　神特典の女</title>
+            <link>https://comic-days.com/episode/10044607041237187465</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 28 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/10044607041237187465-94c4a8477456e46747372ddbc5931285?1706170822" />
+        </item>
+        <item>
+            <title>第２話　２８７０円の女</title>
+            <link>https://comic-days.com/episode/10044607041217465806</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 21 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/10044607041217465806-883f7e8d40caee53cef9df1ab251bff2?1705564815" />
+        </item>
+        <item>
+            <title>第１話　平成に負けた女</title>
+            <link>https://comic-days.com/episode/10044607041217465801</link>
+            <description>平成敗残兵☆すみれちゃん</description>
+            <pubDate>Sun, 21 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/10044607041217465801-d392c87250ed38ad1e843b6eefa07fa6?1705564805" />
+        </item>
+        <item>
+            <title>【コミックDAYS読み切り】魔女と結婚なんてするもんじゃない！</title>
+            <link>https://comic-days.com/episode/2550689798419751630</link>
+            <description>魔女と結婚なんてするもんじゃない！</description>
+            <pubDate>Mon, 06 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798419751630-efb8b57c858c16e9d7e4b10c1d562619?1714451506" />
+        </item>
+        <item>
+            <title>【コミックDAYS読み切り】弟の俤</title>
+            <link>https://comic-days.com/episode/2550689798419751619</link>
+            <description>弟の俤</description>
+            <pubDate>Mon, 06 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798419751619-75276d87ca710ad3dcb0e61c8a333b4f?1714452084" />
+        </item>
+        <item>
+            <title>[第3話]馬刺しが食べたい</title>
+            <link>https://shonenjumpplus.com/episode/17106371856917141601</link>
+            <description>馬刺しが食べたい</description>
+            <pubDate>Mon, 13 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371856917141601-9ea3938d477113a94111f2d8c28f594a?1725590407" />
+        </item>
+        <item>
+            <title>[第2話]馬刺しが食べたい</title>
+            <link>https://shonenjumpplus.com/episode/17106371853328137276</link>
+            <description>馬刺しが食べたい</description>
+            <pubDate>Mon, 06 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853328137276-aef139f1dd70f95b593a070a632a3571?1725590403" />
+        </item>
+        <item>
+            <title>[第1話]馬刺しが食べたい</title>
+            <link>https://shonenjumpplus.com/episode/17106371853177785749</link>
+            <description>馬刺しが食べたい</description>
+            <pubDate>Mon, 29 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853177785749-ef8ba8a396f31c327808cd0f0da5eaf2?1725590398" />
+        </item>
+        <item>
+            <title>[第16話②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965383881266</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965383881266-454f1922b017f432efdb62a9717110a9?1741244760" />
+        </item>
+        <item>
+            <title>[第16話①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965317011001</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965317011001-71ff4e89bb23cf14ddd7d05efbc69b5e?1740027330" />
+        </item>
+        <item>
+            <title>[第15.5話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965250177436</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965250177436-dddbd881ef13e66ffc54fc6e5b79f885?1738813257" />
+        </item>
+        <item>
+            <title>[第15話③] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965176535043</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 24 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965176535043-8028dfd985e26e7940cf14bf64af8e00?1737520179" />
+        </item>
+        <item>
+            <title>[第15話②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965122510778</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 10 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965122510778-c9fb7b043bb8f7aced9e28d9ed6e6eac?1736396324" />
+        </item>
+        <item>
+            <title>[第15話①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965035144375</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 27 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965035144375-f484a2da7ce804012c3b03692b7a3075?1735104958" />
+        </item>
+        <item>
+            <title>[第14.5話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965035144371</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 20 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965035144371-df0c97b7e23e051c8fd83351e978f5c5?1734581756" />
+        </item>
+        <item>
+            <title>[第14話②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912965007471395</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 13 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965007471395-5f917308775666b767553e6a2099957b?1733975798" />
+        </item>
+        <item>
+            <title>[第14話①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964978635421</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 06 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964978635421-95bf7e19a2419af024684eb39c60ceb2?1733369456" />
+        </item>
+        <item>
+            <title>[休載イラスト] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964943869997</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 29 Nov 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964943869997-61f876ee78b0f5e19e61892fadecd97d?1732681086" />
+        </item>
+        <item>
+            <title>[第13.5話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964883326185</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 15 Nov 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964883326185-50a53f7f3c13f2a9a25b01273e3cb099?1731471973" />
+        </item>
+        <item>
+            <title>[第13話③] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964823479630</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 01 Nov 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964823479630-5a2f85cbed0f11eec9582e9770903cb5?1730275009" />
+        </item>
+        <item>
+            <title>[第13話②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964769442756</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 18 Oct 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964769442756-9e0fd3aa3949f42758a0625ae0834fe5?1729161636" />
+        </item>
+        <item>
+            <title>[第13話①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964733466493</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 11 Oct 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964733466493-47a4ce905cd9d3ce226015faf7ca167e?1728465727" />
+        </item>
+        <item>
+            <title>[第12.5話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964698356464</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 04 Oct 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964698356464-35af719a7e3286ad100b0936acc34951?1727842797" />
+        </item>
+        <item>
+            <title>[第12話③] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964676688052</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 27 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964676688052-a31550729b8e0abfd319d5ea38a8ef4a?1727333500" />
+        </item>
+        <item>
+            <title>[第12話②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964646080196</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 20 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964646080196-b19ce43564550d70ac8e09468a03adb6?1726719882" />
+        </item>
+        <item>
+            <title>[第12話①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550912964610401883</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 13 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964610401883-86818047293982e1c946b0c8ab3e41f6?1726032153" />
+        </item>
+        <item>
+            <title>[番外編 おまけ⑤] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550689798816034048</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 12 Jul 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798816034048-ba9f50df3aad7cd4b5f5b263325e7e3f?1720510252" />
+        </item>
+        <item>
+            <title>[番外編 おまけ④] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550689798689687273</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 14 Jun 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798689687273-7b3921fa9dfead43e2c4fda7e83a7663?1718190759" />
+        </item>
+        <item>
+            <title>[番外編 おまけ③] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550689798658974233</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 07 Jun 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798658974233-08d88aed49141cbd2963432f811dd892?1717577011" />
+        </item>
+        <item>
+            <title>[番外編 おまけ②] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550689798504883185</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 03 May 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798504883185-407230451d1664779f7d17ec35fe4cb8?1714537149" />
+        </item>
+        <item>
+            <title>[番外編 おまけ①] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/2550689798398454252</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 12 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798398454252-541bcfda18b616755fc20de668943a29?1712725683" />
+        </item>
+        <item>
+            <title>[第2話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/11341664176567077937</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 02 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/11341664176567077937-b2b0c8fcb38507b789f73016d5ab0582?1706607889" />
+        </item>
+        <item>
+            <title>[第1話] あなた達それでも先生ですかっ！</title>
+            <link>https://tonarinoyj.jp/episode/10044607041236939652</link>
+            <description>あなた達それでも先生ですかっ！</description>
+            <pubDate>Fri, 26 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/10044607041236939652-ba5f86f4a03defa225948256d6602644?1706162262" />
+        </item>
+        <item>
+            <title>[第30話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567263957915871</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 02 Mar 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263957915871-3a5862182ecc5f7d9e063d046262a4b0?1740718643" />
+        </item>
+        <item>
+            <title>[第29話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567263566702714</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 16 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263566702714-789db356bf7d142cf316713e7c4b5ce4?1739514944" />
+        </item>
+        <item>
+            <title>[第28話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567263035940459</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 26 Jan 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263035940459-f84d8b51af0d2c67b050a85a2becdecb?1737698715" />
+        </item>
+        <item>
+            <title>[第27話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567262008972270</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 05 Jan 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567262008972270-af7b2beea1a7dd0749cefb5892cf0f9d?1735745141" />
+        </item>
+        <item>
+            <title>[第26話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567261852338516</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 15 Dec 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567261852338516-5ecb49a0272221760c82b6f95de01a83?1734060240" />
+        </item>
+        <item>
+            <title>[第25話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567261425734885</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 01 Dec 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567261425734885-d79e3894bdb894394d1a7b5309993246?1732860458" />
+        </item>
+        <item>
+            <title>[番外編]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106567260965578257</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 17 Nov 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567260965578257-a01079d9fd4ded5ea112dfd51917b833?1731651189" />
+        </item>
+        <item>
+            <title>[第3話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106371853091617569</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 14 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853091617569-dd3f5afbf648c08e53316a49eb8c2ba2?1723610183" />
+        </item>
+        <item>
+            <title>[第2話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106371853091617548</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 14 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853091617548-b923de061572b9cab3c77221a30e851e?1723610183" />
+        </item>
+        <item>
+            <title>[第1話]ルリドラゴン</title>
+            <link>https://shonenjumpplus.com/episode/17106371853091617526</link>
+            <description>ルリドラゴン</description>
+            <pubDate>Sun, 14 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853091617526-8b81f9e8fb88641d0727f1cf153118bb?1723610183" />
+        </item>
+        <item>
+            <title>[44話]ケントゥリア</title>
+            <link>https://shonenjumpplus.com/episode/17106567264132035196</link>
+            <description>ケントゥリア</description>
+            <pubDate>Sun, 09 Mar 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567264132035196-0b74aca24e0deba83c735a961fd7ecdb?1741325919" />
+        </item>
+        <item>
+            <title>[43話]ケントゥリア</title>
+            <link>https://shonenjumpplus.com/episode/17106567263769425277</link>
+            <description>ケントゥリア</description>
+            <pubDate>Sun, 23 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769425277-057ea369b75ac9656580e4aef9a12c31?1740122351" />
+        </item>
+        <item>
+            <title>[イラスト]ケントゥリア</title>
+            <link>https://shonenjumpplus.com/episode/17106371864158169890</link>
+            <description>ケントゥリア</description>
+            <pubDate>Sun, 26 May 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371864158169890-9f9e07f9c1a06646ccd33dd195313a9f?1716530074" />
+        </item>
+        <item>
+            <title>[2話]ケントゥリア</title>
+            <link>https://shonenjumpplus.com/episode/17106371853064374749</link>
+            <description>ケントゥリア</description>
+            <pubDate>Sun, 14 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853064374749-f5edd3cd561a80c110ea54e3be11f6d1?1723610176" />
+        </item>
+        <item>
+            <title>[1話]ケントゥリア</title>
+            <link>https://shonenjumpplus.com/episode/17106371852950440097</link>
+            <description>ケントゥリア</description>
+            <pubDate>Sun, 07 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371852950440097-6395777f45407fcb2d3b255e9bd62c6c?1723610172" />
+        </item>
+        <item>
+            <title>大怪獣ガニラ対魔法少女リリカル・アカリ／2024年2月期JUMP新世界漫画賞</title>
+            <link>https://shonenjumpplus.com/episode/17106371853177784028</link>
+            <description>大怪獣ガニラ対魔法少女リリカル・アカリ／2024年2月期JUMP新世界漫画賞</description>
+            <pubDate>Sun, 21 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853177784028-639676ab1f1eea1e965ed10981c4de43?1713491407" />
+        </item>
+        <item>
+            <title>第１８話　ペアレッグレイズ</title>
+            <link>https://comic-days.com/episode/4856001361394839234</link>
+            <description>甘やかしてくれるジムのお姉さん</description>
+            <pubDate>Thu, 16 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361394839234-f7b17a69a09f113f8220477b51bfb1ae?1736819417" />
+        </item>
+        <item>
+            <title>第１７話　自律神経を整えるストレッチ</title>
+            <link>https://comic-days.com/episode/4856001361394839217</link>
+            <description>甘やかしてくれるジムのお姉さん</description>
+            <pubDate>Thu, 19 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361394839217-a7884d9b96b1f1d6a3a308a422d043ca?1734337812" />
+        </item>
+        <item>
+            <title>第２話　背筋</title>
+            <link>https://comic-days.com/episode/4856001361394839080</link>
+            <description>甘やかしてくれるジムのお姉さん</description>
+            <pubDate>Wed, 20 Sep 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361394839080-430449823510052586bfcc650821debb?1694581616" />
+        </item>
+        <item>
+            <title>第１話　腹筋</title>
+            <link>https://comic-days.com/episode/4856001361394839073</link>
+            <description>甘やかしてくれるジムのお姉さん</description>
+            <pubDate>Wed, 16 Aug 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361394839073-d19dff3329f18258e9118c413cdf1818?1691570411" />
+        </item>
+        <item>
+            <title>第十九夜　ぬいぐるみ夜咄②</title>
+            <link>https://comic-days.com/episode/2550912964913939658</link>
+            <description>冥冥冥色聖域</description>
+            <pubDate>Sun, 24 Nov 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964913939658-26afba3b4c71607bc6f9420c30ee51fc?1732093006" />
+        </item>
+        <item>
+            <title>第十九夜　ぬいぐるみ夜咄①</title>
+            <link>https://comic-days.com/episode/2550912964913939651</link>
+            <description>冥冥冥色聖域</description>
+            <pubDate>Sun, 24 Nov 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964913939651-1a39d1609e531d87db28bd00de3e6edc?1732093004" />
+        </item>
+        <item>
+            <title>第一夜　彗星蟲</title>
+            <link>https://comic-days.com/episode/4855956445114370548</link>
+            <description>冥冥冥色聖域</description>
+            <pubDate>Fri, 24 Feb 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445114370548-318ef19183564e72d10ca50084c75b6a?1677817755" />
+        </item>
+        <item>
+            <title>第１話　地底の灯り</title>
+            <link>https://comic-days.com/episode/4855956445114370500</link>
+            <description>地獄のアシタ</description>
+            <pubDate>Fri, 24 Feb 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445114370500-de56552fb55e292ffe41d51ce5caed4a?1677817751" />
+        </item>
+        <item>
+            <title>地雷系武士道</title>
+            <link>https://shonenjumpplus.com/episode/17106371853064384258</link>
+            <description>地雷系武士道</description>
+            <pubDate>Fri, 19 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853064384258-a9b76f59cb2f0cde11f4382de8487510?1713331204" />
+        </item>
+        <item>
+            <title>ペタルの身体/2022年11月期ブロンズルーキー賞</title>
+            <link>https://shonenjumpplus.com/episode/316190247045874160</link>
+            <description>ペタルの身体/2022年11月期ブロンズルーキー賞</description>
+            <pubDate>Sat, 24 Dec 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/316190247045874160-a2fe9329f28ded6239d4e2ee26fa857e?1711562797" />
+        </item>
+        <item>
+            <title>終末にメリーさん</title>
+            <link>https://kuragebunch.com/episode/2550689798424168380</link>
+            <description>終末にメリーさん</description>
+            <pubDate>Fri, 19 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550689798424168380-fd15c1cbe53b51e555b24e68a3b994e1?1713337291" />
+        </item>
+        <item>
+            <title>第2巻宣伝話</title>
+            <link>https://comic-days.com/episode/2550912965222334583</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965222334583-5aa87c3339d2a052c4dbf27e7cbaa3bc?1740979706" />
+        </item>
+        <item>
+            <title>第１１話（後編）　進化人類は「ト」も難なくこなす</title>
+            <link>https://comic-days.com/episode/2550689798358217192</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798358217192-65c51baa0d3b886ec71beb77e323153c?1738311205" />
+        </item>
+        <item>
+            <title>第１１話（前編）　進化人類は「ト」も難なくこなす</title>
+            <link>https://comic-days.com/episode/2550689798358217186</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 17 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798358217186-5cf553fded594ce370eab882381cfc00?1736479330" />
+        </item>
+        <item>
+            <title>第1巻発売記念むちまろ先生特別寄稿イラスト</title>
+            <link>https://comic-days.com/episode/2550912964546625206</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 20 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964546625206-aae1333a95601970a7cfa440bfc0bcb5?1726117574" />
         </item>
         <item>
             <title>第２話</title>
-            <link>https://comic-days.com/episode/2550912964611244532</link>
-            <description>邪神の弁当屋さん</description>
-            <pubDate>Wed, 02 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964611244532-6bd58d17ce2dc151208eb1048644ac18?1727656993" />
+            <link>https://comic-days.com/episode/2550689798358217097</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 19 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798358217097-1bcb561920ee985abe9ad6da4f24b923?1713427690" />
         </item>
         <item>
             <title>第１話</title>
-            <link>https://comic-days.com/episode/2550912964611244527</link>
-            <description>邪神の弁当屋さん</description>
-            <pubDate>Wed, 02 Oct 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964611244527-c4e7aa4945a2d668dbc33821511be388?1727656970" />
+            <link>https://comic-days.com/episode/2550689798358217091</link>
+            <description>やっぱ人間やめて正解だわ</description>
+            <pubDate>Fri, 19 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798358217091-dafd0b863f4d3751180c047fd8e4f660?1713427690" />
         </item>
         <item>
-            <title>みなしごの長い夜</title>
-            <link>https://shonenjumpplus.com/episode/17106567255536398332</link>
-            <description>みなしごの長い夜</description>
-            <pubDate>Fri, 27 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255536398332-28667e92175008465c6a052a3a08e42a?1727314031" />
+            <title>宙/2024年3月期ブロンズルーキー賞</title>
+            <link>https://shonenjumpplus.com/episode/17106371853189910083</link>
+            <description>宙/2024年3月期ブロンズルーキー賞</description>
+            <pubDate>Thu, 18 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371853189910083-b0b5a7b9e4173be1bfe62bdc86f7da12?1713408030" />
         </item>
         <item>
-            <title>[特別読切] 夢に見るイモウト</title>
-            <link>https://tonarinoyj.jp/episode/2550912964676688022</link>
-            <description>夢に見るイモウト</description>
-            <pubDate>Fri, 27 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964676688022-a9ad33c8bbe063b463ad1217862c5418?1727329553" />
+            <title>第１話　推す!!! 推す!!! バッチバチに推す!!!</title>
+            <link>https://comic-days.com/episode/316190247079503797</link>
+            <description>俺の初恋の人が兄とフラグを立てまくってつらい</description>
+            <pubDate>Wed, 18 Jan 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/316190247079503797-65bfccead5f5256cd3c75129b07e660f?1673593073" />
         </item>
         <item>
-            <title>[10Pショート読切] 姉さんのトモダチに屈しない</title>
-            <link>https://tonarinoyj.jp/episode/2550912964518305632</link>
-            <description>姉さんのトモダチに屈しない</description>
-            <pubDate>Thu, 12 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964518305632-28b7a7b7f6756e0dca67e2d890554078?1725872945" />
+            <title>休載イラスト⑥</title>
+            <link>https://comic-days.com/episode/2550689798702851430</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 14 Aug 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798702851430-81e8d4bfb4d2935786aac496ef5a466f?1726818859" />
         </item>
         <item>
-            <title>[10Pショート読切] カノジョ・オブ・ザ・デッド</title>
-            <link>https://tonarinoyj.jp/episode/2550912964638137224</link>
-            <description>カノジョ・オブ・ザ・デッド</description>
-            <pubDate>Sat, 21 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137224-bd1e53f809ef3e6a501b7c10ab77591e?1726640263" />
+            <title>休載イラスト⑤</title>
+            <link>https://comic-days.com/episode/2550689798547233546</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 15 May 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798547233546-3ac2a64abb771c60f47fbff02adb98d9?1715647791" />
         </item>
         <item>
-            <title>[10Pショート読切] ふえるカノジョ</title>
-            <link>https://tonarinoyj.jp/episode/2550912964638137230</link>
-            <description>ふえるカノジョ</description>
+            <title>休載イラスト④</title>
+            <link>https://comic-days.com/episode/2550689798371728124</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 10 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798371728124-60fd278569d5042a041405dde2411004?1712283903" />
+        </item>
+        <item>
+            <title>休載イラスト③</title>
+            <link>https://comic-days.com/episode/10044607041237070606</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 07 Feb 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/10044607041237070606-de2ce7db0e51d10cb66ae54021b13480?1706849789" />
+        </item>
+        <item>
+            <title>休載イラスト②</title>
+            <link>https://comic-days.com/episode/14079602755582500026</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 03 Jan 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755582500026-8d1c056fdd7f498f48e8d71769676fc9?1703487985" />
+        </item>
+        <item>
+            <title>休載イラスト①</title>
+            <link>https://comic-days.com/episode/14079602755372533178</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 08 Nov 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755372533178-3b1e45891c59aa29e5f9fcec966f0fc5?1699237777" />
+        </item>
+        <item>
+            <title>第２０話　見たいものがあるならば</title>
+            <link>https://comic-days.com/episode/4856001361114746364</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 06 Sep 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746364-90e41fc7791683313c8e9a6133ebe3e1?1693551959" />
+        </item>
+        <item>
+            <title>第１９話　本物の…</title>
+            <link>https://comic-days.com/episode/4856001361114746358</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 30 Aug 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746358-757b24ec2fe5d00817968351e0e52944?1693188689" />
+        </item>
+        <item>
+            <title>第１８話　プシャー！</title>
+            <link>https://comic-days.com/episode/4856001361114746353</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 23 Aug 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746353-6c0909c3ee13a32b6ebed09ef8472fbb?1692682780" />
+        </item>
+        <item>
+            <title>第１７話　日本一の頂</title>
+            <link>https://comic-days.com/episode/4856001361114746347</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 16 Aug 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746347-2bb337b5c3c1635ff9cdeea6c8499ee8?1691641588" />
+        </item>
+        <item>
+            <title>第１６話　一緒に検品しよ</title>
+            <link>https://comic-days.com/episode/4856001361114746339</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 09 Aug 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746339-e997fca439d72224b51c454c7762ffdf?1691136937" />
+        </item>
+        <item>
+            <title>第１５話　レモン畑のように</title>
+            <link>https://comic-days.com/episode/4856001361114746333</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 02 Aug 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746333-a73ed4c4b8949531f129454773144e7b?1690765761" />
+        </item>
+        <item>
+            <title>第１４話　シュレディンガーのおっぱい</title>
+            <link>https://comic-days.com/episode/4856001361114746325</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 26 Jul 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746325-f1da74f4af66b42b9e79f8cc1ecb88a9?1690170432" />
+        </item>
+        <item>
+            <title>第１３話　エロい女</title>
+            <link>https://comic-days.com/episode/4856001361114746318</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 19 Jul 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746318-855d18154fab17c921b130abad0e9c4f?1689237519" />
+        </item>
+        <item>
+            <title>第１２話　我慢の限界！</title>
+            <link>https://comic-days.com/episode/4856001361114746313</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 12 Jul 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746313-7f44f75d8dcc98e0948ea5c035671a69?1688956004" />
+        </item>
+        <item>
+            <title>第１１話　ぱんつくった！</title>
+            <link>https://comic-days.com/episode/4856001361114746308</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 05 Jul 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746308-58147110aef57ef0d6b3e2fa0e8f0459?1688110879" />
+        </item>
+        <item>
+            <title>第１０話　大先輩だあぁ</title>
+            <link>https://comic-days.com/episode/4856001361114746300</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 28 Jun 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746300-590f6f23f071afb9591f5cf48472520f?1687397054" />
+        </item>
+        <item>
+            <title>第９話　みんな大好き</title>
+            <link>https://comic-days.com/episode/4856001361114746294</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 21 Jun 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746294-88b867fff283009599ef23d08277bdb3?1686817183" />
+        </item>
+        <item>
+            <title>第８話　本物だぁ！</title>
+            <link>https://comic-days.com/episode/4856001361114746287</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 14 Jun 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746287-42bc2c4341b4df072d6c184a45c92eb4?1686286459" />
+        </item>
+        <item>
+            <title>第７話　らぶほ</title>
+            <link>https://comic-days.com/episode/4856001361114746281</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 07 Jun 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746281-4280653adfe114fe3578f63cb43462f0?1685688193" />
+        </item>
+        <item>
+            <title>第６話　よるのお仕事</title>
+            <link>https://comic-days.com/episode/4856001361114746269</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 24 May 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746269-16cda67761f5cbdaacac284135586e0c?1684460360" />
+        </item>
+        <item>
+            <title>第５話　ベンチプレス</title>
+            <link>https://comic-days.com/episode/4856001361114746257</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 10 May 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746257-fcac564fe94a702e6c81f7dec19f3c69?1683511775" />
+        </item>
+        <item>
+            <title>第４話　トレイントレイン</title>
+            <link>https://comic-days.com/episode/4856001361114746248</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 03 May 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746248-7fb15cdd86a311427a3a83e4aaec4c63?1682654208" />
+        </item>
+        <item>
+            <title>第３話　パンパンだぁ</title>
+            <link>https://comic-days.com/episode/4856001361114746241</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 26 Apr 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746241-62d095f90e4dec70b25641db8c124898?1682315773" />
+        </item>
+        <item>
+            <title>第２話　立てません</title>
+            <link>https://comic-days.com/episode/4856001361114746235</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 19 Apr 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746235-13fa4bc81118b7c7841697052aba5920?1681712292" />
+        </item>
+        <item>
+            <title>第１話　おっっっぱい！</title>
+            <link>https://comic-days.com/episode/4856001361114746228</link>
+            <description>阿南さんは出会って3秒で合体したい！</description>
+            <pubDate>Wed, 19 Apr 2023 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361114746228-5eeb49c34d7105975456cccf300826a2?1681712086" />
+        </item>
+        <item>
+            <title>第２０話　彼女に責めてもらいませんか？</title>
+            <link>https://comic-days.com/episode/2550689798324344460</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 23 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798324344460-eba241547758efd62cd8ae721cb37f74?1739865807" />
+        </item>
+        <item>
+            <title>第１９話　彼女と剃毛プレイしてみませんか？</title>
+            <link>https://comic-days.com/episode/2550689798324344455</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 09 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798324344455-4be06baba442bf52f4af79cb85d42cf2?1738309977" />
+        </item>
+        <item>
+            <title>おまけ④</title>
+            <link>https://comic-days.com/episode/2550912964883308187</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 01 Dec 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964883308187-d0d1d1ab4fbe288d06b9d454ce0f9388?1732166527" />
+        </item>
+        <item>
+            <title>おまけ③</title>
+            <link>https://comic-days.com/episode/2550912964773155340</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 03 Nov 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964773155340-8c83c92163c885ca7e0bd08085b9d395?1729754304" />
+        </item>
+        <item>
+            <title>おまけ②</title>
+            <link>https://comic-days.com/episode/2550689798847269410</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
             <pubDate>Sun, 22 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137230-005d706f943941c126bc30f69314366a?1726830377" />
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798847269410-dcf84e7fa3d16c50b2228054a10891d1?1726622480" />
         </item>
         <item>
-            <title>うんメイ</title>
-            <link>https://www.sunday-webry.com/episode/2550912964579096288</link>
-            <description>うんメイ</description>
-            <pubDate>Fri, 20 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964579096288-c9304fa281e027e91659ca5f194acf59?1725858757" />
+            <title>おまけ①</title>
+            <link>https://comic-days.com/episode/2550689798658893833</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 16 Jun 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798658893833-135afacdc079662f6185c88fe2231a80?1717986129" />
         </item>
         <item>
-            <title>モルモットの神絵師</title>
-            <link>https://shonenjumpplus.com/episode/17106567255043893523</link>
-            <description>モルモットの神絵師</description>
-            <pubDate>Wed, 11 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255043893523-42f5662bb7f2d15753642aabe7fcad1f?1726130859" />
+            <title>第２話　夫婦でSMラブホ行ってみませんか？</title>
+            <link>https://comic-days.com/episode/2550689798324344352</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 07 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798324344352-bf1ca53d54e53976b6b9f79a3c95ac6f?1712034064" />
         </item>
         <item>
-            <title>[第18話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567263769428640</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 28 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769428640-3112423000798074a9c8e55b16e887ab?1740559040" />
+            <title>第１話　夫婦でハメ撮りしてみませんか？</title>
+            <link>https://comic-days.com/episode/2550689798324344347</link>
+            <description>あぶらぶ　夫婦でアブノーマルなラブしませんか？</description>
+            <pubDate>Sun, 07 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798324344347-26e993c24516d051061e5927673dc786?1712034040" />
         </item>
         <item>
-            <title>[第17話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567263431751558</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 14 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263431751558-a2c67a4aa7da7ac680033d93009cdefc?1739518032" />
+            <title>結婚まであと○センチ。</title>
+            <link>https://shonenjumpplus.com/episode/17106371852950536030</link>
+            <description>結婚まであと○センチ。</description>
+            <pubDate>Sat, 13 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371852950536030-0abaad39684ed48a6f873dbea79d42df?1712806029" />
         </item>
         <item>
-            <title>[第16話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567263035943645</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 31 Jan 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263035943645-98befcbf2336871a11c3432aaa603b2c?1738137780" />
+            <title>第２０話　ママ友の会</title>
+            <link>https://comic-days.com/episode/2550689798371340974</link>
+            <description>タワマンで不幸にならない方法</description>
+            <pubDate>Sat, 01 Feb 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798371340974-bcd740608948b6aeae93704ac67d0f18?1738224812" />
         </item>
         <item>
-            <title>[第5話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567255482963167</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 04 Oct 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255482963167-175dcc4308eb64b0ea879ba37016d6f4?1727851732" />
+            <title>第１９話　特訓</title>
+            <link>https://comic-days.com/episode/2550689798371340964</link>
+            <description>タワマンで不幸にならない方法</description>
+            <pubDate>Sat, 18 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798371340964-c8bb558ab596ee1a15d037cb48fb4a94?1737009808" />
         </item>
         <item>
-            <title>[第4話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567255513408235</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 27 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255513408235-7874a5d52246ba9e5fb2941d7c4d22de?1727314030" />
+            <title>おまけイラスト</title>
+            <link>https://comic-days.com/episode/2550912964948174096</link>
+            <description>タワマンで不幸にならない方法</description>
+            <pubDate>Sat, 04 Jan 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964948174096-7d1a869bed2f3576df1cabd8afea3062?1734920909" />
         </item>
         <item>
-            <title>[第1話・第2話・第3話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17106567255038009351</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 20 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255038009351-9fe734ecdb1a33e27234dc4a58d125d6?1726635017" />
+            <title>第２話　私の生き方①</title>
+            <link>https://comic-days.com/episode/2550689798371340826</link>
+            <description>タワマンで不幸にならない方法</description>
+            <pubDate>Sat, 13 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798371340826-332cb4d253dbc15585c7369ac31b370f?1712549328" />
         </item>
         <item>
-            <title>第10話 いべんと！</title>
-            <link>https://comic-action.com/episode/2550912965379111324</link>
-            <description>本日の卜部さんと</description>
-            <pubDate>Tue, 11 Mar 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965379111324-4352c7826db72d48d0512359a0a9b942?1741160100" />
+            <title>第１話　ついに見つけた！</title>
+            <link>https://comic-days.com/episode/2550689798371340821</link>
+            <description>タワマンで不幸にならない方法</description>
+            <pubDate>Sat, 13 Apr 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798371340821-00bcdbdf953574cf2176d4d8b41bbc88?1712549299" />
         </item>
         <item>
-            <title>第9話 日常、ときどき雨</title>
-            <link>https://comic-action.com/episode/2550912965119032381</link>
-            <description>本日の卜部さんと</description>
-            <pubDate>Tue, 11 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965119032381-6c86a824df2f9de41b1ff2dd58a76704?1738739154" />
+            <title>第57話 夢のような時間</title>
+            <link>https://www.sunday-webry.com/episode/2550912965382757201</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 06 Mar 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965382757201-c3395af4dac3d8ea95fca85d0db2afa8?1741224146" />
         </item>
         <item>
-            <title>第1話 卜部ハルナ、先輩</title>
-            <link>https://comic-action.com/episode/2550689798603162862</link>
-            <description>本日の卜部さんと</description>
-            <pubDate>Tue, 28 May 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798603162862-60766d48895bd4847f07f45dce115616?1716359137" />
+            <title>第56話 あげたいもの</title>
+            <link>https://www.sunday-webry.com/episode/2550912965316363294</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 20 Feb 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965316363294-1e563980700b7c08104aaf382f0f9a23?1740015755" />
         </item>
         <item>
-            <title>イラスト</title>
-            <link>https://comic-action.com/episode/2550912964824051261</link>
-            <description>よくばれ！ 人間さん</description>
-            <pubDate>Tue, 05 Nov 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912964824051261-272050ca6896b1239dfa27798ff7ca9e?1730265857" />
+            <title>おまけイラスト リクならいいよ</title>
+            <link>https://www.sunday-webry.com/episode/2550689798759422071</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 27 Jun 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798759422071-4cf87d4a398ac23b04d2f59712c57636?1720159785" />
         </item>
         <item>
-            <title>第4話 取り立て！ 大家さん</title>
-            <link>https://comic-action.com/episode/2550689798352196446</link>
-            <description>よくばれ！ 人間さん</description>
-            <pubDate>Tue, 16 Apr 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798352196446-d977ed7c3f34dc158132b6ce48b94160?1712721270" />
+            <title>シャワールームでの気付き</title>
+            <link>https://www.sunday-webry.com/episode/2550689798333900384</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 21 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798333900384-acc97536797b6912783ce8ec03c615b8?1711070771" />
         </item>
         <item>
-            <title>第3話 ポスト開けろ！ 人間さん</title>
-            <link>https://comic-action.com/episode/2550689798352196442</link>
-            <description>よくばれ！ 人間さん</description>
-            <pubDate>Tue, 02 Apr 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798352196442-ba37521f4563d55c9f6778d2099c0423?1711514490" />
+            <title>おまけ うみみは◯◯◯◯</title>
+            <link>https://www.sunday-webry.com/episode/14079602755202739834</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 14 Sep 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755202739834-f45c2d16c5683948c1677e1461c9a067?1696040971" />
         </item>
         <item>
-            <title>第2話 働きたくない！ 人間さん</title>
-            <link>https://comic-action.com/episode/2550689798308133913</link>
-            <description>よくばれ！ 人間さん</description>
-            <pubDate>Tue, 19 Mar 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798308133913-7d168b793d6dcd8da803e60413afa656?1710737844" />
+            <title>おまけ</title>
+            <link>https://www.sunday-webry.com/episode/4856001361318161228</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 08 Jun 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361318161228-0e15aae509310f5f88c3190a2c82a251?1686210108" />
         </item>
         <item>
-            <title>第1話 天使と悪魔と人間さん</title>
-            <link>https://comic-action.com/episode/2550689798308133909</link>
-            <description>よくばれ！ 人間さん</description>
-            <pubDate>Tue, 19 Mar 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798308133909-568d6fc5c977904b7f0d566ed287a0b8?1710737836" />
+            <title>おまけ</title>
+            <link>https://www.sunday-webry.com/episode/4855956445074933792</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 09 Feb 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4855956445074933792-755bf5cef03e3bcf9b91cfb2bb9f9a81?1686210108" />
         </item>
         <item>
-            <title>第60話 それはだめでしょ、堀田先生</title>
-            <link>https://comic-action.com/episode/2550912965245946514</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965245946514-f0f056fd62a3c2b6b8c5f4570b829be6?1739953496" />
+            <title>第8話 元カノ今カノ</title>
+            <link>https://www.sunday-webry.com/episode/316190247113123350</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 19 Jan 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190247113123350-a0b60786016e32aa1ddeaff0a3d61122?1718856097" />
         </item>
         <item>
-            <title>第59話 目が離せません、堀田先生</title>
-            <link>https://comic-action.com/episode/2550912965178051152</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965178051152-54f29c07ba3f5c62b731753d8def015f?1738729304" />
+            <title>第7話 伊波うみみ</title>
+            <link>https://www.sunday-webry.com/episode/316190247042536068</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 22 Dec 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190247042536068-d0a809947b6dab7101420c6e0b410922?1718856097" />
         </item>
         <item>
-            <title>第3話 強引すぎます、堀田先生</title>
-            <link>https://comic-action.com/episode/4856001361263659969</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 26 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/4856001361263659969-cc84dca68386a064445f7b0f014175ed?1725434406" />
+            <title>第6話 もう一回</title>
+            <link>https://www.sunday-webry.com/episode/316190247018695834</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 08 Dec 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190247018695834-2c1c73550a83d681e4e4db3a69e77af7?1718856097" />
         </item>
         <item>
-            <title>第2話 隠してください、堀田先生</title>
-            <link>https://comic-action.com/episode/4856001361263659956</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 26 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/4856001361263659956-e75d87636b742302cf16ffcd679e81c8?1725434406" />
+            <title>第5話 「私のせいで」</title>
+            <link>https://www.sunday-webry.com/episode/316190246989794600</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 24 Nov 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246989794600-fa32986a9bbd8bda25675d4a8967c242?1718856097" />
         </item>
         <item>
-            <title>第1話 はじめまして、堀田先生</title>
-            <link>https://comic-action.com/episode/4856001361263659941</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 26 May 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/4856001361263659941-517dcc13b7412a81b2de9fb9dc0b3cda?1725434406" />
+            <title>第4話 かくれんぼ</title>
+            <link>https://www.sunday-webry.com/episode/316190246910994415</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 10 Nov 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246910994415-fd33bcf21c578e08dd8107d695fdfce2?1718856097" />
         </item>
         <item>
-            <title>[10Pショート読切] みそひともじもじ</title>
-            <link>https://tonarinoyj.jp/episode/2550912964588552037</link>
-            <description>みそひともじもじ</description>
-            <pubDate>Tue, 17 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964588552037-40e516fa771c03de335b0193288c40a4?1726127453" />
+            <title>第3話 秘密基地</title>
+            <link>https://www.sunday-webry.com/episode/316190246910994411</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 27 Oct 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246910994411-32029ca195f1204c602cd0e9febf046d?1686210108" />
         </item>
         <item>
-            <title>聞き耳</title>
-            <link>https://www.sunday-webry.com/episode/2550912964619301273</link>
-            <description>聞き耳</description>
-            <pubDate>Sun, 15 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964619301273-46d2ee5f4e4fa9ed9bedee8363278d7b?1726195890" />
+            <title>第2話 「したいの？」</title>
+            <link>https://www.sunday-webry.com/episode/316112896925392755</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 13 Oct 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316112896925392755-9d48343261493f4a84ff622b20c437ec?1686210108" />
         </item>
         <item>
-            <title>第9話 アブソリュート・ゼロの開発</title>
-            <link>https://comic-action.com/episode/2550912965245946444</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 07 Mar 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965245946444-633871001fdfefe3c07c8e2b16d59c97?1741161605" />
+            <title>第1話 「始まりの日」</title>
+            <link>https://www.sunday-webry.com/episode/316112896879947791</link>
+            <description>アイツノカノジョ</description>
+            <pubDate>Thu, 29 Sep 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316112896879947791-cc744a5c836fdcee5fa17584fb9bbd60?1686210108" />
         </item>
         <item>
-            <title>第8話 火花</title>
-            <link>https://comic-action.com/episode/2550912965178051186</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 07 Feb 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965178051186-79167d27d40d44be9872d470ae0b20f0?1738729118" />
+            <title>第63話 仙女・蝶月</title>
+            <link>https://www.sunday-webry.com/episode/2550912965377855200</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965377855200-ae81b42f1ea2359399621019a58960af?1741136845" />
         </item>
         <item>
-            <title>番外編</title>
-            <link>https://comic-action.com/episode/2550912965000209222</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 24 Jan 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550912965000209222-28e20e756ca7b348dce9bb7c7408027a?1737514060" />
+            <title>外伝2 8巻発売記念描き下ろしエピソード！</title>
+            <link>https://www.sunday-webry.com/episode/2550668105988226519</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Sun, 18 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550668105988226519-d9cacbb5b361836a0bc154615c1625c5?1709693993" />
         </item>
         <item>
-            <title>第2話 拝啓、ゴードン</title>
-            <link>https://comic-action.com/episode/2550689798660283253</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 05 Jul 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798660283253-1cf35d4846af58e91e4a74a1c9934dd9?1719899401" />
+            <title>外伝1  7巻発売記念描き下ろしエピソード！</title>
+            <link>https://www.sunday-webry.com/episode/14079602755104722836</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Thu, 17 Aug 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755104722836-69a972348ed60acb81406dedce3991ef?1709693993" />
         </item>
         <item>
-            <title>第1話 邂逅</title>
-            <link>https://comic-action.com/episode/2550689798660283246</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 07 Jun 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798660283246-e870bf8d7991556ef19aebf3539122f9?1717663331" />
+            <title>第3話 悟空は女王様</title>
+            <link>https://www.sunday-webry.com/episode/3269754496551508642</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Wed, 25 Nov 2020 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/3269754496551508642-80b09e4a67f422df18bc17bf6a31bf28?1634727098" />
         </item>
         <item>
-            <title>[10Pショート読切] シスター、罪メシを喰う。</title>
-            <link>https://tonarinoyj.jp/episode/2550912964588552024</link>
-            <description>シスター、罪メシを喰う。</description>
-            <pubDate>Sat, 14 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964588552024-7d5828c0765f89c009771b7b1d07357a?1726040434" />
+            <title>第2話 アルティメット玄奘</title>
+            <link>https://www.sunday-webry.com/episode/3269754496551508639</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Wed, 11 Nov 2020 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/3269754496551508639-4e4694cb4fc0877bd6ecf47111767cd2?1634727096" />
         </item>
         <item>
-            <title>今日の10ページ『そして私のマグマは熱くなるよ』ノッツ</title>
-            <link>https://magcomi.com/episode/2550912964518979922</link>
-            <description>【今日の10ページ】そして私のマグマは熱くなるよ</description>
-            <pubDate>Fri, 13 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.magcomi.com/public/episode-thumbnail/2550912964518979922-137a6549139d1c82c079dc424935fb4e?1726135124" />
+            <title>第1話 煩悩退散</title>
+            <link>https://www.sunday-webry.com/episode/3269754496551508634</link>
+            <description>煩悩☆西遊記</description>
+            <pubDate>Wed, 28 Oct 2020 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/3269754496551508634-c12c45e8b01e06e8c1154ec7f868b07c?1634727096" />
         </item>
         <item>
-            <title>[特別読切] お母さんと一緒</title>
-            <link>https://tonarinoyj.jp/episode/2550912964614781652</link>
-            <description>お母さんと一緒</description>
-            <pubDate>Fri, 13 Sep 2024 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964614781652-88ef465a7e8c1fe11b7f5de275703ad2?1726112207" />
+            <title>単行本PR</title>
+            <link>https://www.sunday-webry.com/episode/2550689798285122970</link>
+            <description>乱華ちゃんはビッチになりたい！！</description>
+            <pubDate>Wed, 06 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798285122970-85fe6f0ab0e4e95eb0f9ecb8e02f2a9e?1709602490" />
+        </item>
+        <item>
+            <title>単行本おまけ</title>
+            <link>https://www.sunday-webry.com/episode/14079602755278135533</link>
+            <description>乱華ちゃんはビッチになりたい！！</description>
+            <pubDate>Wed, 04 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755278135533-24d6045d4e5f7788bdb6737ff1379e9a?1696398163" />
+        </item>
+        <item>
+            <title>第3話 ビッチとはじめて</title>
+            <link>https://www.sunday-webry.com/episode/4856001361235302318</link>
+            <description>乱華ちゃんはビッチになりたい！！</description>
+            <pubDate>Wed, 17 May 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361235302318-ba16023cc2d30b3d51de9a83330f8430?1684122138" />
+        </item>
+        <item>
+            <title>第2話 ビッチとストレッチ</title>
+            <link>https://www.sunday-webry.com/episode/4856001361181093106</link>
+            <description>乱華ちゃんはビッチになりたい！！</description>
+            <pubDate>Wed, 03 May 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361181093106-05d81cb35847aee06572cbe54f0f1650?1682576820" />
+        </item>
+        <item>
+            <title>第1話 ビッチの夜明け</title>
+            <link>https://www.sunday-webry.com/episode/4856001361157011009</link>
+            <description>乱華ちゃんはビッチになりたい！！</description>
+            <pubDate>Wed, 19 Apr 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4856001361157011009-e3e48f1e6755fb39d85d567caa2e9581?1681869449" />
+        </item>
+        <item>
+            <title>99. 第89話</title>
+            <link>https://www.sunday-webry.com/episode/2550912964733356597</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 10 Oct 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964733356597-ddd4be3ec51daf50bf218f9137ddd9a9?1728436886" />
+        </item>
+        <item>
+            <title>91. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/2550912964448968969</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 08 Aug 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964448968969-7b9463a81287dbd0064e3a0957257c80?1723015864" />
+        </item>
+        <item>
+            <title>86. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/2550689798790354168</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 04 Jul 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798790354168-b1dcc77253fb31e4f7e13bcfd86b0e94?1719993045" />
+        </item>
+        <item>
+            <title>74. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/2550689798378510353</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 04 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798378510353-1aa34aa65d78f9c6d6f7210b72fd0cfb?1712219719" />
+        </item>
+        <item>
+            <title>69. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/2550689798271559886</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 29 Feb 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798271559886-2c346d88496098bc4552234a2aa8040c?1709194187" />
+        </item>
+        <item>
+            <title>61. 休載イラスト②</title>
+            <link>https://www.sunday-webry.com/episode/14079602755607567432</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 04 Jan 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755607567432-b134a57c669970964ea6ca680d10b56b?1703651776" />
+        </item>
+        <item>
+            <title>60. 休載イラスト①</title>
+            <link>https://www.sunday-webry.com/episode/14079602755602953581</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 28 Dec 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755602953581-d1cb61fc5c573cd2fc439e79b24fbfc7?1703494844" />
+        </item>
+        <item>
+            <title>49. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/14079602755304299850</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 12 Oct 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755304299850-777cf28ca6ce00f7cd5744e2325fdecd?1697016660" />
+        </item>
+        <item>
+            <title>46. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/14079602755198499082</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 14 Sep 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/14079602755198499082-bb2d18e1df3d990a4211befb05e8544a?1694496241" />
+        </item>
+        <item>
+            <title>19. 単行本発売告知イラスト</title>
+            <link>https://www.sunday-webry.com/episode/4855956445112505475</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 23 Feb 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/4855956445112505475-21d072c8d0e97b9220dd22c1abc1ce85?1677043214" />
+        </item>
+        <item>
+            <title>12. 休載イラスト</title>
+            <link>https://www.sunday-webry.com/episode/316190247046451001</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 05 Jan 2023 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190247046451001-bacc7dd136affabe933a6b2d33ae3d51?1672125538" />
+        </item>
+        <item>
+            <title>3. 第3話</title>
+            <link>https://www.sunday-webry.com/episode/316190246951550817</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 10 Nov 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246951550817-bf3ef40a1acf7301abdd0ebc5cf22885?1668063016" />
+        </item>
+        <item>
+            <title>2. 第2話</title>
+            <link>https://www.sunday-webry.com/episode/316190246911320495</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 03 Nov 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246911320495-d6297f44bebd772ae3b72bbf1139ff05?1666836314" />
+        </item>
+        <item>
+            <title>1. 第1話</title>
+            <link>https://www.sunday-webry.com/episode/316190246911320488</link>
+            <description>天才魔女の魔力枯れ</description>
+            <pubDate>Thu, 27 Oct 2022 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/316190246911320488-45dd87fc818f2fe287afb6ad365d30a2?1666836314" />
+        </item>
+        <item>
+            <title>３つの願い</title>
+            <link>https://shonenjumpplus.com/episode/17106371852950440691</link>
+            <description>３つの願い</description>
+            <pubDate>Tue, 09 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371852950440691-c4f3f305e379177ecd51c6d4803929d7?1712561227" />
+        </item>
+        <item>
+            <title>【コミックDAYS読み切り】三木と日野</title>
+            <link>https://comic-days.com/episode/2550689798309072093</link>
+            <description>三木と日野</description>
+            <pubDate>Thu, 04 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798309072093-a249598428e0822b5f639416b1daf326?1711947158" />
+        </item>
+        <item>
+            <title>あなたはジーニアス</title>
+            <link>https://shonenjumpplus.com/episode/17106371852949406935</link>
+            <description>あなたはジーニアス</description>
+            <pubDate>Sat, 06 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371852949406935-62fbd70f6595f19bc62a8f181c6f7b6a?1712044836" />
+        </item>
+        <item>
+            <title>向かいの学校でデスゲームやってるっぽい</title>
+            <link>https://shonenjumpplus.com/episode/17106371852949406914</link>
+            <description>向かいの学校でデスゲームやってるっぽい</description>
+            <pubDate>Fri, 05 Apr 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106371852949406914-d8308a5671a1f5de114c70e5adc28e6c?1712044834" />
+        </item>
+        <item>
+            <title>【コミックDAYS読み切り】ODD FUTURE</title>
+            <link>https://comic-days.com/episode/2550689798274443728</link>
+            <description>ODD FUTURE</description>
+            <pubDate>Sat, 30 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550689798274443728-c25e91e9112470499b80135f6278ff3a?1710489153" />
+        </item>
+        <item>
+            <title>こよりの帰り道</title>
+            <link>https://shonenjumpplus.com/episode/9324103659665487515</link>
+            <description>こよりの帰り道</description>
+            <pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103659665487515-0b8662746d4e57095a4403df2501a546?1711562139" />
+        </item>
+        <item>
+            <title>[特別読切] ギャルななじみはここが好き</title>
+            <link>https://tonarinoyj.jp/episode/2550668106020530981</link>
+            <description>ギャルななじみはここが好き</description>
+            <pubDate>Wed, 20 Mar 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550668106020530981-811faaff502e992804a77fbc9a454f5f?1710827098" />
+        </item>
+        <item>
+            <title>ロストボーイ</title>
+            <link>https://shonenjumpplus.com/episode/9324103658549643587</link>
+            <description>ロストボーイ</description>
+            <pubDate>Tue, 19 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103658549643587-bf10b56ebd42e7a1e878af255a8b97d6?1711562198" />
+        </item>
+        <item>
+            <title>ヒロイン.</title>
+            <link>https://tonarinoyj.jp/episode/2550689798287081420</link>
+            <description>ヒロイン.</description>
+            <pubDate>Mon, 18 Mar 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798287081420-8f80fed0f092469fea301be4559f1a51?1710763903" />
+        </item>
+        <item>
+            <title>異星の新友</title>
+            <link>https://shonenjumpplus.com/episode/9324103658549639896</link>
+            <description>異星の新友</description>
+            <pubDate>Wed, 20 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103658549639896-6de2065d06982251f20c05a4179aff22?1711562190" />
+        </item>
+        <item>
+            <title>あこは天使/2024年2月期ブロンズルーキー賞</title>
+            <link>https://shonenjumpplus.com/episode/9324103658549633048</link>
+            <description>あこは天使/2024年2月期ブロンズルーキー賞</description>
+            <pubDate>Wed, 20 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103658549633048-4a5f4452cb932a1c39fe566878724753?1711562191" />
+        </item>
+        <item>
+            <title>パティスリー・ヘクセン</title>
+            <link>https://tonarinoyj.jp/episode/2550689798287081413</link>
+            <description>パティスリー・ヘクセン</description>
+            <pubDate>Mon, 18 Mar 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550689798287081413-1c6048f7ff634d37777e34a104c7b752?1710147695" />
+        </item>
+        <item>
+            <title>[3話]暗黒デルタ</title>
+            <link>https://shonenjumpplus.com/episode/9324103659665480448</link>
+            <description>暗黒デルタ</description>
+            <pubDate>Sun, 24 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103659665480448-b19327e191a4fae673b7261e07aaa7cc?1723610157" />
+        </item>
+        <item>
+            <title>[2話]暗黒デルタ</title>
+            <link>https://shonenjumpplus.com/episode/9324103655185508993</link>
+            <description>暗黒デルタ</description>
+            <pubDate>Sun, 17 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103655185508993-13fdb826fa94c3042a743c4b268c6658?1723610153" />
+        </item>
+        <item>
+            <title>[1話]暗黒デルタ</title>
+            <link>https://shonenjumpplus.com/episode/9324103625676306533</link>
+            <description>暗黒デルタ</description>
+            <pubDate>Sun, 10 Mar 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9324103625676306533-9f86a96b7f83e3340d454f79e2223028?1723610142" />
         </item>
     </channel>
 </rss>

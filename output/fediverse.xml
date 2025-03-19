@@ -4,13 +4,13 @@
         <title>agg-fediverse</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>fediverse</description>
-        <lastBuildDate>Tue, 18 Mar 2025 20:43:02 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:28:41 +0000</lastBuildDate>
         <item>
-            <title>New note by :blobcat_fun:旧姓斉藤:blobcat_fun:</title>
-            <link>https://misskey.io/notes/a4ja59d144yf0d40</link>
-            <description>:tikutiku_kotoba:</description>
-            <pubDate>Sat, 22 Feb 2025 04:44:29 +0000</pubDate>
-            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.jp/io/c7c98298-96f7-4d5d-ac56-0a88c7b99d63.png" />
+            <title>New note by かごのとり</title>
+            <link>https://misskey.io/notes/a5j3vk57eonz04ku</link>
+            <description />
+            <pubDate>Wed, 19 Mar 2025 06:28:41 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/24028070-0d1b-406d-9552-a825778a3cee.webp" />
         </item>
         <item>
             <title>New note by かごのとり</title>
@@ -25,6 +25,34 @@
             <description>私で童貞捨てたくせに</description>
             <pubDate>Tue, 18 Mar 2025 06:50:29 +0000</pubDate>
             <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/32d60eb1-a549-4ff5-bcfc-74dbe765655c.webp" />
+        </item>
+        <item>
+            <title>New note by シンリスク</title>
+            <link>https://misskey.io/notes/a5iiyesf542t00j4</link>
+            <description>ねるぽよ</description>
+            <pubDate>Tue, 18 Mar 2025 20:43:02 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/88f602e8-3f54-46b9-a28c-b56ceafd3aba.webp?sensitive=true" />
+        </item>
+        <item>
+            <title>New note by シンリスク</title>
+            <link>https://misskey.io/notes/a5h7ui80d7j80a70</link>
+            <description>下塗り塗り　時間かかるぜ</description>
+            <pubDate>Mon, 17 Mar 2025 22:44:18 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/a0ab86ad-26d8-48ef-8605-b2df98443958.webp?sensitive=true" />
+        </item>
+        <item>
+            <title>New note by シンリスク</title>
+            <link>https://misskey.io/notes/a5gz445tk0wp02v0</link>
+            <description>線画終わり</description>
+            <pubDate>Mon, 17 Mar 2025 18:39:50 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/b24ac1e9-3a77-447e-8d9b-635b7216b9cd.webp?sensitive=true" />
+        </item>
+        <item>
+            <title>New note by シンリスク</title>
+            <link>https://misskey.io/notes/a5gvg6hr4nrd0e9u</link>
+            <description>トマトチーズ煮込みうどん</description>
+            <pubDate>Mon, 17 Mar 2025 16:57:14 +0000</pubDate>
+            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/webpublic-6d0e2207-59d2-4355-ae76-0f9e78f6157d.webp?sensitive=true" />
         </item>
         <item>
             <title>New note by 五月雨せつな@C105(日)西め-67b</title>
@@ -173,32 +201,11 @@ https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_465927/</description>
             <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.jp/io/webpublic-bc93702b-f1d0-4bd0-a585-f07399f93fb5.png" />
         </item>
         <item>
-            <title>New note by シンリスク</title>
-            <link>https://misskey.io/notes/a5iiyesf542t00j4</link>
-            <description>ねるぽよ</description>
-            <pubDate>Tue, 18 Mar 2025 20:43:02 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/88f602e8-3f54-46b9-a28c-b56ceafd3aba.webp?sensitive=true" />
-        </item>
-        <item>
-            <title>New note by シンリスク</title>
-            <link>https://misskey.io/notes/a5h7ui80d7j80a70</link>
-            <description>下塗り塗り　時間かかるぜ</description>
-            <pubDate>Mon, 17 Mar 2025 22:44:18 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/a0ab86ad-26d8-48ef-8605-b2df98443958.webp?sensitive=true" />
-        </item>
-        <item>
-            <title>New note by シンリスク</title>
-            <link>https://misskey.io/notes/a5gz445tk0wp02v0</link>
-            <description>線画終わり</description>
-            <pubDate>Mon, 17 Mar 2025 18:39:50 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/b24ac1e9-3a77-447e-8d9b-635b7216b9cd.webp?sensitive=true" />
-        </item>
-        <item>
-            <title>New note by シンリスク</title>
-            <link>https://misskey.io/notes/a5gvg6hr4nrd0e9u</link>
-            <description>トマトチーズ煮込みうどん</description>
-            <pubDate>Mon, 17 Mar 2025 16:57:14 +0000</pubDate>
-            <enclosure length="0" type="image/webp" url="https://media.misskeyusercontent.jp/io/webpublic-6d0e2207-59d2-4355-ae76-0f9e78f6157d.webp?sensitive=true" />
+            <title>New note by :blobcat_fun:旧姓斉藤:blobcat_fun:</title>
+            <link>https://misskey.io/notes/a4ja59d144yf0d40</link>
+            <description>:tikutiku_kotoba:</description>
+            <pubDate>Sat, 22 Feb 2025 04:44:29 +0000</pubDate>
+            <enclosure length="0" type="image/png" url="https://media.misskeyusercontent.jp/io/c7c98298-96f7-4d5d-ac56-0a88c7b99d63.png" />
         </item>
     </channel>
 </rss>

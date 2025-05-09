@@ -4,7 +4,35 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 07 May 2025 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 03:00:00 +0000</lastBuildDate>
+        <item>
+            <title>[10Pショート読切] 姉さんのトモダチに屈しない</title>
+            <link>https://tonarinoyj.jp/episode/2550912964518305632</link>
+            <description>姉さんのトモダチに屈しない</description>
+            <pubDate>Thu, 12 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964518305632-28b7a7b7f6756e0dca67e2d890554078?1725872945" />
+        </item>
+        <item>
+            <title>[10Pショート読切] カノジョ・オブ・ザ・デッド</title>
+            <link>https://tonarinoyj.jp/episode/2550912964638137224</link>
+            <description>カノジョ・オブ・ザ・デッド</description>
+            <pubDate>Sat, 21 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137224-bd1e53f809ef3e6a501b7c10ab77591e?1726640263" />
+        </item>
+        <item>
+            <title>[10Pショート読切] ふえるカノジョ</title>
+            <link>https://tonarinoyj.jp/episode/2550912964638137230</link>
+            <description>ふえるカノジョ</description>
+            <pubDate>Sun, 22 Sep 2024 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912964638137230-005d706f943941c126bc30f69314366a?1726830377" />
+        </item>
+        <item>
+            <title>うんメイ</title>
+            <link>https://www.sunday-webry.com/episode/2550912964579096288</link>
+            <description>うんメイ</description>
+            <pubDate>Fri, 20 Sep 2024 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964579096288-c9304fa281e027e91659ca5f194acf59?1725858757" />
+        </item>
         <item>
             <title>モルモットの神絵師</title>
             <link>https://shonenjumpplus.com/episode/17106567255043893523</link>
@@ -930,6 +958,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798723247048-ec01326c616fea296b234a97ea41ea2e?1718776287" />
         </item>
         <item>
+            <title>[第36話] 生意気なギャル姉を解らせる話</title>
+            <link>https://tonarinoyj.jp/episode/2550912965670882842</link>
+            <description>生意気なギャル姉を解らせる話</description>
+            <pubDate>Fri, 09 May 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965670882842-78fca5b1574944e8407c5969ef813a5b?1746688857" />
+        </item>
+        <item>
             <title>[第35話] 生意気なギャル姉を解らせる話</title>
             <link>https://tonarinoyj.jp/episode/2550912965635360782</link>
             <description>生意気なギャル姉を解らせる話</description>
@@ -1138,244 +1173,6 @@
             <description>物理学少女のタイムループ</description>
             <pubDate>Tue, 02 Jul 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798639213664-01091fd8498a3c54ca41ab015587eff4?1719307542" />
-        </item>
-        <item>
-            <title>第24話 夏の大望</title>
-            <link>https://www.sunday-webry.com/episode/2550912965666761527</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 07 May 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965666761527-e5df2b4dde2df51810d3bc6094267359?1746611182" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time Finale</title>
-            <link>https://www.sunday-webry.com/episode/2550912965602830990</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 23 Apr 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965602830990-853d5a3833d360ff3cc546923089496e?1745480190" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time⑥</title>
-            <link>https://www.sunday-webry.com/episode/2550912965538643647</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 09 Apr 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965538643647-a456ff99913a7ff2a31c095232f6c06a?1744181528" />
-        </item>
-        <item>
-            <title>単行本③巻PRイラスト</title>
-            <link>https://www.sunday-webry.com/episode/2550912965475931924</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 26 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965475931924-b96882188f728bdda13e1cfe5a9f4f4a?1742973758" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time⑤</title>
-            <link>https://www.sunday-webry.com/episode/2550912965442199585</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 19 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965442199585-21e8b97fe316ad38f3f89e7dfc2425e6?1742365352" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time④</title>
-            <link>https://www.sunday-webry.com/episode/2550912965379245901</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 05 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965379245901-80c58d860d49929a4e158da195a45a5e?1741160845" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time③</title>
-            <link>https://www.sunday-webry.com/episode/2550912965279973167</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 12 Feb 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965279973167-f5888789870bac793a9a73f5da86ee3d?1739348823" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time②</title>
-            <link>https://www.sunday-webry.com/episode/2550912965213373722</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 29 Jan 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965213373722-cd9c2b720d2bd9235edd91e48c44eb7a?1738114015" />
-        </item>
-        <item>
-            <title>第3.5話(おまけ) 猫舌</title>
-            <link>https://www.sunday-webry.com/episode/2550689798504444679</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 01 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798504444679-baa930f7bd833736050e25ac16a0fbfc?1744333036" />
-        </item>
-        <item>
-            <title>おまけ漫画 Lunch time①</title>
-            <link>https://www.sunday-webry.com/episode/2550912965149527004</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 15 Jan 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965149527004-cf66388d802897b4868fd6ca9bcf7597?1736928720" />
-        </item>
-        <item>
-            <title>単行本②巻PRイラスト</title>
-            <link>https://www.sunday-webry.com/episode/2550912964914094875</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 20 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964914094875-19ee53cd9c21aa93b095170db80c036b?1741246933" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の大石くん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964883226110</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 13 Nov 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964883226110-122b85eefe5d25d4cb9024e49297fdda?1731462089" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の木更城さん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964823290047</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 30 Oct 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964823290047-3862836a63cc61c3eeeb8ecea6a343b1?1730250411" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の水戸部さん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964730297116</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 09 Oct 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964730297116-1de2a054de42f0ec308878e82e89f616?1728379276" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の火野さん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964672894834</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 25 Sep 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964672894834-9c5f2acdfe355fdece8226aef261a1f3?1727245566" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の月森さん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964547579550</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 28 Aug 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964547579550-1d74d3fc28d5526502c5888de9e5e985?1724828773" />
-        </item>
-        <item>
-            <title>おまけ漫画 隣の席の金瀬さん</title>
-            <link>https://www.sunday-webry.com/episode/2550912964449092314</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964449092314-186c5aa86a8b546b0eb957005ef9c0ab?1723018560" />
-        </item>
-        <item>
-            <title>単行本①巻PRイラスト</title>
-            <link>https://www.sunday-webry.com/episode/2550689798850691656</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 17 Jul 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798850691656-0a9ff6d9c768ec73e90f690267f779d8?1741246917" />
-        </item>
-        <item>
-            <title>第8.5話(おまけ) 滑舌</title>
-            <link>https://www.sunday-webry.com/episode/2550689798819318663</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 10 Jul 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798819318663-020d35130bc287be1652aa35794090a6?1720580743" />
-        </item>
-        <item>
-            <title>第7.5話(おまけ) 饒舌</title>
-            <link>https://www.sunday-webry.com/episode/2550689798753880858</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 26 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798753880858-041680dbe2f9336f20d96f82ffd58954?1719284742" />
-        </item>
-        <item>
-            <title>第6.5話(おまけ) 二枚舌</title>
-            <link>https://www.sunday-webry.com/episode/2550689798693013629</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 12 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798693013629-ad755b06f1b28e6e215d6ebd67d5d863?1718073956" />
-        </item>
-        <item>
-            <title>第5.5話(おまけ) バクバク モリモリ</title>
-            <link>https://www.sunday-webry.com/episode/2550689798630805367</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 29 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798630805367-2eb04f64e529d9f528719d1d813b7a3c?1716804360" />
-        </item>
-        <item>
-            <title>第5話 いただきます</title>
-            <link>https://www.sunday-webry.com/episode/2550689798606891857</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 22 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798606891857-fb2b35ce2f0dba6f08deff06ffc041bc?1746069652" />
-        </item>
-        <item>
-            <title>第4.5話(おまけ) バカ舌</title>
-            <link>https://www.sunday-webry.com/episode/2550689798571021500</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 15 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798571021500-01aaaf8d07923b738005541b3a043adc?1715659539" />
-        </item>
-        <item>
-            <title>第4話 月曜日、月森守織と。</title>
-            <link>https://www.sunday-webry.com/episode/2550689798544188796</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 08 May 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798544188796-89f394dddf515bf28a271658936a41be?1746069652" />
-        </item>
-        <item>
-            <title>第3話 金曜日、金瀬 獏と。</title>
-            <link>https://www.sunday-webry.com/episode/2550689798447290243</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 24 Apr 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798447290243-b684bdc6e89ad4e054094a00ee8d01b6?1713860444" />
-        </item>
-        <item>
-            <title>第2話 「恋喰」or「人間」？</title>
-            <link>https://www.sunday-webry.com/episode/2550689798419838814</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 17 Apr 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798419838814-d451c142bcae1432e0f95033fb5361be?1714097225" />
-        </item>
-        <item>
-            <title>第1話 恋は、甘い 苦い 酸い 塩い、うまい</title>
-            <link>https://www.sunday-webry.com/episode/2550689798392633047</link>
-            <description>恋喰少女</description>
-            <pubDate>Wed, 10 Apr 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798392633047-b85408e0be00f597309d37d14607b61c?1715052459" />
-        </item>
-        <item>
-            <title>ぐるぐる目の渦原さん</title>
-            <link>https://www.sunday-webry.com/episode/2550689798673031818</link>
-            <description>ぐるぐる目の渦原さん</description>
-            <pubDate>Sat, 22 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798673031818-782582f388260a72155afa856b5acbd5?1718939691" />
-        </item>
-        <item>
-            <title>#10 励起</title>
-            <link>https://www.sunday-webry.com/episode/2550912965450593963</link>
-            <description>アンダーク 新しい透明な力のすべて</description>
-            <pubDate>Fri, 21 Mar 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912965450593963-9021bae1b313c8607d3bdeb1b427a159?1742524352" />
-        </item>
-        <item>
-            <title>#3 もつれあう</title>
-            <link>https://www.sunday-webry.com/episode/2550912964505046550</link>
-            <description>アンダーク 新しい透明な力のすべて</description>
-            <pubDate>Mon, 19 Aug 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964505046550-4e18fd331a761c82f571459781254f2d?1724058660" />
-        </item>
-        <item>
-            <title>#2 残されたもの</title>
-            <link>https://www.sunday-webry.com/episode/2550689798858126190</link>
-            <description>アンダーク 新しい透明な力のすべて</description>
-            <pubDate>Sat, 20 Jul 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798858126190-3710b4a5677a929712500fe1b17e7437?1721355951" />
-        </item>
-        <item>
-            <title>#1 暗黒超新星</title>
-            <link>https://www.sunday-webry.com/episode/2550689798749899266</link>
-            <description>アンダーク 新しい透明な力のすべて</description>
-            <pubDate>Tue, 25 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798749899266-26f713df728115ef0bb410c5b975eef6?1719281443" />
-        </item>
-        <item>
-            <title>山の神、海へ行く。</title>
-            <link>https://www.sunday-webry.com/episode/2550689798673031823</link>
-            <description>山の神、海へ行く。</description>
-            <pubDate>Sun, 23 Jun 2024 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550689798673031823-1189d758b6bfd4efd87dde26dfe49d9e?1718868353" />
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Tue, 03 Jun 2025 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 03:00:00 +0000</lastBuildDate>
         <item>
             <title>【コミックDAYS読み切り】KAGUYA姫</title>
             <link>https://comic-days.com/episode/14079602755311526257</link>
@@ -3107,48 +3107,6 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361180939929-cdb4ad468db16ab345e26d6278498f48?1683790846" />
         </item>
         <item>
-            <title>第８話　ワンちゃん②</title>
-            <link>https://comic-days.com/episode/4855956445035127329</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 18 Apr 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127329-f1cf5f3645403ea8651910bc6af3fce0?1681263401" />
-        </item>
-        <item>
-            <title>第７話　ワンちゃん①</title>
-            <link>https://comic-days.com/episode/4855956445035127324</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 11 Apr 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127324-9a02f2a7f42cebb350b554b47b9e7139?1680842846" />
-        </item>
-        <item>
-            <title>第６話　イングリッシュ③</title>
-            <link>https://comic-days.com/episode/4855956445035127319</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 28 Mar 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127319-9394f735dd78d2fe98664d56129b15d3?1679877737" />
-        </item>
-        <item>
-            <title>第５話　イングリッシュ②</title>
-            <link>https://comic-days.com/episode/4855956445035127312</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 14 Mar 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127312-66315a64bfd290fe10e5f87ea436b51e?1678086428" />
-        </item>
-        <item>
-            <title>第４話　イングリッシュ①</title>
-            <link>https://comic-days.com/episode/4855956445035127307</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 28 Feb 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127307-7ce36343a7a831d790273972f53765c0?1676877663" />
-        </item>
-        <item>
-            <title>第３話　筋トレ②</title>
-            <link>https://comic-days.com/episode/4855956445035127301</link>
-            <description>いけない！ルナ先生R</description>
-            <pubDate>Tue, 21 Feb 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4855956445035127301-3d23a9d37834827d320d93b529a4bf48?1676281741" />
-        </item>
-        <item>
             <title>第２話　筋トレ①</title>
             <link>https://comic-days.com/episode/4855956445035127295</link>
             <description>いけない！ルナ先生R</description>
@@ -3168,6 +3126,13 @@
             <description>女装男子はスカートを脱ぎたい</description>
             <pubDate>Wed, 20 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755111665932-2b2441756fa7456e13416b4736c3223b?1695116796" />
+        </item>
+        <item>
+            <title>[50発目 ②] こういうのがいい</title>
+            <link>https://tonarinoyj.jp/episode/2550912965757174530</link>
+            <description>こういうのがいい</description>
+            <pubDate>Fri, 06 Jun 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2550912965757174530-f4a75ffe1dd4e486b5b64a602ae20ddd?1749013485" />
         </item>
         <item>
             <title>[50発目 ①] こういうのがいい</title>

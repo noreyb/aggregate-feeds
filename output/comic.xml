@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Mon, 28 Jul 2025 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 03:00:00 +0000</lastBuildDate>
         <item>
             <title>アイドゥラブユー</title>
             <link>https://shonenjumpplus.com/episode/14079602755426459004</link>
@@ -48,6 +48,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755360143714-24b8bb5bf3eaee391be6b801d83e14e3?1698298566" />
         </item>
         <item>
+            <title>第23話　1001のバイオリン</title>
+            <link>https://kuragebunch.com/episode/2550912965771027069</link>
+            <description>推し殺す</description>
+            <pubDate>Tue, 01 Jul 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965771027069-53fd1d034b39edeb82bf600db637d91f?1750922172" />
+        </item>
+        <item>
             <title>第22話　I Go To Extremes</title>
             <link>https://kuragebunch.com/episode/2550912965634225611</link>
             <description>推し殺す</description>
@@ -60,13 +67,6 @@
             <description>推し殺す</description>
             <pubDate>Tue, 17 Jun 2025 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965783612570-53ed0444920260fa5f4ab0dc3327e00c?1749688985" />
-        </item>
-        <item>
-            <title>第21話　君は薔薇より美しい</title>
-            <link>https://kuragebunch.com/episode/2550912965350815391</link>
-            <description>推し殺す</description>
-            <pubDate>Tue, 06 May 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965350815391-49cc5ec339a0a136c89acfadf8d79308?1745985579" />
         </item>
         <item>
             <title>第20.5話　恥じらう乙女（おまけ）</title>
@@ -2729,18 +2729,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/14079602755228592465-9567ca36160026cc4254a90287eecabc?1695204070" />
         </item>
         <item>
+            <title>第141話 幼なじみと非日常</title>
+            <link>https://kuragebunch.com/episode/2550912965791236786</link>
+            <description>今日から始める幼なじみ</description>
+            <pubDate>Tue, 08 Jul 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965791236786-b54e94b4ad38feab8cde50b349f57a4a?1751531936" />
+        </item>
+        <item>
             <title>第140話 幼なじみとミュージアム</title>
             <link>https://kuragebunch.com/episode/2550912965791236778</link>
             <description>今日から始める幼なじみ</description>
             <pubDate>Tue, 24 Jun 2025 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965791236778-fab91efb6278cdeffa81b85e0e27314e?1750379508" />
-        </item>
-        <item>
-            <title>第139話 幼なじみと動画</title>
-            <link>https://kuragebunch.com/episode/2550912965791236772</link>
-            <description>今日から始める幼なじみ</description>
-            <pubDate>Tue, 17 Jun 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965791236772-95a3c49429605cff6bf0be24e4550647?1749688477" />
         </item>
         <item>
             <title>告知マンガ</title>
@@ -2813,6 +2813,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/3269754496410437550-7c35097e14563bc6bffefcb064ef8c0f?1641966742" />
         </item>
         <item>
+            <title>第62話 母の子守唄</title>
+            <link>https://kuragebunch.com/episode/2550912965634130853</link>
+            <description>女騎士とケモミミの子</description>
+            <pubDate>Tue, 10 Jun 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965634130853-0a48f50ab2dbe68cdafe4a81ca013186?1749194769" />
+        </item>
+        <item>
             <title>イラスト</title>
             <link>https://kuragebunch.com/episode/2550912965848671116</link>
             <description>女騎士とケモミミの子</description>
@@ -2825,13 +2832,6 @@
             <description>女騎士とケモミミの子</description>
             <pubDate>Tue, 27 May 2025 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965634130839-ad9ada4d216aec8b27ef7cb00fb9213f?1748313523" />
-        </item>
-        <item>
-            <title>第60話 大切なもの</title>
-            <link>https://kuragebunch.com/episode/2550912965574483792</link>
-            <description>女騎士とケモミミの子</description>
-            <pubDate>Tue, 06 May 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.kuragebunch.com/public/episode-thumbnail/2550912965574483792-658aefbaad066d8dafa25c186dd6618f?1746376326" />
         </item>
         <item>
             <title>番外編 怪我の功名</title>
@@ -3189,6 +3189,13 @@
             <description>悪樓の島</description>
             <pubDate>Tue, 19 Sep 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755154484066-a8a2740d084f889f8928c87f2d82339d?1694578740" />
+        </item>
+        <item>
+            <title>休載イラスト</title>
+            <link>https://comic-days.com/episode/2550912965951916705</link>
+            <description>いけない！ルナ先生R</description>
+            <pubDate>Tue, 29 Jul 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965951916705-a8ab1551a7e3117df1066b3e3ef6bf2e?1753440428" />
         </item>
         <item>
             <title>第９１話　サッカー③</title>

@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 12 Sep 2025 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0900</lastBuildDate>
         <item>
             <title>第６話　おもしろくなりそう</title>
             <link>https://comic-days.com/episode/2550912965502617285</link>
@@ -447,6 +447,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769428315-858d126d601f338c22753383c94ae884?1740557285" />
         </item>
         <item>
+            <title>第74話</title>
+            <link>https://youngchampion.jp/episodes/7394941c4bc95/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Wed, 17 Sep 2025 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1757578876906_kareiru_74.jpg" />
+        </item>
+        <item>
             <title>第73話</title>
             <link>https://youngchampion.jp/episodes/ac240897111dd/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -613,13 +620,6 @@
             <description />
             <pubDate>Thu, 17 Aug 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023081014170260501898CF03C2C04FA5EF5A44D5ADB4A6F-sm.png" />
-        </item>
-        <item>
-            <title>第49話</title>
-            <link>https://youngchampion.jp/episodes/e171b49d7c992/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/2/default/2023071411070679723279BEB3EA9500D93784A3500802A0E-sm.png" />
         </item>
         <item>
             <title>特別読切</title>

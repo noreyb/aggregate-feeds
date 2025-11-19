@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Fri, 14 Nov 2025 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0900</lastBuildDate>
         <item>
             <title>おまけ</title>
             <link>https://comic-days.com/episode/2551460909709221477</link>
@@ -25,13 +25,6 @@
             <description>ウリッコ</description>
             <pubDate>Wed, 01 Oct 2025 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965502617298-1582332820af9a838ab938b0043f49a0?1758701543" />
-        </item>
-        <item>
-            <title>第３話　やる理由</title>
-            <link>https://comic-days.com/episode/2550912965502617266</link>
-            <description>ウリッコ</description>
-            <pubDate>Wed, 09 Jul 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965502617266-78552a0a2c5240e67db34e0c464df96f?1751529979" />
         </item>
         <item>
             <title>第２話　深海の生き物</title>
@@ -160,18 +153,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965573980351-0fd0b531ad80fda6cdf6a2232ad37587?1745567291" />
         </item>
         <item>
+            <title>第１０話②　直</title>
+            <link>https://comic-days.com/episode/2550912965546773141</link>
+            <description>やちるさんはほめるとのびる</description>
+            <pubDate>Wed, 05 Nov 2025 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965546773141-1331f790928703e23034a50cd92205e8?1761633224" />
+        </item>
+        <item>
             <title>第１０話①　直</title>
             <link>https://comic-days.com/episode/2550912965546773131</link>
             <description>やちるさんはほめるとのびる</description>
             <pubDate>Wed, 22 Oct 2025 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965546773131-5bb8caed39c1b8938087ba735678fbf1?1760517204" />
-        </item>
-        <item>
-            <title>第９話②　はかりごと</title>
-            <link>https://comic-days.com/episode/2550912965546773124</link>
-            <description>やちるさんはほめるとのびる</description>
-            <pubDate>Wed, 08 Oct 2025 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912965546773124-438069d314821003b691ffdfa83e00dc?1759139717" />
         </item>
         <item>
             <title>第２話　柚子味２０cm/２</title>
@@ -538,6 +531,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567263769428315-858d126d601f338c22753383c94ae884?1740557285" />
         </item>
         <item>
+            <title>第76話</title>
+            <link>https://youngchampion.jp/episodes/f0d0bc26dbdfb/?utm_source=rss&amp;utm_medium=referral</link>
+            <description />
+            <pubDate>Wed, 19 Nov 2025 00:00:00 +0900</pubDate>
+            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/7099/1763102413165_kareiru_76.jpg" />
+        </item>
+        <item>
             <title>第75話</title>
             <link>https://youngchampion.jp/episodes/c4de04574c02a/?utm_source=rss&amp;utm_medium=referral</link>
             <description />
@@ -704,13 +704,6 @@
             <description />
             <pubDate>Wed, 18 Oct 2023 00:00:00 +0900</pubDate>
             <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023101311283921277C7D29A9188E3661B59BACD1A487455-sm.png" />
-        </item>
-        <item>
-            <title>第51話</title>
-            <link>https://youngchampion.jp/episodes/3f458fda0bd00/?utm_source=rss&amp;utm_medium=referral</link>
-            <description />
-            <pubDate>Wed, 20 Sep 2023 00:00:00 +0900</pubDate>
-            <enclosure length="0" type="image/jpg" url="https://cdn-public.comici.jp/articlevisual/21480/default/2023091510594576828E8171CC12CC9C6D44472AED191F36A-sm.png" />
         </item>
         <item>
             <title>特別読切</title>

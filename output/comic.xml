@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0900</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 15:00:00 +0000</lastBuildDate>
         <item>
             <title>第１４話　ズキズキグニャグニャ</title>
             <link>https://comic-days.com/episode/2550912965502617334</link>
@@ -398,11 +398,11 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-zenon.com/public/episode-thumbnail/2550912965574608740-28ec286e58c368c5b9b2f10c247f12e5?1744865759" />
         </item>
         <item>
-            <title>第38話</title>
-            <link>https://www.sunday-webry.com/episode/2551460910048211486</link>
+            <title>第39話</title>
+            <link>https://www.sunday-webry.com/episode/2551460910073626401</link>
             <description>おうまのありま先生</description>
-            <pubDate>Fri, 16 Jan 2026 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2551460910048211486-412d553d4569f5d075d75802689a42a1?1768536623" />
+            <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2551460910073626401-30321c59c5cbe8e0fed1f9c45f27cd26?1769134823" />
         </item>
         <item>
             <title>第3話</title>
@@ -839,18 +839,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/2550912964518226354-406ddf4c3863ca4b6fc41f695ac973fb?1725251992" />
         </item>
         <item>
+            <title>[第27話]都市伝説先輩</title>
+            <link>https://shonenjumpplus.com/episode/17107094913779622665</link>
+            <description>都市伝説先輩</description>
+            <pubDate>Fri, 23 Jan 2026 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107094913779622665-4de76ecef99b2213cea2e34030c67eed?1769060407" />
+        </item>
+        <item>
             <title>[第26話]都市伝説先輩</title>
             <link>https://shonenjumpplus.com/episode/17107094913049140750</link>
             <description>都市伝説先輩</description>
             <pubDate>Fri, 09 Jan 2026 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107094913049140750-f193f28f80240da7cf7de04e922a5ee5?1767764447" />
-        </item>
-        <item>
-            <title>[第25話]都市伝説先輩</title>
-            <link>https://shonenjumpplus.com/episode/17107094912913097159</link>
-            <description>都市伝説先輩</description>
-            <pubDate>Fri, 26 Dec 2025 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107094912913097159-8fe0e723f2d17b64fc844780ce163431?1766633631" />
         </item>
         <item>
             <title>[イラスト5]都市伝説先輩</title>

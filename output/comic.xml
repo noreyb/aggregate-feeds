@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Thu, 05 Feb 2026 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 03:00:00 +0000</lastBuildDate>
         <item>
             <title>[イラストギャラリー2]鶴子の恩返し</title>
             <link>https://shonenjumpplus.com/episode/17106371891889385920</link>
@@ -1917,18 +1917,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/4856001361214474046-19171a9dda1b35f65725da45336af689?1683607357" />
         </item>
         <item>
+            <title>[第62話] 聖母の断罪</title>
+            <link>https://tonarinoyj.jp/episode/2551460910018206844</link>
+            <description>聖母の断罪</description>
+            <pubDate>Fri, 06 Feb 2026 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2551460910018206844-b7aaa85e548dd012d5a60831e678130c?1768988027" />
+        </item>
+        <item>
             <title>[第61話] 聖母の断罪</title>
             <link>https://tonarinoyj.jp/episode/2551460910013124269</link>
             <description>聖母の断罪</description>
             <pubDate>Fri, 23 Jan 2026 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2551460910013124269-a3b38a1a370839e01650e50247b5d3a2?1767773102" />
-        </item>
-        <item>
-            <title>[第60話] 聖母の断罪</title>
-            <link>https://tonarinoyj.jp/episode/2551460909913136889</link>
-            <description>聖母の断罪</description>
-            <pubDate>Fri, 09 Jan 2026 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.tonarinoyj.jp/public/episode-thumbnail/2551460909913136889-b18d40a79f083e18c00a2a01814a8317?1770189400" />
         </item>
         <item>
             <title>[年賀イラスト] 聖母の断罪</title>
@@ -3644,41 +3644,6 @@
             <description>君と宇宙を歩くために</description>
             <pubDate>Mon, 23 Oct 2023 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/14079602755307480803-aa715913c4a66b352290b13f6ca07fcb?1703143912" />
-        </item>
-        <item>
-            <title>第３話　憧れの先輩！（３）</title>
-            <link>https://comic-days.com/episode/4856001361225662529</link>
-            <description>君と宇宙を歩くために</description>
-            <pubDate>Mon, 31 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361225662529-02159e315d940adad72070cd1285dd8e?1690335827" />
-        </item>
-        <item>
-            <title>第３話　憧れの先輩！（２）</title>
-            <link>https://comic-days.com/episode/4856001361225662524</link>
-            <description>君と宇宙を歩くために</description>
-            <pubDate>Mon, 17 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361225662524-68f0823e38ffc598aaf545903e59cfd2?1689225107" />
-        </item>
-        <item>
-            <title>第３話　憧れの先輩！（１）</title>
-            <link>https://comic-days.com/episode/4856001361225662519</link>
-            <description>君と宇宙を歩くために</description>
-            <pubDate>Mon, 10 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361225662519-b68dd4afaaca77e8b949096b2383da58?1688610953" />
-        </item>
-        <item>
-            <title>第２話　惑う星たちの帰り道（３）</title>
-            <link>https://comic-days.com/episode/4856001361225662514</link>
-            <description>君と宇宙を歩くために</description>
-            <pubDate>Mon, 03 Jul 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361225662514-22329b07f42e6cd2b9df596f309c38f2?1687918675" />
-        </item>
-        <item>
-            <title>第２話　惑う星たちの帰り道（２）</title>
-            <link>https://comic-days.com/episode/4856001361225662509</link>
-            <description>君と宇宙を歩くために</description>
-            <pubDate>Mon, 26 Jun 2023 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-days.com/public/episode-thumbnail/4856001361225662509-a3cc1ab6fbdfdfab879b02f7f954fc06?1687336730" />
         </item>
         <item>
             <title>第２話　惑う星たちの帰り道（１）</title>

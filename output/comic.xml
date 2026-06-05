@@ -4,7 +4,7 @@
         <title>agg-comic</title>
         <link>https://noreyb.github.io/agg-feed</link>
         <description>comic</description>
-        <lastBuildDate>Sun, 31 May 2026 15:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 15:00:00 +0000</lastBuildDate>
         <item>
             <title>[10Pショート読切] 夢に出てきたら好きになっちゃうじゃん</title>
             <link>https://tonarinoyj.jp/episode/2550912964638137292</link>
@@ -97,6 +97,13 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17106567255043893523-42f5662bb7f2d15753642aabe7fcad1f?1726130859" />
         </item>
         <item>
+            <title>[第43話]このクラスにギャルはいない</title>
+            <link>https://shonenjumpplus.com/episode/9253191254199645904</link>
+            <description>このクラスにギャルはいない</description>
+            <pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/9253191254199645904-50c4a68264eae4a3277b071f8a190095?1780545252" />
+        </item>
+        <item>
             <title>[第42話]このクラスにギャルはいない</title>
             <link>https://shonenjumpplus.com/episode/9253191253895587648</link>
             <description>このクラスにギャルはいない</description>
@@ -123,13 +130,6 @@
             <description>このクラスにギャルはいない</description>
             <pubDate>Fri, 10 Apr 2026 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107419589191807637-c8be0f2e5f2678be734f68678cf963e7?1775625831" />
-        </item>
-        <item>
-            <title>[第40話]このクラスにギャルはいない</title>
-            <link>https://shonenjumpplus.com/episode/17107094915254021536</link>
-            <description>このクラスにギャルはいない</description>
-            <pubDate>Fri, 27 Mar 2026 15:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-ak-img.shonenjumpplus.com/public/episode-thumbnail/17107094915254021536-282ef276fdc6fab8b8a95ac9eed7d094?1774422593" />
         </item>
         <item>
             <title>[第39.5話]このクラスにギャルはいない</title>
@@ -258,18 +258,18 @@
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/2550689798308133909-568d6fc5c977904b7f0d566ed287a0b8?1710737836" />
         </item>
         <item>
+            <title>第90話 まるで絵本な、藤沢さん</title>
+            <link>https://comic-action.com/episode/12207421983659469112</link>
+            <description>だらしないです 堀田先生！</description>
+            <pubDate>Fri, 22 May 2026 03:00:00 +0000</pubDate>
+            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/12207421983659469112-645485a22b32e6f912ebbf072fd3ba42?1779258048" />
+        </item>
+        <item>
             <title>第89話 鈍感すぎます、堀田先生</title>
             <link>https://comic-action.com/episode/12207421983607886852</link>
             <description>だらしないです 堀田先生！</description>
             <pubDate>Fri, 01 May 2026 03:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/12207421983607886852-5f6b5fe3bc1c597e6fe8ff722f74902d?1777353837" />
-        </item>
-        <item>
-            <title>第88話 見つけてくれる 誠くん</title>
-            <link>https://comic-action.com/episode/12207421983555577112</link>
-            <description>だらしないです 堀田先生！</description>
-            <pubDate>Fri, 17 Apr 2026 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/12207421983555577112-8438f1f9d5a09a2dfc265b17aedafeeb?1776220733" />
         </item>
         <item>
             <title>第3話 強引すぎます、堀田先生</title>
@@ -305,13 +305,6 @@
             <description>聞き耳</description>
             <pubDate>Sun, 15 Sep 2024 15:00:00 +0000</pubDate>
             <enclosure length="0" type="image/jpeg" url="https://cdn-img.www.sunday-webry.com/public/episode-thumbnail/2550912964619301273-46d2ee5f4e4fa9ed9bedee8363278d7b?1726195890" />
-        </item>
-        <item>
-            <title>第20話 スノーレイド炭鉱(後編）</title>
-            <link>https://comic-action.com/episode/12207421983555577061</link>
-            <description>氷核のメテオリア</description>
-            <pubDate>Fri, 17 Apr 2026 03:00:00 +0000</pubDate>
-            <enclosure length="0" type="image/jpeg" url="https://cdn-img.comic-action.com/public/episode-thumbnail/12207421983555577061-83d3f43a9611bb20e4ed37af1ab86183?1776238994" />
         </item>
         <item>
             <title>第14話 臆病な鷹(後編)</title>
